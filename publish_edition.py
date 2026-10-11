@@ -40,7 +40,10 @@ def run(cmd, **kw):
 
 
 def remote_size(path):
-    out = run(SSH + ["stat", "-c", "%s", path])
+    try:
+        out = run(SSH + ["stat", "-c", "%s", path])
+    except RuntimeError:
+        return None  # not there yet
     return int(out) if out.isdigit() else None
 
 

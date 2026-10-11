@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "edition": "morning",
+    "date": "2026-10-11",
+    "file": "cheryl-news-morning-2026-10-11.mp3",
+    "bytes": 15221805,
+    "duration_sec": 380,
+    "stories": [
+      "Erie, PA mass shooting: nine killed, suspected shooter found dead",
+      "Stolen car nearly hits the Melbourne Marathon course",
+      "Two major earthquakes in Panama, 7.7 and 6.6",
+      "Nobel Peace Prize awarded to Navi Pillay",
+      "Turkey bans under-15s from social media",
+      "DOJ opens antitrust probe into TV networks' pool-coverage boycott",
+      "US sanctions the International Criminal Court",
+      "Tax-exempt dyed diesel for farmers through year's end",
+      "Unhinged fun fact: 2,700 cats stolen in Ho Chi Minh City",
+      "Nadella says treat every AI model as compromised; White House requires AI incident reporting",
+      "AI boom squeezes hardware: Apple cuts iPhone 18 Pro orders, PC shipments down, Tencent leases chips",
+      "Atari 2600 turns 50",
+      "This week's releases: Dragon's Dogma 2 Dark Arisen, Valor Mortis, Castlevania: Belmont's Curse, Enshrouded 1.0, Ratatan",
+      "Homelab corner: Proxmox wired into Home Assistant",
+      "OpenAI shutting down its TTS API models in January 2027",
+      "Stocks, Datadog included",
+      "Lowell corner: two fire stations closed in staffing crunch",
+      "Draper breaks ground on Lowell's IMPACT Center microelectronics building"
+    ]
+  }
+]
