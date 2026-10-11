@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Cheryl's Newscast</title>
-    <link>http://hearth.ts.secwarz.com/</link>
+    <link>https://cheryl.secwarz.com/</link>
     <description>Three short news briefings a day — morning, midday, evening — read by Cheryl Tunt in her trademark deadpan. Private feed.</description>
     <language>en-us</language>
     <itunes:author>Topher</itunes:author>
@@ -12,7 +12,7 @@
     <itunes:category text="News"/>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://hearth.ts.secwarz.com/art/cover.jpg"/>
+    <itunes:image href="https://cheryl.secwarz.com/art/cover.jpg"/>
     <item>
       <title>Midday briefing — Sunday, October 11</title>
       <description>Stories in this edition:
@@ -32,8 +32,8 @@
 • Stocks: markets closed Sunday; Datadog at fresh 52-week high
 • Lowell corner: MAPS loses $214K federal grant for domestic violence program</description>
       <pubDate>Sun, 11 Oct 2026 11:30:00 -0400</pubDate>
-      <enclosure url="http://hearth.ts.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3" length="13887405" type="audio/mpeg"/>
-      <guid isPermaLink="true">http://hearth.ts.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3</guid>
+      <enclosure url="https://cheryl.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3" length="13887405" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://cheryl.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3</guid>
       <itunes:duration>347</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -59,8 +59,8 @@
 • Lowell corner: two fire stations closed in staffing crunch
 • Draper breaks ground on Lowell's IMPACT Center microelectronics building</description>
       <pubDate>Sun, 11 Oct 2026 04:30:00 -0400</pubDate>
-      <enclosure url="http://hearth.ts.secwarz.com/episodes/cheryl-news-morning-2026-10-11.mp3" length="15221805" type="audio/mpeg"/>
-      <guid isPermaLink="true">http://hearth.ts.secwarz.com/episodes/cheryl-news-morning-2026-10-11.mp3</guid>
+      <enclosure url="https://cheryl.secwarz.com/episodes/cheryl-news-morning-2026-10-11.mp3" length="15221805" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://cheryl.secwarz.com/episodes/cheryl-news-morning-2026-10-11.mp3</guid>
       <itunes:duration>380</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
     </item>
