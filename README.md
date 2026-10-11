@@ -3,7 +3,7 @@
 Private podcast feed for Topher's Cheryl dayparted news editions — morning,
 midday, and evening briefings read by Cheryl Tunt.
 
-- **Feed:** http://hearth.ts.secwarz.com/feed.xml
+- **Feed:** https://feeds.secwarz.com/feed.xml
 - **Host:** hearth (nginx vhost `cheryl-news`, default on :80,
   root `/var/www/cheryl-news`)
 

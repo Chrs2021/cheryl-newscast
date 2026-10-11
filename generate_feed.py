@@ -18,7 +18,7 @@ REPO = Path(__file__).resolve().parent
 EPISODES_JSON = REPO / "episodes.json"
 FEED_XML = REPO / "feed.xml"
 
-BASE_URL = "https://cheryl.secwarz.com"
+BASE_URL = "https://feeds.secwarz.com"
 ET = ZoneInfo("America/New_York")
 
 # Wall-clock air times per edition, in ET.
