@@ -49,5 +49,31 @@
       "Stocks: markets closed Sunday; Datadog at fresh 52-week high",
       "Lowell corner: MAPS loses $214K federal grant for domestic violence program"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-11",
+    "file": "cheryl-news-evening-2026-10-11.mp3",
+    "bytes": 16087725,
+    "duration_sec": 402,
+    "stories": [
+      "The energy ceasefire that lasted hours: Russia hit Ukrainian power plants after Trump's announcement",
+      "Saudi Arabia hit by second airport attack; Riyadh airport stays closed, death toll now 13",
+      "Iran sets supertanker ablaze in the Strait of Hormuz after US blockade strike",
+      "South Korea tests its first homegrown hypersonic weapon",
+      "Hurricane Isaias: 4 dead, flooding rain and tornado risk across Appalachians and mid-Atlantic",
+      "DOJ launches largest denaturalization effort in modern history",
+      "Massachusetts general election Nov 3: nine ballot questions, early voting starts in six days",
+      "Fun fact: Megacauda sungei, the 165-million-year-old mammal that invented multitasking",
+      "Waymo closes $5B loan, its first debt financing, to expand the robotaxi fleet",
+      "Google launches Project Suncatcher: AI data center hardware tested in orbit",
+      "Retro corner: THE 800XL brings the Atari 800XL back with keyboard, cartridges, and HDMI",
+      "Battlefield 6 joins Xbox Game Pass on October 13",
+      "Homelab corner: a retired desktop becomes a full Proxmox home server",
+      "Voice news: LuxTTS, open-source voice cloning at 150x real-time in under 1GB VRAM",
+      "Stocks: markets closed, so here's the week ahead \u2014 banks, CPI, TSMC, options expiration",
+      "Lowell corner: School Committee rates Superintendent Skinner proficient, approves contract talks",
+      "Lowell Asian American Film Festival runs Thursday and Friday at MCC"
+    ]
   }
 ]

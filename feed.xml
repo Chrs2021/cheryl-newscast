@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Sunday, October 11</title>
+      <description>Stories in this edition:
+• The energy ceasefire that lasted hours: Russia hit Ukrainian power plants after Trump's announcement
+• Saudi Arabia hit by second airport attack; Riyadh airport stays closed, death toll now 13
+• Iran sets supertanker ablaze in the Strait of Hormuz after US blockade strike
+• South Korea tests its first homegrown hypersonic weapon
+• Hurricane Isaias: 4 dead, flooding rain and tornado risk across Appalachians and mid-Atlantic
+• DOJ launches largest denaturalization effort in modern history
+• Massachusetts general election Nov 3: nine ballot questions, early voting starts in six days
+• Fun fact: Megacauda sungei, the 165-million-year-old mammal that invented multitasking
+• Waymo closes $5B loan, its first debt financing, to expand the robotaxi fleet
+• Google launches Project Suncatcher: AI data center hardware tested in orbit
+• Retro corner: THE 800XL brings the Atari 800XL back with keyboard, cartridges, and HDMI
+• Battlefield 6 joins Xbox Game Pass on October 13
+• Homelab corner: a retired desktop becomes a full Proxmox home server
+• Voice news: LuxTTS, open-source voice cloning at 150x real-time in under 1GB VRAM
+• Stocks: markets closed, so here's the week ahead — banks, CPI, TSMC, options expiration
+• Lowell corner: School Committee rates Superintendent Skinner proficient, approves contract talks
+• Lowell Asian American Film Festival runs Thursday and Friday at MCC</description>
+      <pubDate>Sun, 11 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-11.mp3" length="16087725" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-11.mp3</guid>
+      <itunes:duration>402</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Sunday, October 11</title>
       <description>Stories in this edition:
 • Trump claims Russia-Ukraine "energy ceasefire" effective immediately
