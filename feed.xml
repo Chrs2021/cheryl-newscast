@@ -14,6 +14,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="http://hearth.ts.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Sunday, October 11</title>
+      <description>Stories in this edition:
+• Trump claims Russia-Ukraine "energy ceasefire" effective immediately
+• Houthi missile attack kills 12 at Riyadh airport; Saudis close it
+• Estonia blames Russia for arson at defense supplier
+• Russia cagey about suspected plague case in Moscow
+• US-Zambia sign $2.49B health financing pact
+• Tehran tells Americans directly that "Trump's war has failed"
+• Trump to decide on livestreaming Nidal Hasan execution
+• Unhinged fun fact: 57 new deep-sea species off Argentina, including a Patrick Star lookalike
+• Ukrainian drone strikes cripple Yandex data centers
+• Nvidia discontinues the RTX 5090 to feed data centers
+• AI-assisted Daytona USA PC port dev: "Claude turns months into weeks"
+• New releases: Citadel Forged with Fire; Age of Empires IV Raiders of the North
+• Homelab corner: Let's Encrypt shortening certs to 64 days in 2027
+• Stocks: markets closed Sunday; Datadog at fresh 52-week high
+• Lowell corner: MAPS loses $214K federal grant for domestic violence program</description>
+      <pubDate>Sun, 11 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="http://hearth.ts.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3" length="13887405" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://hearth.ts.secwarz.com/episodes/cheryl-news-midday-2026-10-11.mp3</guid>
+      <itunes:duration>347</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Sunday, October 11</title>
       <description>Stories in this edition:
 • Erie, PA mass shooting: nine killed, suspected shooter found dead

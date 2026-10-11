@@ -25,5 +25,29 @@
       "Lowell corner: two fire stations closed in staffing crunch",
       "Draper breaks ground on Lowell's IMPACT Center microelectronics building"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-10-11",
+    "file": "cheryl-news-midday-2026-10-11.mp3",
+    "bytes": 13887405,
+    "duration_sec": 347,
+    "stories": [
+      "Trump claims Russia-Ukraine \"energy ceasefire\" effective immediately",
+      "Houthi missile attack kills 12 at Riyadh airport; Saudis close it",
+      "Estonia blames Russia for arson at defense supplier",
+      "Russia cagey about suspected plague case in Moscow",
+      "US-Zambia sign $2.49B health financing pact",
+      "Tehran tells Americans directly that \"Trump's war has failed\"",
+      "Trump to decide on livestreaming Nidal Hasan execution",
+      "Unhinged fun fact: 57 new deep-sea species off Argentina, including a Patrick Star lookalike",
+      "Ukrainian drone strikes cripple Yandex data centers",
+      "Nvidia discontinues the RTX 5090 to feed data centers",
+      "AI-assisted Daytona USA PC port dev: \"Claude turns months into weeks\"",
+      "New releases: Citadel Forged with Fire; Age of Empires IV Raiders of the North",
+      "Homelab corner: Let's Encrypt shortening certs to 64 days in 2027",
+      "Stocks: markets closed Sunday; Datadog at fresh 52-week high",
+      "Lowell corner: MAPS loses $214K federal grant for domestic violence program"
+    ]
   }
 ]
