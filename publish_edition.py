@@ -97,6 +97,10 @@ def main():
     # 3. Rebuild the feed and deploy it.
     generate_feed.main()
     run(SCP + [str(REPO / "feed.xml"), f"hearth:{REMOTE_DIR}/feed.xml"])
+    # Uploads land 660 under ember's umask; nginx serves as www-data.
+    run(SSH + ["chmod", "644",
+               f"{REMOTE_DIR}/feed.xml",
+               f"{REMOTE_EPISODES}/{mp3.name}"])
     print("deployed feed.xml")
 
     # 4. Commit the repo (push failure is non-fatal; hearth already serves it).
