@@ -14,6 +14,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Monday, October 12</title>
+      <description>Stories in this edition:
+• Lead: Riyadh airport closure extended — skies empty, airlines pulling flights through mid-October and beyond
+• World: Pope Leo admitted Tuesday for lung nodule surgery, audiences off through Oct 20
+• World: Djibouti migrant boat toll climbs to 139 dead, 84 missing
+• World: Ukraine energy ceasefire frays — strikes continued, Moscow unconfirmed, 60-day proposal rejected
+• US: Justice Department antitrust probe of five TV networks over White House pool boycott
+• US: Actor RJ Mitte dies at 34
+• US: Milwaukee hits record 87 degrees for October 12 under a heat dome
+• Fun fact: Animals may have appeared 200 million years earlier than scientists believed
+• Tech: Microsoft back above $4 trillion on its own AI chip push
+• Tech: Epic delays Disney shooter, retooled as an AI-first project
+• Gaming: No Man's Sky lands on iPhone and iPad October 28
+• Homelab: Microsoft ships WSL container engine GA — containers without Docker Desktop, no Compose yet
+• Stocks: Datadog, Microsoft, Apple, Meta, Amazon and the closing indices
+• Lowell: Lowell Celebrates Kerouac festival wraps its five-day run
+• Lowell: Highlands bazaar vendor spots, live music in Haverhill, Salisbury's funniest-person contest night three</description>
+      <pubDate>Mon, 12 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-12.mp3" length="16033005" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-12.mp3</guid>
+      <itunes:duration>401</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Monday, October 12</title>
       <description>Stories in this edition:
 • Lead: Saudi Arabia update — Houthi airport attacks cancel 1,000+ flights; Trump–Putin diesel deal draws bipartisan objection
