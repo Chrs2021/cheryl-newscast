@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Monday, October 12</title>
+      <description>Stories in this edition:
+• Lead: Saudi Arabia update — Houthi airport attacks cancel 1,000+ flights; Trump–Putin diesel deal draws bipartisan objection
+• Panama earthquake: 200+ aftershocks, state of emergency, $100M relief, US aid team
+• North Korea fires multiple ballistic missiles toward eastern waters
+• Nobel economics: Robert E. Hall and Michael Woodford, for stabilization models
+• Erie, PA mass shooting: grandfather kills 8 family and friends, then himself
+• Judge orders halt to taxpayer-funded ads promoting the president
+• Economic week: big bank earnings kick off, CPI lands Wednesday
+• Unhinged fun fact: the Macalester serial-sprinkler professor
+• Amazon–Decart $7B deal: new details — Anthropic walked away in August
+• Apple announcement Tuesday: new Apple TV 4K and HomePod mini
+• Valve's Deadlock passes Team Fortress 2's all-time Steam player peak
+• Retro: Taki Udon's $20 SuperStation memory card — yes, it plays DOOM
+• Cloudflare acquires the Deno team to expand self-hosted Workers
+• Voice corner: Suno Speech — spoken voice plus background music in one track
+• Stocks: DDOG $289.68 down 1.2%; MSFT +0.8%; AAPL +1%; META +3.9%; AMZN flat; NFLX +1.5%; GOOGL +1%
+• Local: Draper breaks ground on IMPACT microelectronics building in Lowell, 100+ jobs
+• Local: Highlands RMV Real ID rush; mail-in ballots out, early voting underway</description>
+      <pubDate>Mon, 12 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-12.mp3" length="15571245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-12.mp3</guid>
+      <itunes:duration>389</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Monday, October 12</title>
       <description>Stories in this edition:
 • Lead: overnight fire destroys Paris's Marché des Enfants-Rouges, the 1615 covered market
