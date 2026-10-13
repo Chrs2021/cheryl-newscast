@@ -152,5 +152,31 @@
       "Lowell: Lowell Celebrates Kerouac festival wraps its five-day run",
       "Lowell: Highlands bazaar vendor spots, live music in Haverhill, Salisbury's funniest-person contest night three"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-13",
+    "file": "cheryl-news-morning-2026-10-13.mp3",
+    "bytes": 16661805,
+    "duration_sec": 417,
+    "stories": [
+      "Lead: Breaking Bad actor RJ Mitte dies at 34; co-stars pay tribute, investigation ongoing",
+      "World: Trump's announced Ukraine energy ceasefire disputed as Russian strikes continue",
+      "World: El Nino Pacific monitoring zone hits record 29.7C in September, Copernicus says",
+      "World: Nobel economics prize to Robert Hall and Michael Woodford for stabilisation models",
+      "US: Rep. Ilhan Omar calls raid on her home political intimidation; Trump denies involvement",
+      "US: Trump rallies in Youngstown, Ohio ahead of tight midterm races",
+      "US: Federal judge orders halt to taxpayer-funded border ads after about $19M spent",
+      "Fun fact: Alaska hunter cited after Google AI summary gave the wrong snipe season; the trooper got the same wrong answer",
+      "Tech: Microsoft pushes its own Maia AI chips as hyperscalers build alternatives to Nvidia",
+      "Tech: White House restores UK pre-release access to OpenAI, Anthropic and Google models",
+      "Gaming: Valor Mortis and Planet Zoo 2 launch today among about 40 Xbox releases this week",
+      "Gaming retro: Portland Retro Gaming Expo wraps with 10+ new physical games and an Atari 2600 50th anniversary area",
+      "Homelab: XDA argues retired office PCs beat old enterprise servers for a Proxmox lab",
+      "Voice: Full local voice assistant runs on an ESP32-S3 chip, open source",
+      "Stocks: Dow +0.38% to 51,851, S&P -0.06%, Nasdaq -0.44%; Datadog -2.04% to $287.29, Nvidia -1.29%, Microsoft +1.14%, Apple +1.29%, Meta +3.38%",
+      "Local: Lowell Asian American Film Festival Thu-Fri at Middlesex Community College",
+      "Local: Greater Lowell Tech craft fair Oct 24 with 50+ local vendors"
+    ]
   }
 ]
