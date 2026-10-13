@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Tuesday, October 13</title>
+      <description>Stories in this edition:
+• Lead: Reuters — Saudi warning system went silent before Riyadh airport strikes that killed at least 18 and wounded 300+; alerts resumed Monday
+• World: Cyberattack heated fridges to 50°C at several hundred French supermarkets — spoiled food, fires, prosecutors investigating
+• World: EU caps Chinese hybrid car imports at 350,000/year from December; lithium prices fell nearly 12%
+• World: South Korean container ship completes first commercial Arctic round trip to Europe
+• US: 52 maternity wards have closed since the Medicaid bill was announced; AHA warns rural care at risk
+• US: Michigan consumer sentiment fell to 46.3, near a record low; 54% plan to cut major purchases
+• US: Federal judge blasted DOJ after ~430 trees were cut at DC's East Potomac golf course
+• Fun fact: 165-million-year-old platypus-like fossil mammal could already chew and suckle
+• Tech: Apple launches new Apple TV 4K and HomeView, its first smart home hub
+• Tech: Nvidia's China AI chip share fell to 34% as Huawei climbed to 28%; shipments down 44%
+• Gaming: 200GB+ Cartoon Network production-material leak surfaces days after the Skydance–Warner Bros. Discovery deal closed
+• Gaming: Atari 800XL returns as an HDMI console, $219.99 preorders, shipping April 2027
+• Homelab: Proxmox on a 2017 gaming laptop — VMs run fine, dedicated GPU passthrough is the fight
+• Stocks: Goldman beat, JPMorgan missed, chips still sliding, KOSPI down ~6%; Apple/Microsoft/Meta up midday, Nvidia steadier, Datadog down 1.31%
+• Local: Lowell early voting starts Saturday at the Senior Center — nine questions, four cards, eight pages
+• Local: Tyler Park's new cement corners vandalized with a carved name; 311 got a missed recycling pickup fixed by 7am</description>
+      <pubDate>Tue, 13 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-13.mp3" length="15009645" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-13.mp3</guid>
+      <itunes:duration>375</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Tuesday, October 13</title>
       <description>Stories in this edition:
 • Lead: Breaking Bad actor RJ Mitte dies at 34; co-stars pay tribute, investigation ongoing
