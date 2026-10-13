@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Tuesday, October 13</title>
+      <description>Stories in this edition:
+• Lead: Two cargo ships hit by drones off Bulgaria's Black Sea coast — one sank, 11 sailors missing, second crew rescued
+• World: Global dementia study estimates 11.4 million new cases in 2023, projected to more than double by 2050
+• World: World Health Summit wraps in Berlin; Wellcome monitor says trust in science has fallen since the pandemic
+• World: Satellite mapping finds Alpine peatlands smaller and more degraded than official maps show
+• US: Kimberly Guilfoyle out as ambassador to Greece after White House asked her to resign; she disputes misconduct reports
+• US: Gallup finds a record-low 31% of Americans call college very important, down from 70% in 2013
+• US: A Susan Collins PAC ran an ad opposing a Maine Democrat in Portland, Oregon instead of Portland, Maine
+• Fun fact: A biologist spotted an ultra-rare albino caribou in Alaska — roughly one in 30,000 births
+• Tech: Scaleway opens an Nvidia-powered AI site in Copenhagen and announces an AMD supercomputer in Sweden
+• Tech: Character.AI files for bankruptcy, agrees to sell some assets to Disney for $20 million
+• Gaming: Castlevania: Belmont's Curse lands Thursday — Trevor Belmont and his daughter Rose in burning 1499 Paris
+• Gaming: THEC64 and Spectrum handhelds launch this month with 25 built-in games each at $129.99
+• Homelab: One builder replaced 11 SaaS apps with self-hosted ones and published the real RAM costs
+• Stocks: Indexes close slightly lower (Dow -0.35%, S&amp;P -0.02%, Nasdaq -0.15%); banks lower, memory chips down a second day
+• Stocks: Meta +2.63%, Nvidia +0.97%, Microsoft +0.43%, Apple +0.09%
+• Stocks: Datadog -1.37% to $283.34; inflation data lands Wednesday
+• Local: Greater Lowell YMCA Fall 2 registration opens Oct 19 for members, Oct 26 for non-members
+• Local: Night 3 of Merrimack Valley's Funniest Person Contest is Saturday Oct 17 at the Hungry Traveler in Salisbury</description>
+      <pubDate>Tue, 13 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-13.mp3" length="15649965" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-13.mp3</guid>
+      <itunes:duration>391</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Tuesday, October 13</title>
       <description>Stories in this edition:
 • Lead: Reuters — Saudi warning system went silent before Riyadh airport strikes that killed at least 18 and wounded 300+; alerts resumed Monday
