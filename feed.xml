@@ -14,6 +14,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Wednesday, October 14</title>
+      <description>Stories in this edition:
+• Lead: Wall Street's worst broad selloff since July on hot 3.7% inflation — Nasdaq -1.88%, S&amp;P -1.11%, Dow -0.09%, AI stocks led the fall
+• World: Houthi strikes on Riyadh airport and Aramco Dhahran fire; airport closed through Oct 17, Trump warns Houthis, tolls still disputed
+• World: Forest Declaration Assessment — 7M+ hectares lost in 2025, down 15% but off track for 2030, Congo Basin surge
+• World: Belgium public-sector strikes over budget cuts; PM's State of the Union cancelled, budget deal may slip to late Oct/early Nov
+• US: Healthy corals restore bleached same-genet neighbors in 5 days via fused tissue, Stanford study
+• US: Microplastics are chemically active in water and can generate radicals, new Nature research
+• US: Trump rally in Bullhead City, Arizona, traveling with Rep. Eli Crane ahead of Nov 3 midterms
+• Fun fact: 150M-year-old crow-sized Jurassic bird in China had undersized wings and likely ran like a roadrunner
+• Tech: Microsoft Maia 300 AI inference chip — company claims 40% more tokens per megawatt, deployments from 2027
+• Tech: Iridium satellite service built into Altair cellular IoT chipsets for trackers, meters and wearables beyond cell coverage
+• Gaming: Castlevania Belmont's Curse launches midnight ET; Konami lists 3 known issues incl. PC launch failure, patch in works; 1986 original free on phones through Oct 24
+• Homelab: Proxmox power measurement — removing an old GPU dropped idle package power from ~11W to under 5W
+• Stocks close: Dow 51,621 -0.09%, S&amp;P 7,719 -1.11%, Nasdaq 26,693 -1.88%; Apple +0.50% $342.96, Microsoft -1.80% $533.69, Nvidia -3.16% $221.30, Meta -3.27% $737.54, Datadog -4.94% $269.33
+• Local: Keys on a lanyard left on a bench at Tyler Park, corner of Westford St, Highlands group post today
+• Local: Highlands group post seeking Lowell women motorcycle riders to link up, Harley included</description>
+      <pubDate>Wed, 14 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-14.mp3" length="15802605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-14.mp3</guid>
+      <itunes:duration>395</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Wednesday, October 14</title>
       <description>Stories in this edition:
 • Lead: Russian barrage hits Kyiv and Kharkiv overnight
