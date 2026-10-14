@@ -230,5 +230,31 @@
       "Local: Greater Lowell YMCA Fall 2 registration opens Oct 19 for members, Oct 26 for non-members",
       "Local: Night 3 of Merrimack Valley's Funniest Person Contest is Saturday Oct 17 at the Hungry Traveler in Salisbury"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-14",
+    "file": "cheryl-news-morning-2026-10-14.mp3",
+    "bytes": 18913965,
+    "duration_sec": 473,
+    "stories": [
+      "Lead: Six Flags closes nine similar coasters after Goliath death in Georgia; SeaWorld also closes Mako, cause not yet announced",
+      "World: Drone strikes sink cargo ship off Bulgaria, 11 sailors missing; second ship's crew rescued to Varna",
+      "World: France hunts supermarket fridge hackers \u2014 hundreds of stores hit, no claim of responsibility, outdated Danfoss firmware blamed",
+      "World: Iceland considers a permanent commercial whaling ban; 80 fin whales killed this year",
+      "US: Judge Kelly extends White House access for CNN, MS NOW and Politico reporters in preliminary injunction",
+      "US: Bank of America fined about $1.2B over anti-money-laundering and sanctions compliance failures, per regulators",
+      "US: US oil and gas methane emissions stayed flat despite higher production, Johns Hopkins research finds",
+      "Fun fact: Jonathan the tortoise, 194, has 287 unique DNA-repair gene variants and youthful gene controls",
+      "Tech: Intel unveils D-series AI inference GPU, warns AI hardware shortages could last 2-3 more years",
+      "Tech: Nvidia's China data-center AI chip share falls to 34% as Huawei climbs to 28%, IDC via Reuters",
+      "Voice: Fish Audio releases Drama 3, a free open-weights TTS model topping its reported pronunciation tests",
+      "Gaming retro: Nintendo Switch Online adds Monster Rancher Advance, Metal Slug Advance and Kururin Paradise to GBA library",
+      "Gaming: Warhammer 40,000: Boltgun 2 out today; Castlevania: Belmont's Curse lands tomorrow",
+      "Homelab: A retired desktop becomes a Proxmox server with 40TB via OpenMediaVault \u2014 shared dependencies remain",
+      "Stocks: Dow -0.35% to 51,670, S&P -0.02% to 7,805, Nasdaq -0.15% to 27,204; Meta +2.63%, Nvidia +0.97%, Microsoft +0.43%, Apple +0.09% to $341.27, Datadog -1.38% to $283.34",
+      "Local: Lowell named first US city in UNESCO Global Network of Learning Cities; Oct 10 proclaimed Lowell City of Learning Day",
+      "Local: Greater Lowell Y Fall 2 registration opens Oct 19 for members, Oct 26 for non-members (via Lowell Highlands group)"
+    ]
   }
 ]
