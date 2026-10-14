@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Wednesday, October 14</title>
+      <description>Stories in this edition:
+• Lead: Russian barrage hits Kyiv and Kharkiv overnight
+• World: Pope Leo undergoes surgery
+• World: Ethiopia and Eritrea border tensions rise
+• World: Formula 1 announces a Rwanda Grand Prix
+• US: September CPI comes in hot at 3.7%; rate-hike odds shift
+• US: Anthropic asks a federal appeals court to rehear its case
+• US: No Kings rallies planned across the country for Saturday
+• Fun fact: Scientists describe a 45-million-year-old crocodile relative
+• Tech: ASML posts record results on AI chip demand
+• Tech: Wiz researchers find flaws in LiteLLM AI gateway
+• Gaming: Castlevania: Belmont's Curse unlocks at midnight tonight
+• Gaming: New England Classic Gaming Group meetup rescheduled
+• Homelab: One self-hoster replaced 11 subscription apps with homelab versions on Proxmox
+• Stocks at midday: Dow, Apple, Microsoft, Nvidia, Meta, Datadog and Bank of America intraday moves
+• Local: Highlands Neighborhood Group declares an orange-cat porch situation in Lowell
+• Local: Tyler Park's new cement corners admired, then carved into</description>
+      <pubDate>Wed, 14 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-14.mp3" length="16513005" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-14.mp3</guid>
+      <itunes:duration>413</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Wednesday, October 14</title>
       <description>Stories in this edition:
 • Lead: Six Flags closes nine similar coasters after Goliath death in Georgia; SeaWorld also closes Mako, cause not yet announced
