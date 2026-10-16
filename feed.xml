@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Friday, October 16</title>
+      <description>Stories in this edition:
+• Lead update: Bend, Oregon — family names bystander as Kaylub Giamanco, 36, carpenter with two daughters at the school; Trump praised him; memorial growing; police still investigating motive and how the teen got the long gun
+• World: Kenya confirms a third Ebola case, a 65-year-old close relative in quarantine since Oct 6; ministry says risk low, no community transmission, 127 of 130 contacts traced; Congo outbreak over 9,000 cases
+• World: WHO says lead exposure causes more than 3.5 million deaths a year, urges faster action ahead of Lead Poisoning Prevention Week
+• World: India and the US announce a 10-year defence framework; first tranche of trade deal said to be finalised
+• US: Georgia shatters midterm early-voting record — over 188,000 ballots on day one, 53,000+ above 2022; voting runs through Oct 30
+• US: Justice Department sues California to block counting mail ballots from roughly 20,000 people the government says are likely noncitizens
+• US: Fed Chair Warsh declines guidance in Bangkok; traders push odds of an October rate hold above 85%
+• Fun fact: A new giant isopod species, over a foot long, was identified from a specimen mislabelled in a German museum for 40 years
+• Tech: Amazon launches Bee listening devices — $75 Frontier bracelet and $100 Eclipse — turning all-day conversations into to-dos; Amazon says it does not store audio
+• Tech: Open Source AI Week kicks off in the Bay Area with 60+ community events over 10 days
+• Gaming: Analogue unveils Super Nt+ and Mega Sg+ FPGA consoles, 1080p, claiming 100% SNES/Genesis library support; preorders Oct 19 at $220
+• Homelab: Self-hosted patch cluster — Duplicati, Radicale, Vaultwarden and FreshRSS all shipped security point releases within days
+• Stocks: Close — Nasdaq down 2.1% Friday and about 4.5% for the week, S&amp;P 500 down about 1.2%, Dow down 0.3% but up 0.7% weekly
+• Stocks: Nvidia closes around $214, down about 1.4%; Datadog around $247, down about 7.2%; CoreWeave down almost 12% Friday, about a quarter lost this week
+• Local: MassDOT Rourke Bridge update shared in Highlands group — Pawtucket Boulevard median work from next week, intermittent weekday lane closures through year-end
+• Local: Baystate Marathon Sunday brings 3,000+ runners to Lowell; bridge closures Sunday morning, use Bridge Street or Tyngsboro to cross the river</description>
+      <pubDate>Fri, 16 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-16.mp3" length="14981805" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-16.mp3</guid>
+      <itunes:duration>374</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Friday, October 16</title>
       <description>Stories in this edition:
 • Lead update: Bend, Oregon — Silver Rail Elementary named; victims ages 5, 8, 11 and teacher 54, two still critical; dispatch audio suggests bystander was a student's dad; vigil held, classes cancelled
