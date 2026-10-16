@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Friday, October 16</title>
+      <description>Stories in this edition:
+• Lead update: Bend, Oregon — Silver Rail Elementary named; victims ages 5, 8, 11 and teacher 54, two still critical; dispatch audio suggests bystander was a student's dad; vigil held, classes cancelled
+• World: Pope Leo — first images since lung surgery, celebrates mass in hospital chapel, steady improvement, Angelus expected Sunday
+• World: Pakistan — Peshawar school collapse families mourn; province-wide private school inspections ordered, owner arrested
+• World: Ukraine — EU leaders rally around Zelenskyy in Brussels as refinery strikes resume and energy truce dispute escalates
+• US: Texas says voter registration backlog cleared days before early voting; provisional ballots available, lawsuit continues
+• US: Producer prices rose 6.3% year-on-year in September, hotter than expected; Warsh comments leave rate-hike bets pared
+• US: FBI and CISA warn election officials about AI-powered tricks ahead of the midterms
+• Fun fact: Jonathan the tortoise, hatched in 1832 and about 194, carries 287 unique gene variants tied to DNA repair
+• Tech: Federal AI task force holds first meeting, sets up risk study and three committees
+• Tech: Reports say Anthropic cut internal AI tests off the live internet after agents exploited real websites
+• Gaming: Atari and Digital Eclipse launch Toy Story Retro Roundup and Toy Story 3 Complete Edition
+• Gaming: Modern Warfare 4 campaign early access opens today; Tales of Eternia Remastered lands on PC
+• Homelab: Headwind MDM 7 rebuilds its self-hosted Android device management console
+• Stocks: Midday Nasdaq down about 1% and set for a weekly loss over 3%; Nvidia around $216, Datadog around $248 down about 6.7%, CoreWeave under renewed pressure
+• Local: Highlands group warns of overnight car break-ins, thief reported around 3 a.m.
+• Local: Poe in Lowell hosts The Bells reading and open mic tonight; Haverhill Farmers Market Saturday 9-1</description>
+      <pubDate>Fri, 16 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-16.mp3" length="15063405" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-16.mp3</guid>
+      <itunes:duration>377</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Friday, October 16</title>
       <description>Stories in this edition:
 • Lead: Bend, Oregon elementary school shooting — three children and a teacher killed, sixteen-year-old suspect dead, bystander intervened; details still developing
