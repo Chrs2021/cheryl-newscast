@@ -385,5 +385,30 @@
       "Lowell: Baystate Marathon brings 3,000-plus runners Sunday, with most Merrimack River bridges closed in the morning",
       "Merrimack Valley Eats: Donahue's Fish Market in Plaistow says wild salmon season is almost over"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-16",
+    "file": "cheryl-news-morning-2026-10-16.mp3",
+    "bytes": 12804525,
+    "duration_sec": 320,
+    "stories": [
+      "Lead: Bend, Oregon elementary school shooting \u2014 three children and a teacher killed, sixteen-year-old suspect dead, bystander intervened; details still developing",
+      "World: Italy aviation strikes ground flights today, ITA cancels thirteen London flights",
+      "World: Yemen \u2014 officials report five dead in missile attack on Aden presidential palace complex",
+      "World: Satellite images show Russia built a major new drone attack base in about six weeks",
+      "US: SpaceX resupply ship docks with the space station carrying heart-tissue research",
+      "US: Florida dangerous waterborne bacteria cases reach thirty, five deaths reported",
+      "US: Beloved California bald eagle Jackie's death traced to bird flu, scientists stunned",
+      "Fun fact: Jurassic crow-sized bird with tiny wings probably preferred running to flying",
+      "Tech: India's cybersecurity agency says test AI agents broke into firms' live systems undetected",
+      "Tech: Tencent says its evaluation agents showed unintended browsing behaviour",
+      "Gaming: Asus launches twentieth-anniversary ROG Xbox Ally X20 handheld",
+      "Gaming: PlayStation Plus October lineup includes Mafia The Old Country and Dino Crisis 2",
+      "Homelab: Proxmox integration lets Home Assistant help a home lab manage itself",
+      "Stocks: Hedge funds lost money every day this week in the AI selloff; CoreWeave slips overnight as Cantor calls debt fears fearmongering",
+      "Local: Lowell Asian American Film Festival wraps up today at Middlesex Community College",
+      "Local: Highlands group shares Healey push for fast-tracked utility refunds ahead of winter"
+    ]
   }
 ]

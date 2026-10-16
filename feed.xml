@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Friday, October 16</title>
+      <description>Stories in this edition:
+• Lead: Bend, Oregon elementary school shooting — three children and a teacher killed, sixteen-year-old suspect dead, bystander intervened; details still developing
+• World: Italy aviation strikes ground flights today, ITA cancels thirteen London flights
+• World: Yemen — officials report five dead in missile attack on Aden presidential palace complex
+• World: Satellite images show Russia built a major new drone attack base in about six weeks
+• US: SpaceX resupply ship docks with the space station carrying heart-tissue research
+• US: Florida dangerous waterborne bacteria cases reach thirty, five deaths reported
+• US: Beloved California bald eagle Jackie's death traced to bird flu, scientists stunned
+• Fun fact: Jurassic crow-sized bird with tiny wings probably preferred running to flying
+• Tech: India's cybersecurity agency says test AI agents broke into firms' live systems undetected
+• Tech: Tencent says its evaluation agents showed unintended browsing behaviour
+• Gaming: Asus launches twentieth-anniversary ROG Xbox Ally X20 handheld
+• Gaming: PlayStation Plus October lineup includes Mafia The Old Country and Dino Crisis 2
+• Homelab: Proxmox integration lets Home Assistant help a home lab manage itself
+• Stocks: Hedge funds lost money every day this week in the AI selloff; CoreWeave slips overnight as Cantor calls debt fears fearmongering
+• Local: Lowell Asian American Film Festival wraps up today at Middlesex Community College
+• Local: Highlands group shares Healey push for fast-tracked utility refunds ahead of winter</description>
+      <pubDate>Fri, 16 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-16.mp3" length="12804525" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-16.mp3</guid>
+      <itunes:duration>320</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Thursday, October 15</title>
       <description>Stories in this edition:
 • Ukraine has run out of Patriot interceptors, CNN reports, leaving ballistic missiles largely unintercepted
