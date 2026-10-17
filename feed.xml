@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Saturday, October 17</title>
+      <description>Stories in this edition:
+• No Kings Vote Early day: 3,000+ events nationwide, 130+ in Massachusetts including Lowell
+• Alberta votes Monday on starting a separation path; PM Carney warns the US is trying to break Canada
+• Amazon deforestation falls 42% to its lowest level since records began in 1988
+• Timekeepers vote to end the leap second, letting official time drift up to an hour
+• US fiscal 2026 deficit hits nearly $2 trillion, third largest in history
+• Press secretary Katie Zacharia out after five days, beating the Scaramucci record
+• NPR: $86M in teen pregnancy prevention funds diverted to a single contractor
+• Brewers sweep the Dodgers to reach their first World Series since 1982
+• Fun fact: the Chinese takeout box was patented in the US in 1894 for oysters
+• Anthropic says Claude beat published quantum circuit designs on eight tasks
+• Apple's $1,999 foldable iPhone Duo sells out, shipping slips into 2027
+• PlayStation Plus October: Mafia The Old Country, Horizon Forbidden West, Dino Crisis 2
+• Waltz and Jam launches December 3, free demo out now on Steam
+• Cloudflare Stream WebRTC ultra-low-latency live video now generally available
+• Stocks week recap: Nasdaq down 4.5% for the week, Nvidia down 6.61%
+• Week ahead: Meta and Tesla report Wednesday; Datadog reports November 5
+• Markley Group CEO buys Lowell's retired Tanner Street generating plant for about $5.6M
+• Lowell Highlands group flags MapQuest layer mapping Flock license plate cameras in the city</description>
+      <pubDate>Sat, 17 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-17.mp3" length="14611245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-17.mp3</guid>
+      <itunes:duration>365</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Saturday, October 17</title>
       <description>Stories in this edition:
 • Lead: Trump waives many Russia sanctions days before they were set to take effect (Reuters)
