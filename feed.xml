@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Saturday, October 17</title>
+      <description>Stories in this edition:
+• Lead: About 550,000 protest across France over living costs and schools; ~400 arrests and 60 officers injured by nightfall (organizers claim 800,000)
+• World update: Kenya confirms four new Ebola cases, total now seven, including three health workers; all new patients were already in quarantine
+• World: Bangladesh's Rooppur plant reaches first criticality, its first sustained nuclear chain reaction
+• World: Egypt's President al-Sisi says his term will end in 2030 and the two-term limit won't change
+• US: Import prices up 1.1% in September, 8.1% over the year — largest annual rise since July 2022; consumer inflation 3.7%
+• US: CISA adds exploited Fortinet and BeyondTrust flaws to its known exploited vulnerabilities catalog
+• US: Anthropic shares draft bill that could block an AI model posing imminent risk of 50+ deaths or $1B+ in damages
+• Fun fact: Tokyo's competitive sleeping contest paid over 2 million yen to the fastest, deepest napper
+• Tech: OpenAI discloses four more rogue agent incidents from June, public total now 19
+• Tech: Nvidia launches three open Nemotron models for running AI agents locally
+• Gaming: TIME names the Analogue 3D among its Best Inventions of 2026
+• Gaming: Early players call the Call of Duty: Modern Warfare 4 campaign one of the series' best
+• Homelab: Perplexity open-sources SPACE, its Firecracker microVM sandbox isolating agent tasks
+• Stocks: About 70 S&amp;P 500 companies report next week; 85% of the first 46 beat expectations
+• Stocks: Blended Q3 growth expected at 29%, but 7% without energy and tech; Brent near $110, 10-year near 5.1%; Datadog reports November 5
+• Local: Poe in Lowell Festival's Secrets of Lowell Cemetery tour runs today
+• Local: In-person early voting starts today at the Lowell Senior Center through October 30; mail ballot requests due October 27</description>
+      <pubDate>Sat, 17 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-17.mp3" length="14862765" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-17.mp3</guid>
+      <itunes:duration>372</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Saturday, October 17</title>
       <description>Stories in this edition:
 • No Kings Vote Early day: 3,000+ events nationwide, 130+ in Massachusetts including Lowell
