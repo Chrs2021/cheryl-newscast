@@ -540,5 +540,31 @@
       "Local: Poe in Lowell Festival's Secrets of Lowell Cemetery tour runs today",
       "Local: In-person early voting starts today at the Lowell Senior Center through October 30; mail ballot requests due October 27"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-18",
+    "file": "cheryl-news-morning-2026-10-18.mp3",
+    "bytes": 15391725,
+    "duration_sec": 385,
+    "stories": [
+      "Lead: Rubio says Trump will take up to 60 days to weigh the Russia sanctions and tariffs he waived Friday; Zelenskiy warned the waiver emboldens Moscow (Reuters)",
+      "World: Zambia launches emergency oral cholera vaccination in Lusaka \u2014 966 cases, 25 deaths, 500,000+ doses in the first phase",
+      "World: Sri Lanka's national grid tripped Saturday, islandwide blackout for hours; transmission now fully restored, cause still under investigation",
+      "World: Poland signs tourist fee overhaul \u2014 towns may add local overnight charges from January 2027, Krakow expected to revive its fee",
+      "US: Measles hits 4,410 US cases, on track for the worst year since 1991; CDC sends a disease detective to Pennsylvania's 1,260-case outbreak",
+      "US: Norte Fire holds at 570 acres, 25% contained Saturday evening; most evacuation orders lifted, 6 homes damaged or destroyed",
+      "US: College football chaos \u2014 five of the top seven teams lost on the same day for the first time; Tennessee beat Alabama 26-10",
+      "Unhinged fun fact: A giant fungus in Yunnan, Dianjunus rex, is 50cm tall, its own new genus and family dating to just after the dinosaurs",
+      "Tech: Replit makes OpenAI its default model provider over Anthropic; Claude stays available",
+      "Tech: White House reviewed its frontier AI model vetting framework with OpenAI, Anthropic, Microsoft, Meta and Nvidia \u2014 and won't publish it",
+      "Gaming: ScummVM turns 25 \u2014 the Never-slop release adds 194 classic games and 12 new engines",
+      "Gaming: GTA 6 squeaks into Game Awards 2026 eligibility by exactly one day ahead of its November 19 launch",
+      "Homelab: Mozilla launches Firefox Enterprise with a self-hosted browser management console",
+      "Stocks: Week scorecard \u2014 S&P 500 -1.09% Friday, about -2% for the week at 7,659; Nasdaq -4.48% for the week; Dow +0.67% for the week",
+      "Stocks: Chip index -11.41% for the week; WTI over $100, Brent near $110; Datadog closed $247.11, -7.19% Friday, earnings November 5",
+      "Local: Baystate Marathon runs through Lowell this morning, 8am start at the Tsongas/Lowell High area, nearby streets closed",
+      "Local: Gov. Healey presses Eversource, National Grid and Unitil to fast-track transmission refunds \u2014 about $1.5B owed across New England (via Lowell Highlands group)"
+    ]
   }
 ]
