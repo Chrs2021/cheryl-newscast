@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Sunday, October 18</title>
+      <description>Stories in this edition:
+• Lead update: Ukraine launches one of its biggest drone attacks on Russia this year; Zelensky says US intel sharing restored after 3-day blackout
+• World: Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery
+• World: Brazil Amazon deforestation falls to lowest level since records began in 1988
+• World: Dublin man found with serious injuries dies; Gardai appeal for witnesses
+• US: Colorado confirms first child flu death of the season as hospitalizations rise early
+• US: Instructor shot at Cuyahoga Falls Natatorium Sunday morning; police say domestic-related
+• US: Jury awards former MIT scientist $6M in defamation case
+• Unhinged fun fact: 99-million-year-old insect nicknamed Noo Noo had a flexible drinking-straw mouth
+• Tech: OpenCode breach may have exposed stored provider API keys; rotate keys urged
+• Tech: DeepSeek Flash update reported beating Claude on 10 of 11 coding benchmarks
+• Gaming: Analogue Super Nt+ and Mega Sg+ preorders open Monday at $219.99, shipping December
+• Gaming: Sega pulls Total War Shogun 2 Complete Edition and reinstates the 2011 original
+• Homelab: ZimaOS 1.8 launches built-in self-hosted ZimaOS Photos library
+• Stocks: Datadog down 15.74% on the week ahead of Nov 4 earnings; week-ahead housing and oil data
+• Local: Poe in Lowell festival closing day — Black Cat Brunch, Macabre Matinee, farewell poetry night
+• Local: Lowell Highlands group shares MapQuest layer mapping ALPR / Flock cameras around Lowell</description>
+      <pubDate>Sun, 18 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-18.mp3" length="13313325" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-18.mp3</guid>
+      <itunes:duration>333</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Sunday, October 18</title>
       <description>Stories in this edition:
 • Lead: Rubio says Trump will take up to 60 days to weigh the Russia sanctions and tariffs he waived Friday; Zelenskiy warned the waiver emboldens Moscow (Reuters)

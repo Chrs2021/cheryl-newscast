@@ -566,5 +566,30 @@
       "Local: Baystate Marathon runs through Lowell this morning, 8am start at the Tsongas/Lowell High area, nearby streets closed",
       "Local: Gov. Healey presses Eversource, National Grid and Unitil to fast-track transmission refunds \u2014 about $1.5B owed across New England (via Lowell Highlands group)"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-10-18",
+    "file": "cheryl-news-midday-2026-10-18.mp3",
+    "bytes": 13313325,
+    "duration_sec": 333,
+    "stories": [
+      "Lead update: Ukraine launches one of its biggest drone attacks on Russia this year; Zelensky says US intel sharing restored after 3-day blackout",
+      "World: Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery",
+      "World: Brazil Amazon deforestation falls to lowest level since records began in 1988",
+      "World: Dublin man found with serious injuries dies; Gardai appeal for witnesses",
+      "US: Colorado confirms first child flu death of the season as hospitalizations rise early",
+      "US: Instructor shot at Cuyahoga Falls Natatorium Sunday morning; police say domestic-related",
+      "US: Jury awards former MIT scientist $6M in defamation case",
+      "Unhinged fun fact: 99-million-year-old insect nicknamed Noo Noo had a flexible drinking-straw mouth",
+      "Tech: OpenCode breach may have exposed stored provider API keys; rotate keys urged",
+      "Tech: DeepSeek Flash update reported beating Claude on 10 of 11 coding benchmarks",
+      "Gaming: Analogue Super Nt+ and Mega Sg+ preorders open Monday at $219.99, shipping December",
+      "Gaming: Sega pulls Total War Shogun 2 Complete Edition and reinstates the 2011 original",
+      "Homelab: ZimaOS 1.8 launches built-in self-hosted ZimaOS Photos library",
+      "Stocks: Datadog down 15.74% on the week ahead of Nov 4 earnings; week-ahead housing and oil data",
+      "Local: Poe in Lowell festival closing day \u2014 Black Cat Brunch, Macabre Matinee, farewell poetry night",
+      "Local: Lowell Highlands group shares MapQuest layer mapping ALPR / Flock cameras around Lowell"
+    ]
   }
 ]
