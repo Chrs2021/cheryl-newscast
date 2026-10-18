@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Sunday, October 18</title>
+      <description>Stories in this edition:
+• Lead: France counts the cost of Saturday's protests — interior minister says about 1,800 arrested, Limoges town hall gutted by fire
+• World: Egypt says it's ready to defend Saudi Arabia if asked, as Houthi attacks intensify; parliament authorization talks continue Monday
+• World: Thwaites Glacier melting faster from below — new research doubles its projected sea-level contribution to about 1.2 inches by 2100
+• World: Canada votes Monday on whether Alberta begins the legal process toward a future separation vote; Carney makes final unity appeal
+• US update: Wichita soccer crash driver released pending toxicology and truck examination; no charges filed, police haven't said if it was intentional
+• US: White House press secretary Katie Zacharia out after five days — shortest tenure on record
+• US: Patriots beat the Jets 26-19 at Gillette for a third straight win, improving to 4-2
+• Unhinged fun fact: A giant isopod mislabeled in a German museum collection for decades turns out to be a new species — scientists coin the size class "colossogiants"
+• Tech: Disney agrees to hire most of Character.AI's workforce after its bankruptcy, at least 60 employees in a court filing
+• Tech: Anthropic publishes its own agent impact — junior share of technical hires fell from 27% to 9% as agent hours hit 6x employee hours
+• Gaming: Oblivion gets a surprise update 20 years on via GOG's preservation program, fixing modern-PC headaches
+• Gaming: Castlevania: Belmont's Curse is out to glowing reviews — GameSpot 10/10, top of the Switch 2 eShop charts
+• Homelab: Pinchflat-ngx fork revives the self-hosted YouTube archiver — new release 501 commits ahead, OIDC login, rebuilt interface
+• Stocks: Earnings week ahead — Netflix Tuesday, Tesla and Meta Wednesday night, American Express Friday
+• Stocks: Datadog analyst scorecard — 48 firms, 33 buys, consensus target $290.38 vs $247.11 Friday close; earnings November 4
+• Local: Lowell City Council wrestles with fire department overtime costs and brownouts for a second straight meeting
+• Local: Lowell Highlands group shares MBTA senior pilot — riders 75+ can apply online for a free CharlieCard</description>
+      <pubDate>Sun, 18 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-18.mp3" length="16952685" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-18.mp3</guid>
+      <itunes:duration>424</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Sunday, October 18</title>
       <description>Stories in this edition:
 • Lead update: Ukraine launches one of its biggest drone attacks on Russia this year; Zelensky says US intel sharing restored after 3-day blackout

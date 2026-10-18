@@ -591,5 +591,31 @@
       "Local: Poe in Lowell festival closing day \u2014 Black Cat Brunch, Macabre Matinee, farewell poetry night",
       "Local: Lowell Highlands group shares MapQuest layer mapping ALPR / Flock cameras around Lowell"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-18",
+    "file": "cheryl-news-evening-2026-10-18.mp3",
+    "bytes": 16952685,
+    "duration_sec": 424,
+    "stories": [
+      "Lead: France counts the cost of Saturday's protests \u2014 interior minister says about 1,800 arrested, Limoges town hall gutted by fire",
+      "World: Egypt says it's ready to defend Saudi Arabia if asked, as Houthi attacks intensify; parliament authorization talks continue Monday",
+      "World: Thwaites Glacier melting faster from below \u2014 new research doubles its projected sea-level contribution to about 1.2 inches by 2100",
+      "World: Canada votes Monday on whether Alberta begins the legal process toward a future separation vote; Carney makes final unity appeal",
+      "US update: Wichita soccer crash driver released pending toxicology and truck examination; no charges filed, police haven't said if it was intentional",
+      "US: White House press secretary Katie Zacharia out after five days \u2014 shortest tenure on record",
+      "US: Patriots beat the Jets 26-19 at Gillette for a third straight win, improving to 4-2",
+      "Unhinged fun fact: A giant isopod mislabeled in a German museum collection for decades turns out to be a new species \u2014 scientists coin the size class \"colossogiants\"",
+      "Tech: Disney agrees to hire most of Character.AI's workforce after its bankruptcy, at least 60 employees in a court filing",
+      "Tech: Anthropic publishes its own agent impact \u2014 junior share of technical hires fell from 27% to 9% as agent hours hit 6x employee hours",
+      "Gaming: Oblivion gets a surprise update 20 years on via GOG's preservation program, fixing modern-PC headaches",
+      "Gaming: Castlevania: Belmont's Curse is out to glowing reviews \u2014 GameSpot 10/10, top of the Switch 2 eShop charts",
+      "Homelab: Pinchflat-ngx fork revives the self-hosted YouTube archiver \u2014 new release 501 commits ahead, OIDC login, rebuilt interface",
+      "Stocks: Earnings week ahead \u2014 Netflix Tuesday, Tesla and Meta Wednesday night, American Express Friday",
+      "Stocks: Datadog analyst scorecard \u2014 48 firms, 33 buys, consensus target $290.38 vs $247.11 Friday close; earnings November 4",
+      "Local: Lowell City Council wrestles with fire department overtime costs and brownouts for a second straight meeting",
+      "Local: Lowell Highlands group shares MBTA senior pilot \u2014 riders 75+ can apply online for a free CharlieCard"
+    ]
   }
 ]
