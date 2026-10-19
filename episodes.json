@@ -617,5 +617,30 @@
       "Local: Lowell City Council wrestles with fire department overtime costs and brownouts for a second straight meeting",
       "Local: Lowell Highlands group shares MBTA senior pilot \u2014 riders 75+ can apply online for a free CharlieCard"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-19",
+    "file": "cheryl-news-morning-2026-10-19.mp3",
+    "bytes": 14518125,
+    "duration_sec": 363,
+    "stories": [
+      "Lead: Ukraine's massive overnight drone attack on Russia, Trump slams Zelensky, Rubio denies any pause in intelligence sharing",
+      "World: Four Canadian soldiers killed, 39 injured in wind-driven fire at CFB Wainwright, Alberta",
+      "World: Hurricane Trudy lashes Mexico's Pacific coast in a record hurricane year",
+      "World: Indonesian wildfire haze chokes Singapore and Malaysia, oxygen tanks sell out",
+      "US: Eight states sue OpenAI, alleging ChatGPT was marketed as safe for children",
+      "US: SpaceX cargo Dragon delivers the space station's final roll-out solar arrays",
+      "US: Senegal-sized Antarctic glacier melting faster than researchers thought",
+      "Unhinged fun fact: Philadelphia woman arrested for blocking a delivery robot and refusing to move",
+      "Tech: Anthropic commits 5 percent of its shares to a public benefit fund",
+      "Tech: Nvidia RTX Spark laptops and workstations roll out globally",
+      "Gaming: Nintendo adds three Game Boy Advance games to Switch Online, including Japan-only Kururin Paradise",
+      "Gaming: Steam passes 43.5 million concurrent users; Call of Duty Modern Warfare 4 launches Friday, not on Game Pass",
+      "Homelab: PwnEscape, a critical KVM guest-to-host escape in Linux networking code \u2014 patch and reboot",
+      "Stocks: Futures rebound ahead of a 70-plus-company earnings week; Datadog and Nvidia check-in",
+      "Lowell: Suspicious letter sent to Rep. Lori Trahan's Lowell office; powder testing found nothing of concern",
+      "Lowell: Affordable Housing Trust Fund approves $1.9M loan for 28 affordable units in Centralville"
+    ]
   }
 ]
