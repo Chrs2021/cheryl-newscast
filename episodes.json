@@ -668,5 +668,30 @@
       "Lowell corner: PFAS found in the Merrimack and Concord rivers, in 87 percent of Massachusetts waterways tested",
       "Lowell Highlands pulse: a MapQuest surveillance layer mapping Lowell's Flock license plate cameras lights up the neighborhood group"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-20",
+    "file": "cheryl-news-morning-2026-10-20.mp3",
+    "bytes": 13478445,
+    "duration_sec": 337,
+    "stories": [
+      "Lead: Russia says it downed 1,015 Ukrainian drones in a record barrage; Trump urges Zelensky to step aside, Putin floats a three-way summit, and a park strike near Kharkiv kills several, counts still differing",
+      "World: Alberta votes about 76% to remain in Canada, rejecting the path to a separation referendum",
+      "World: Indonesia deploys about 9,500 police in Jakarta for protests marking two years of President Prabowo, approval down to 44.5%",
+      "World: Japan launches the MMX spacecraft to Phobos to return the first samples from the Martian system in 2031",
+      "US: Supreme Court agrees to decide the legality of the 1868 federal ban on home distilling",
+      "US: Norte Fire reaches about 80% containment, evacuations lifted, first lawsuit alleges a utility cause the utility disputes",
+      "US: Purdue-led Earhart expedition rules out the Taraia Object \u2014 it was likely a pile of trees",
+      "Fun fact: Unknown Ice Age mammal \"Yak X\" identified from tiny bone fragments in Denisova Cave",
+      "Tech: Amazon launches TorchNeuron, letting PyTorch code run on its Trainium chips to challenge Nvidia's software moat",
+      "Tech: Anthropic reportedly pledges 5% of its shares, about $48 billion, to a public benefit fund ahead of a listing",
+      "Gaming: Modder Prehistoricman gets an original Xbox running on 256MB of RAM, four times stock, after two years",
+      "Gaming: 27 games land on Xbox this week, including Call of Duty: Modern Warfare 4 and Final Fantasy Resonance",
+      "Homelab: AMD details Radeon GPU passthrough for Proxmox AI workloads with ROCm and PyTorch",
+      "Stocks: Asia sells off overnight \u2014 Kospi down 3.5% at the open, Nikkei down about 1.2%; US futures mixed, Brent near $110, Netflix/GM/United earnings today",
+      "Local: Inside Lowell spotlights the city's Bicentennial Committee and the 2026 celebration still to come",
+      "Local: Lowell Highlands group \u2014 Halloween downtown events for Oct 30, ballot-question explainers before early voting, and a hunt for a giant TV box"
+    ]
   }
 ]

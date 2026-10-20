@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Tuesday, October 20</title>
+      <description>Stories in this edition:
+• Lead: Russia says it downed 1,015 Ukrainian drones in a record barrage; Trump urges Zelensky to step aside, Putin floats a three-way summit, and a park strike near Kharkiv kills several, counts still differing
+• World: Alberta votes about 76% to remain in Canada, rejecting the path to a separation referendum
+• World: Indonesia deploys about 9,500 police in Jakarta for protests marking two years of President Prabowo, approval down to 44.5%
+• World: Japan launches the MMX spacecraft to Phobos to return the first samples from the Martian system in 2031
+• US: Supreme Court agrees to decide the legality of the 1868 federal ban on home distilling
+• US: Norte Fire reaches about 80% containment, evacuations lifted, first lawsuit alleges a utility cause the utility disputes
+• US: Purdue-led Earhart expedition rules out the Taraia Object — it was likely a pile of trees
+• Fun fact: Unknown Ice Age mammal "Yak X" identified from tiny bone fragments in Denisova Cave
+• Tech: Amazon launches TorchNeuron, letting PyTorch code run on its Trainium chips to challenge Nvidia's software moat
+• Tech: Anthropic reportedly pledges 5% of its shares, about $48 billion, to a public benefit fund ahead of a listing
+• Gaming: Modder Prehistoricman gets an original Xbox running on 256MB of RAM, four times stock, after two years
+• Gaming: 27 games land on Xbox this week, including Call of Duty: Modern Warfare 4 and Final Fantasy Resonance
+• Homelab: AMD details Radeon GPU passthrough for Proxmox AI workloads with ROCm and PyTorch
+• Stocks: Asia sells off overnight — Kospi down 3.5% at the open, Nikkei down about 1.2%; US futures mixed, Brent near $110, Netflix/GM/United earnings today
+• Local: Inside Lowell spotlights the city's Bicentennial Committee and the 2026 celebration still to come
+• Local: Lowell Highlands group — Halloween downtown events for Oct 30, ballot-question explainers before early voting, and a hunt for a giant TV box</description>
+      <pubDate>Tue, 20 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-20.mp3" length="13478445" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-20.mp3</guid>
+      <itunes:duration>337</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Monday, October 19</title>
       <description>Stories in this edition:
 • France protests turn violent — Louvre barricaded shut, about 2,400 arrests, partial curfews announced
