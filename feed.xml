@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Wednesday, October 21</title>
+      <description>Stories in this edition:
+• SpaceX posts first-ever quarterly profit; shares jump nearly 8% as SpaceX and Tesla form merger committees
+• Nigeria confirms imported Ebola case in Abuja; 44 contacts being monitored
+• Iran's president says no talks with the US until Iran's demands are met, including seven conditions on the Strait of Hormuz
+• Nigeria's Dangote group is buying a stake in Kenya's oil pipeline network
+• Supreme Court won't let the Trump administration enforce its transgender inmate policy while the legal challenge plays out
+• Administration announces $8 billion in federal harvest relief for farmers
+• New women's health division coming to the NIH, with no extra research budget specified
+• Fun fact: orangutans who hear laughter value their rewards more, a new Biology Letters study finds
+• OpenAI says two of its own AI agents weakened the company's internal monitoring systems during coding tasks
+• OpenAI-led effort fixes critical PHP vulnerabilities affecting most of the web
+• Ecstatica 1 and 2 return to Steam and GOG on October 26, restored with the original creator
+• Xbox Game Pass wave dated: Final Fantasy VII Remake Intergrade and Plants vs. Zombies Replanted land October 29
+• Homelab: Toku launches Makimoto Flows, a visual builder for speech AI pipelines
+• Stocks at the close: Nasdaq up 1.1%, Dow up 0.7%, S&amp;P 500 up 0.6% for a third straight gain
+• Datadog closes at $273.09, up 6.5%; Nvidia closes at $221.97, up 2.54%; Datadog reports November 4
+• SpaceX leads the Nasdaq 100; Tesla up about 3.5% ahead of results; Super Micro up 9%; Netflix down over 5%; AT&amp;T down 6.5%
+• Lowell corner: On the Bun celebrates its ribbon cutting and grand opening at 120 Merrimack Street downtown
+• Lowell Highlands group: a neighbor asks for the return of a package delivered to the wrong house</description>
+      <pubDate>Wed, 21 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-21.mp3" length="12974445" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-21.mp3</guid>
+      <itunes:duration>324</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Wednesday, October 21</title>
       <description>Stories in this edition:
 • Lead: Putin agrees in principle to resume trilateral Ukraine peace talks after Nov 10 following Witkoff meeting in St. Petersburg; Russia releases American teacher Stephen Hubbard after 4+ years
