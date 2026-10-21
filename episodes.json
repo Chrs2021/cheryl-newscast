@@ -746,5 +746,32 @@
       "Local: MonsterBash & Fall Fest downtown Lowell Saturday Oct 24, first drone show",
       "Local: Lunenburg teacher wins first Dorrie Kehoe Educator Award in Lowell"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-21",
+    "file": "cheryl-news-morning-2026-10-21.mp3",
+    "bytes": 12773805,
+    "duration_sec": 319,
+    "stories": [
+      "Lead: Drone strike on Amiet Market in disputed Abyei kills at least 153, officials say; blame disputed",
+      "World: Alberta votes about 76% to remain in Canada, rejecting a path toward separation",
+      "World: Japan launches MMX probe to Phobos, with samples due back in 2031",
+      "World: Russian drones kill two near Kharkiv overnight ahead of Witkoff-Putin meeting",
+      "US: White House announces $30,000 fraud whistleblower rewards",
+      "US: Administration hiring private collectors for defaulted student loans",
+      "US: Pending home sales drop 7.3% in September as housing starts fall 5.2%",
+      "Fun fact: Jurassic squid relative from Wyoming had the thickest belemnite skeleton ever found",
+      "Tech: Anthropic IPO draft shows $80.7B first-half net loss, mostly a $72B accounting charge",
+      "Tech: Ant Group open-sources Ming speech models for voice design and cloning",
+      "Gaming: ID@Xbox showcase surprise-launches Arctic Eggs; Mouthwashing hits Game Pass Oct 29",
+      "Gaming: Shrek 2 Remastered Nov 10 and The Wolf Among Us Remastered Oct 29",
+      "Homelab: PVE Panel brings scoped self-service VM management to Proxmox",
+      "Stocks: Dow +1.02% to 52,495, S&P 500 +0.28%, Nasdaq flat in a rotation into health care",
+      "Stocks: Netflix falls ~5.6% after hours on soft Q4 guidance; Super Micro jumps 14%",
+      "Stocks: Datadog closes $256.43, down 1.51%, ahead of Nov 4 earnings; Nvidia slips 0.29%",
+      "Local: Lowell and North Reading police memorial honors five officers lost 30 years ago",
+      "Local: Highlands group praises WTF Wee Thai Food in Lowell for Loc Lac and hot pot"
+    ]
   }
 ]
