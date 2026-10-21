@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Wednesday, October 21</title>
+      <description>Stories in this edition:
+• Lead: Putin agrees in principle to resume trilateral Ukraine peace talks after Nov 10 following Witkoff meeting in St. Petersburg; Russia releases American teacher Stephen Hubbard after 4+ years
+• World: France extends nightly curfews in Paris, Lyon and Marseille ahead of fresh Saturday protests over living costs
+• World: Burkina Faso parliament votes unanimously to restore the death penalty, abolished in 2018
+• World: Kenya confirms nine Ebola cases in a single cluster; US State Department advises Americans to reconsider travel
+• US: California state workers launch SEIU Local 1000's first-ever statewide strike over pay, telework and healthcare
+• US: Report says up to 29,000 people in New Hampshire could lose Medicaid coverage by 2028
+• US: FDA clears bemotrizinol, the first new sunscreen ingredient approved in more than 25 years
+• Fun fact: Bering Sea marine heatwave triggers an unprecedented boom in hybrid snow/Tanner crabs
+• Tech: Oracle's October security update ships 1,295 patches, including remote no-password flaws
+• Tech: CrowdStrike and Nvidia expand partnership to push AI agent security from software into silicon
+• Gaming: GTA 6 preorders estimated at $630 million and 6.45 million copies ahead of Nov 19 launch, per Sensor Tower
+• Homelab: ZimaOS 1.8 launches ZimaOS Photos, a design-led self-hosted photo library
+• Stocks: Mixed mid-morning tape — Nasdaq +0.28%, S&amp;P 500 +0.07%, Dow -0.12%; energy and semis lead
+• Stocks: Datadog surges ~7.1% to $274.63; Nvidia +1.7% on GTC Berlin news; Netflix slides 6.3% in regular trading
+• Local: Lowell's first-ever drone light show headlines MonsterBash and Fall Fest, with Merrimack Street closed for rides
+• Local: Highlands group names a friendly black cat "Salem" after he starts visiting feeding stations near Westford &amp; Walker</description>
+      <pubDate>Wed, 21 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-21.mp3" length="13396845" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-21.mp3</guid>
+      <itunes:duration>335</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Wednesday, October 21</title>
       <description>Stories in this edition:
 • Lead: Drone strike on Amiet Market in disputed Abyei kills at least 153, officials say; blame disputed
