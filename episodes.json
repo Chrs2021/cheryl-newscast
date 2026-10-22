@@ -879,5 +879,32 @@
       "Lowell: Subtropical Storm Josephine brings gusts to 22 mph in Lowell and gale warnings on the coast",
       "Lowell: On the Bun diner opens at 120 Merrimack Street; Highlands neighbors rave about WTF Wee Thai Food"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-22",
+    "file": "cheryl-news-evening-2026-10-22.mp3",
+    "bytes": 17323245,
+    "duration_sec": 433,
+    "stories": [
+      "Lead: US orders non-emergency staff and families out of Saudi Arabia after Houthi attacks on Dammam airport and an oil field",
+      "World: El Salvador launches rescue operation for four aviation technicians held hostage by gangs in Haiti",
+      "World: Sri Lanka chase down 430 against England in Rawalpindi, second-highest successful ODI chase",
+      "World: Sixth arrest in Waterford arson investigation in Ireland, four people being questioned",
+      "US: New York City Council votes to ban horse-drawn carriages, phasing them out by June 2028",
+      "US: Riverside County, California 911 service down for many cellphone callers, backup numbers issued",
+      "US: Fifteen charged in Los Angeles in alleged $2 billion medical fraud scheme",
+      "Fun fact: Wyoming's chunkiest belemnite fossil, Big Chunky, is basically a 160-million-year-old squid butt",
+      "Tech: Critical PHP flaws PHP2Shell prompt FBI and NSA warning to patch or take sites offline",
+      "Tech: Anthropic opens waitlist for Claude Duet, a proactive agent app for Pro and Max subscribers",
+      "Gaming: Atari 800XL revived full-size with cartridge slot and mechanical keyboard, preorders $219.99, ships April 2027",
+      "Gaming: Angry Video Game Nerd 8-bit NES edition and Prison City physical editions now available",
+      "Homelab: PHP sweep finds the flaw hiding in containers and in one lab's own health check",
+      "Stocks: Dow flat +0.02% to 52,868, S&P 500 -1.21% to 7,663, Nasdaq -2.60% to 26,009 at the close",
+      "Stocks: Datadog closes $257.75, down 5.62%, despite reported $4B Upwind offer; Nvidia $212.21, down 4.40%",
+      "Stocks: Tesla falls 3.08% after earnings; tech sector -3%, consumer staples +3.11% in defensive rotation",
+      "Local: Subtropical Storm Josephine strengthens to 65 mph winds southeast of Nantucket, no landfall expected, Lowell gusts in the 20s",
+      "Local: Lowell Highlands neighbors look out for Salem, a sweet black cat at a feeding station near Westford and Walker"
+    ]
   }
 ]
