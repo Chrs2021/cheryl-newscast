@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Thursday, October 22</title>
+      <description>Stories in this edition:
+• Lead: Zelensky says he'd accept a peace deal freezing the Ukraine front along current lines; Kremlin ready in principle for trilateral talks after Witkoff-Putin meeting, Kyiv hit again overnight
+• World: UN report says warming overshoots even in the best case — 1.7-1.8°C by mid-century, 2.8°C by 2100 on current policies
+• World: Super Typhoon Rosal (Champi) enters the Philippine area of responsibility
+• World: Protesters in Tirana set fire to Albania's education ministry and supreme court buildings; PM Rama refuses to resign and blames Russia
+• US: Uninsured rate climbs to 11.2% in new Commonwealth Fund survey; marketplace enrollment down 3 million
+• US: Instacart agrees to pay $5 million to settle DOJ allegations it discriminated against American job applicants
+• US: Michigan Senate debate between El-Sayed and Rogers turns bitter in a race that could decide the chamber
+• Fun fact: A foot-long giant isopod sat mislabeled in a museum drawer for 30+ years before scans revealed a new "colossogiant" species
+• Tech: Nvidia lines up six partners to expand chip packaging and testing; Amkor to more than triple advanced packaging by 2028
+• Tech: Texas Instruments beats Q3 estimates — revenue up 28% to $6.06B, Q4 guidance above estimates
+• Gaming: Modder quadruples the original Xbox's RAM to 256MB after two years of interposer work
+• Gaming: Stacked release week — Final Fantasy Resonance, Call of Duty: Modern Warfare 4, Stupid Never Dies
+• Homelab: A recycled 2015 desktop becomes a free Proxmox homelab running Immich, Jellyfin and game servers
+• Stocks: Third straight gain — Dow +0.69% to 52,856, S&amp;P 500 +0.58% to 7,757, Nasdaq +1.05% to 26,703
+• Stocks: Datadog closes $273.09, up 6.5%, ahead of Nov 4 earnings; Nvidia closes $221.97, up 2.54%
+• Stocks: Super Micro jumps 9.55% on raised guidance; AT&amp;T falls 6.45% on satellite-rival fears
+• Local: Lowell's Senior Center ownership saga reaches a conclusion at City Council
+• Local: Jeanne D'Arc Credit Union awards $1,500 to the Greater Lawrence Family Health Center</description>
+      <pubDate>Thu, 22 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-22.mp3" length="13644525" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-22.mp3</guid>
+      <itunes:duration>341</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Wednesday, October 21</title>
       <description>Stories in this edition:
 • SpaceX posts first-ever quarterly profit; shares jump nearly 8% as SpaceX and Tesla form merger committees

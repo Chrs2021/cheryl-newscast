@@ -825,5 +825,32 @@
       "Lowell corner: On the Bun celebrates its ribbon cutting and grand opening at 120 Merrimack Street downtown",
       "Lowell Highlands group: a neighbor asks for the return of a package delivered to the wrong house"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-22",
+    "file": "cheryl-news-morning-2026-10-22.mp3",
+    "bytes": 13644525,
+    "duration_sec": 341,
+    "stories": [
+      "Lead: Zelensky says he'd accept a peace deal freezing the Ukraine front along current lines; Kremlin ready in principle for trilateral talks after Witkoff-Putin meeting, Kyiv hit again overnight",
+      "World: UN report says warming overshoots even in the best case \u2014 1.7-1.8\u00b0C by mid-century, 2.8\u00b0C by 2100 on current policies",
+      "World: Super Typhoon Rosal (Champi) enters the Philippine area of responsibility",
+      "World: Protesters in Tirana set fire to Albania's education ministry and supreme court buildings; PM Rama refuses to resign and blames Russia",
+      "US: Uninsured rate climbs to 11.2% in new Commonwealth Fund survey; marketplace enrollment down 3 million",
+      "US: Instacart agrees to pay $5 million to settle DOJ allegations it discriminated against American job applicants",
+      "US: Michigan Senate debate between El-Sayed and Rogers turns bitter in a race that could decide the chamber",
+      "Fun fact: A foot-long giant isopod sat mislabeled in a museum drawer for 30+ years before scans revealed a new \"colossogiant\" species",
+      "Tech: Nvidia lines up six partners to expand chip packaging and testing; Amkor to more than triple advanced packaging by 2028",
+      "Tech: Texas Instruments beats Q3 estimates \u2014 revenue up 28% to $6.06B, Q4 guidance above estimates",
+      "Gaming: Modder quadruples the original Xbox's RAM to 256MB after two years of interposer work",
+      "Gaming: Stacked release week \u2014 Final Fantasy Resonance, Call of Duty: Modern Warfare 4, Stupid Never Dies",
+      "Homelab: A recycled 2015 desktop becomes a free Proxmox homelab running Immich, Jellyfin and game servers",
+      "Stocks: Third straight gain \u2014 Dow +0.69% to 52,856, S&P 500 +0.58% to 7,757, Nasdaq +1.05% to 26,703",
+      "Stocks: Datadog closes $273.09, up 6.5%, ahead of Nov 4 earnings; Nvidia closes $221.97, up 2.54%",
+      "Stocks: Super Micro jumps 9.55% on raised guidance; AT&T falls 6.45% on satellite-rival fears",
+      "Local: Lowell's Senior Center ownership saga reaches a conclusion at City Council",
+      "Local: Jeanne D'Arc Credit Union awards $1,500 to the Greater Lawrence Family Health Center"
+    ]
   }
 ]
