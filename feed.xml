@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Friday, October 23</title>
+      <description>Stories in this edition:
+• Lead: Gunmen attack a funeral at a Greek Orthodox church in Karak, Jordan — at least 7 killed, 34 wounded; attackers not caught, toll still moving
+• World: Magnitude 7 earthquake in China's Tibet region kills at least 16 and collapses hundreds of homes near Nagqu
+• World: Ukrainian long-range drones disrupt Moscow airports — 88 flights cancelled, 239 delayed at Sheremetyevo
+• World update: France protests move PSG–Lyon to Monday, close the Louvre and major museums Saturday, and cancel Macron's Africa trip
+• US: Energy Department designates helium a critical material for semiconductor supply chains
+• US: Business activity cools to a 57.6 PMI while selling prices rise at the fastest pace since August 2022
+• US: Employer family health premiums rise 5% to $28,303, with workers' share up 9%
+• Fun fact: The venomous Bangka slow loris, lost to science for ~90 years, was rediscovered hiding in Indonesian backyards and on power lines
+• Tech: OpenAI reportedly in advanced talks for a $30B raise at a $1.25 trillion valuation
+• Tech/TTS: Ant Group open-sources Ming speech models with voice design; Kyutai's Pocket TTS clones voices in under 2M parameters
+• Gaming: Nintendo Switch Online adds three Game Boy classics Oct 27 — Avenging Spirit, Mole Mania, Revenge of the 'Gator
+• Homelab: Proxmox hypervisor-escape patch — fixed kernel only on VE 9, VE 8 gets no fix, reboot required
+• Stocks: Friday close — Dow -1.20% to 52,235, S&amp;P 500 -0.48% to 7,627, Nasdaq -0.20% to 25,956; oil above $100
+• Stocks tracked: Datadog +4.62% to $269.65, Nvidia +0.3%, Cloudflare +6%, Meta -1.3%, Tesla -0.63% to $372.22
+• Local: Fire reported early this morning on Stevens Street near Nicolette Street in the Lowell Highlands group; no official word yet
+• Local: MonsterBash Saturday logistics — downtown Lowell from noon, first-ever drone show at 6:30 PM between Merrimack and Middle Streets</description>
+      <pubDate>Fri, 23 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-23.mp3" length="14479725" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-23.mp3</guid>
+      <itunes:duration>362</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Friday, October 23</title>
       <description>Stories in this edition:
 • Lead update: France to mobilise 70,000 police and gendarmes for Saturday protests; only a union demo authorised in Paris, student groups say they'll march anyway (Reuters)
