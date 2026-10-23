@@ -933,5 +933,32 @@
       "Local: Lowell City Council unanimously approves a public art policy as the mural program expands",
       "Local: Lowell Highlands neighbors remind residents to clear leaves and debris from catch basins so water can drain"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-10-23",
+    "file": "cheryl-news-midday-2026-10-23.mp3",
+    "bytes": 13474605,
+    "duration_sec": 337,
+    "stories": [
+      "Lead update: France to mobilise 70,000 police and gendarmes for Saturday protests; only a union demo authorised in Paris, student groups say they'll march anyway (Reuters)",
+      "World: Ghana to halt unprocessed ore exports by 2030 and process at least 50% of cocoa at home, President Mahama tells FT Africa Summit",
+      "World: Drone attack on King Fahd International Airport in Dammam kills one, injures eight, flights diverted; blamed on Houthi forces",
+      "World: Chennai zoo closes temporarily after bird flu detected in water birds, as a precaution",
+      "US: Gas on pace for most expensive October ever per AAA \u2014 national average $4.29, diesel $5.75",
+      "US: Federal court bars DHS election-related investigations in nine states; AG Blanche doesn't rule out blocking a state certification in a 'doomsday scenario'",
+      "US: American Express to cut 5% of global workforce; revenue slightly missed, shares down about 2%",
+      "Fun fact: Scientists say birds are more afraid of women than men, and they have no idea why",
+      "Tech: SpaceX reportedly in talks to secure access to at least 80,000 US cell sites for a nationwide wireless carrier (Bloomberg, no deal finalised)",
+      "Tech: Anthropic donates Agent Skills standard to the Linux Foundation's Agentic AI Foundation; Claude Code 2.1.309 fixes a real sandbox escape",
+      "Gaming: Call of Duty: Modern Warfare 4 launches today; Final Fantasy Resonance landed yesterday",
+      "Gaming retro: Modder quadruples original Xbox RAM to 256MB with interposer boards for modern chips",
+      "Homelab: Weekend Proxmox project roundup \u2014 learning lab, Proxmox vs bare-metal Docker comparison, documentation",
+      "Stocks: Open lower \u2014 Dow -0.32%, S&P 500 -0.34%, Nasdaq -0.44%; Brent toward $115, WTI near $101",
+      "Stocks: Tower stocks jump on SpaceX report (Crown Castle about +12%, American Tower about +7%) while AT&T, Verizon and T-Mobile each fall over 3%",
+      "Stocks: Datadog rebounds about +4% to around $269; Nvidia roughly flat near $212, Meta -0.5%, Tesla +0.3%",
+      "Local: Tyler Park neighbors report dark brown tap water in the Lowell Highlands group; no official explanation yet",
+      "Local: MonsterBash and Fall Fest tomorrow in downtown Lowell, with the city's first-ever drone light show after sunset"
+    ]
   }
 ]
