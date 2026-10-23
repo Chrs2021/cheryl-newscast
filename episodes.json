@@ -906,5 +906,32 @@
       "Local: Subtropical Storm Josephine strengthens to 65 mph winds southeast of Nantucket, no landfall expected, Lowell gusts in the 20s",
       "Local: Lowell Highlands neighbors look out for Salem, a sweet black cat at a feeding station near Westford and Walker"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-23",
+    "file": "cheryl-news-morning-2026-10-23.mp3",
+    "bytes": 14855085,
+    "duration_sec": 371,
+    "stories": [
+      "Lead: France bans Saturday protests in Marseille and Lyon, Louvre and Art Basel Paris close for the weekend, about 2,700 arrests since Saturday over living-cost marches",
+      "World: Vatican says Pope Leo needs no further treatment after localized lung cancer surgery",
+      "World: Taiwan charges five men over alleged plot to attack a comedian who joked about Xi Jinping",
+      "World: UK Chancellor Healey promises businesses pre-Budget breathing space worth up to \u00a3800m a year, while Britain faces Europe's highest winter energy prices",
+      "US: Federal judge orders Trump to sit for deposition by Dec 11 in his $10bn BBC defamation lawsuit",
+      "US: Supreme Court leaves lower-court block in place on new transgender inmate medical restrictions, for now",
+      "US: Subtropical Storm Josephine strengthening offshore near Nantucket, expected to become a powerful extratropical cyclone, no landfall expected",
+      "Fun fact: Researchers match van Gogh's The Starry Night to a real sky on July 22, 1889 \u2014 Hyades cluster, Venus and a waning crescent moon",
+      "Tech: DeepSeek reportedly raises nearly $15bn; Tech Mahindra partners with SpaceX's AI operation on Grok Build",
+      "Tech / open TTS: Gradium's Phonon runs on-device in 64.5 MB and beat Kokoro in blind tests; Kitten TTS 2 claims real-time CPU voice cloning",
+      "Gaming: EA shuts down BioWare after 30+ years, ending the next Mass Effect; about 400 EA jobs affected",
+      "Gaming retro: Analogue revives Super Nt and Mega Sg as Plus models with USB-C and wireless, shipping December",
+      "Homelab: Deriv releases Deriv One, a self-hosted AI platform with Slack agents and a no-code builder, under MIT",
+      "Stocks: Dow flat +0.02%, S&P 500 -1.21% to 7,663, Nasdaq -2.60%; Brent crude +4% to $113.17, a five-month high",
+      "Stocks: Meta -6.98% to $648.85, Nvidia -4.40% to $212.21, Datadog -5.62% to $257.75 in the AI selloff",
+      "Stocks: Tesla -3.08% as staples rose about 3%; Nvidia and Tesla edging back up just over 1% in early premarket",
+      "Local: Lowell City Council unanimously approves a public art policy as the mural program expands",
+      "Local: Lowell Highlands neighbors remind residents to clear leaves and debris from catch basins so water can drain"
+    ]
   }
 ]
