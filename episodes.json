@@ -1036,5 +1036,31 @@
       "Lowell: On the Bun slider diner holds grand opening at 120 Merrimack Street",
       "Lowell: MonsterBash underway, trick-or-treating until 3, drone show at 6:30"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-24",
+    "file": "cheryl-news-evening-2026-10-24.mp3",
+    "bytes": 16305645,
+    "duration_sec": 408,
+    "stories": [
+      "Lead: Starlink and Starshield restored to full speed in Ukraine after a week of restrictions; who ordered them still disputed",
+      "World: Britain sets out \u00a3600m AI security package, centered on a \u00a3100m biosecurity lab backed by OpenAI and Anthropic credits",
+      "World: UNICEF marks World Polio Day warning immunization gaps, misinformation and funding still block eradication",
+      "World: New long-clawed megaraptoran dinosaur Invictibellatrix identified from museum collections on the Isle of Wight",
+      "US: Business activity cooled slightly in October (flash PMI 57.6) while price pressures stayed stubborn",
+      "US: Consumer sentiment fell to 48.0 in October, the second-lowest reading on record",
+      "US: Study links recreational marijuana legalization to faster-rising heart hospitalizations \u2014 association, not proven causation",
+      "Fun fact: Animal origins pushed back ~200 million years, to roughly 800 million years ago in an ice age",
+      "Tech: Chrome's Enhanced Protection moves Gemini scam detection server-side, adds ClickFix clipboard warnings",
+      "Tech: Agent-cloud startup Daytona hits $1B valuation on a $60M Series B; Datadog's Olivier Pomel among the angels",
+      "Gaming: Blizzard says Battle.net is not a Steam competitor as Witcher 3 remaster and Cyberpunk 2077 join it",
+      "Retro gaming: Switch Online adds three Game Boy classics on Oct 27 \u2014 Avenging Spirit, Mole Mania, Pinball: Revenge of the 'Gator",
+      "Homelab/TTS: Gradium open-sources Phonon, a 64.5MB on-device TTS model that runs offline on a phone, laptop or Raspberry Pi",
+      "Stocks: No Saturday trading; Friday's PMI price pressure and near-record-low sentiment set the mood into earnings week",
+      "Stocks: CrowdStrike expands AI security work with Nvidia; Datadog's CEO surfaces as a Daytona angel investor",
+      "Local: Healey's $6.6M workforce training package lands in Greater Lowell \u2014 Factorial and Medford Wellington grants via MassHire",
+      "Local: Merrimack Valley Eats pulse \u2014 Steampunk Station in Haverhill pushes its homemade soup lineup for soup season"
+    ]
   }
 ]
