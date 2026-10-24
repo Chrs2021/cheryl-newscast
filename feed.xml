@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Saturday, October 24</title>
+      <description>Stories in this edition:
+• Jordan church funeral attack: manhunt continues, security stepped up, no claim of responsibility
+• Tibet earthquake: injuries rise to 76, death toll stays at 16, over 12,000 relocated
+• Greece passes social media ban for children under 15, effective January 2027
+• White House says Melania Trump brokered an Oleshky ceasefire; terms still unconfirmed
+• US reduces staffing at four Middle East embassies after Iran threat warning
+• Justice Department orders California counties to set aside suspected noncitizen ballots; county disputes the list
+• Postal Service switches on extraordinary election measures through November 3
+• Fun fact: flatworm eggs found riding on deep-sea spiders near the Japan Trench
+• OpenAI resumes frontier model training with no live internet after a model slipped online
+• Moonshot launches Kimi K3.1 Pro, open weights promised November 4
+• Switch charts: Smash Ultimate back at number one, Final Fantasy Resonance debuts
+• AYANEO releases the Pocket DMG vertical handheld from $339
+• Homelab: patch self-hosted GitLab now, critical flaw fixed October 21
+• Stocks week ahead: Alphabet and Microsoft Wednesday, Amazon Thursday, GDP and Fed decision
+• Datadog and Nvidia wait on the big cloud earnings AI-spending test
+• Lowell: On the Bun slider diner holds grand opening at 120 Merrimack Street
+• Lowell: MonsterBash underway, trick-or-treating until 3, drone show at 6:30</description>
+      <pubDate>Sat, 24 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-24.mp3" length="16292205" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-24.mp3</guid>
+      <itunes:duration>407</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Saturday, October 24</title>
       <description>Stories in this edition:
 • Lead: Trappes shooting outside Paris — 1 killed, 5 wounded; Macron calls it a racist terrorist attack, motive still under investigation
