@@ -985,5 +985,30 @@
       "Local: Fire reported early this morning on Stevens Street near Nicolette Street in the Lowell Highlands group; no official word yet",
       "Local: MonsterBash Saturday logistics \u2014 downtown Lowell from noon, first-ever drone show at 6:30 PM between Merrimack and Middle Streets"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-24",
+    "file": "cheryl-news-morning-2026-10-24.mp3",
+    "bytes": 15713325,
+    "duration_sec": 393,
+    "stories": [
+      "Lead: Trappes shooting outside Paris \u2014 1 killed, 5 wounded; Macron calls it a racist terrorist attack, motive still under investigation",
+      "World: Kenya records second Ebola death; WHO vaccine trial starts in Congo as outbreak reaches four countries",
+      "World: Czech coalition advances public media overhaul in 4:36 a.m. overnight vote",
+      "World: IUCN assessment \u2014 96% of shallow-water coral reef systems now critically endangered",
+      "US: More than 23 million Americans have already voted in the midterms",
+      "US: NASA holds 2028 Moon landing target, Artemis III becomes a 2027 orbital test flight",
+      "US: Supreme Court ends Gwynne Wilcox challenge over her removal from the labor board",
+      "Fun fact: The chunkiest squid relative ever found \u2014 barrel-shaped fossils in Wyoming, nicknamed squid butts",
+      "Tech: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda (WSJ)",
+      "Tech: Microsoft Project Perception \u2014 guardian agents watching other AI agents",
+      "Gaming: Xbox announces 7 more Game Pass titles at ID@Xbox showcase, most day-one",
+      "Retro gaming: Xbox Labs runs the Xbox 360 Blades dashboard in a web browser",
+      "Homelab: OpenWebPBX, a new open-source self-hosted business phone system",
+      "Stocks: Friday close \u2014 Dow -1.23%, S&P -0.52%, Nasdaq -0.21%, Brent $116.72; Datadog +4.62% to $269.65, Nvidia -0.59% to $210.96",
+      "Local: Lowell CO-OP opioid outreach team spotlighted for front-line recovery work",
+      "Local: MonsterBash and Fall Fest today in downtown Lowell, first-ever drone show at 6:30 p.m."
+    ]
   }
 ]
