@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Sunday, October 25</title>
+      <description>Stories in this edition:
+• FAMU shooting update: 5 of 12 released from hospital, 6 remain (1 critical), youngest victim 11, no arrests yet
+• Serbia election update: turnout 12% by 9am, more than double 2023; polls split between Vucic's party and the Student List
+• Pope Leo calls for end to Yemen violence in first window address less than two weeks after lung surgery
+• Antarctica ice-cliff study: 15,330 cliffs tracked, collapses faster than modeled but no runaway chain reaction
+• CDC Ebola declaration for international travelers arriving in the US from November 3
+• Employer health survey: workers paying hundreds more toward premiums this year
+• US flash PMI 57.6 in October, selling prices index highest since 2022 ahead of Wednesday's Fed decision
+• Fun fact: 99-million-year-old planthopper fossil with flexible mouthparts nearly twice its body length
+• PHP2Shell: two critical PHP flaws (CVSS 9.2) found with AI help, emergency patches, exploitation surging
+• Cerebras publishes recipe to run a 3-trillion-parameter model across 59 wafers (illustrative example)
+• Modern Warfare 4 update: 227,622 Steam concurrent peak, more than double Black Ops 7, still below Black Ops 6
+• Nintendo Switch Online adds three Game Boy games Oct 27: Avenging Spirit, Mole Mania, Pinball: Revenge of the 'Gator
+• Kitten-TTS 2: open-source 1.58-bit TTS, real-time on CPU, voice cloning from under 5 seconds
+• Stocks: Datadog closed the week up 9.12% at $269.65 amid reported ~$4B Upwind offer; Nvidia $210.96
+• Week ahead: Verizon Mon; Coca-Cola/Boeing Tue; Microsoft/Alphabet Wed; Lilly/Caterpillar and Amazon/Intel Thu; Exxon/Chevron Fri
+• Fed decision Wednesday, hold priced at 91-92%; Q3 GDP and PCE inflation Thursday
+• Lowell: City Council votes to borrow $3.373M to buy back the Senior Center property on Broadway
+• Merrimack Valley Eats: Steampunk Station in Haverhill serving three soups for the cold weekend</description>
+      <pubDate>Sun, 25 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-25.mp3" length="18462765" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-25.mp3</guid>
+      <itunes:duration>462</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Sunday, October 25</title>
       <description>Stories in this edition:
 • Lead: Shooting near Florida A&amp;M in Tallahassee leaves 11 shot and another injured; police say an altercation came first
