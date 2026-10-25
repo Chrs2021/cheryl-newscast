@@ -1115,5 +1115,31 @@
       "Lowell: City Council votes to borrow $3.373M to buy back the Senior Center property on Broadway",
       "Merrimack Valley Eats: Steampunk Station in Haverhill serving three soups for the cold weekend"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-25",
+    "file": "cheryl-news-evening-2026-10-25.mp3",
+    "bytes": 13241325,
+    "duration_sec": 331,
+    "stories": [
+      "Serbia: Vu\u010di\u0107 concedes defeat to the Student List in snap parliamentary election (projections 135-140 seats vs ~105, official count not final)",
+      "Brazil: Presidential runoff today between Lula da Silva and Fl\u00e1vio Bolsonaro, polls roughly level",
+      "Ice ages: St Andrews research links northern ice sheets to a planet-wide ocean domino effect near Antarctica",
+      "Busan: Grey shark nicknamed Bukangi drew 1.7 million visitors to a canal in South Korea",
+      "Michigan: Trump rallies in Port Huron against El-Sayed, a day after Obama rallied for him in Detroit",
+      "Election monitors: Justice Department plans ~1,000 monitors for Nov 3; state officials say observers must follow state rules",
+      "New York: Survivors approve $800 million settlement with the Archdiocese of New York (~1,300 claims)",
+      "Fun fact: Coconut crabs climb trees to hunt seabirds and drop coconuts to crack them",
+      "Tech: Apollo chief economist says AI has delivered zero financial payoff outside tech",
+      "Tech: Five Qwen models orchestrated together match a frontier model on a hard coding benchmark, with caveats",
+      "Gaming: Clair Obscur: Expedition 33 sold 8.7 million copies, ~$366 million, despite Game Pass",
+      "Retro gaming: Xbox Labs runs the Xbox 360 Blades dashboard in a web browser",
+      "Homelab: Deriv open-sources Deriv One, its self-hosted AI platform, under MIT (221 skills)",
+      "Stocks: Friday close recap \u2014 Dow -1.23% to 52,215, S&P 500 -0.52% to 7,623, Nasdaq -0.21% to 25,955",
+      "Stocks: Datadog +4.62% Friday to $269.65 (+9.12% for the week, earnings Nov 4); Nvidia -0.59% to $210.96",
+      "Lowell: First Lowell Hip-Hop Festival drew 500+ over nine days, plans a 2027 return",
+      "Lowell: On the Bun, a 1950s-inspired slider diner, opens at 120 Merrimack Street downtown"
+    ]
   }
 ]
