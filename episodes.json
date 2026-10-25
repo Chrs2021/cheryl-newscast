@@ -1062,5 +1062,31 @@
       "Local: Healey's $6.6M workforce training package lands in Greater Lowell \u2014 Factorial and Medford Wellington grants via MassHire",
       "Local: Merrimack Valley Eats pulse \u2014 Steampunk Station in Haverhill pushes its homemade soup lineup for soup season"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-25",
+    "file": "cheryl-news-morning-2026-10-25.mp3",
+    "bytes": 15979245,
+    "duration_sec": 399,
+    "stories": [
+      "Lead: Shooting near Florida A&M in Tallahassee leaves 11 shot and another injured; police say an altercation came first",
+      "World: Magnitude 6.9 and 6.3 quakes off Vanuatu; tsunami threat passes with no immediate damage reported",
+      "World: Serbia votes in snap election as student movement tries to unseat Vucic; polls predict a tight race",
+      "World: Student protests spread across Europe \u2014 water cannons in Tirana and Brussels, shops boarded up in Italy",
+      "US: Obama rallies Democrats in Detroit for Senate hopeful El-Sayed, with Sanders adding $1M and a Grand Rapids rally",
+      "US: Rising Iowa cancer rates scramble a competitive Senate race, with water quality at the center",
+      "US: Southern California coast braces for king tides under a flood warning Sunday through Thursday",
+      "Fun fact: Fossil jaws suggest a nearly 20-meter ancient octopus hunted hard-shelled prey alongside the dinosaurs",
+      "Tech: Anthropic says Claude produced machine-checked proofs for 239 entry points across 123 open-source libraries",
+      "Tech: 1Password introduces agent sign-ins where you approve the login on your own device first",
+      "Gaming: Call of Duty: Modern Warfare 4 launch weekend \u2014 free Double XP until Oct 26, first CoD on Nintendo since 2013, no day-one Game Pass",
+      "Homelab: CetraFS and MeshXFS bring VMware VMFS-style shared storage to Proxmox clusters",
+      "Stocks: Friday close recap \u2014 Dow, S&P 500 and Nasdaq all fell; Brent at its highest since April carried into the weekend",
+      "Stocks: Datadog +4.62% Friday to $269.65, Nvidia -0.59% to $210.96; Datadog earnings set for Nov 4",
+      "Stocks: Week ahead \u2014 Microsoft and Alphabet Wednesday, Amazon Thursday, Fed decision Wednesday, GDP and inflation Thursday",
+      "Local: Lowell early voting \u2014 5,411 ballots cast through Friday, 4,661 mail ballots returned, early voting at the Senior Center, mail requests due Tuesday",
+      "Local: Merrimack Valley Eats \u2014 Donahue's Fish Market pushes fresh seafood, clam chowder, salads, squash and jambalaya for the weekend"
+    ]
   }
 ]

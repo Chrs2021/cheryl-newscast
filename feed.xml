@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Sunday, October 25</title>
+      <description>Stories in this edition:
+• Lead: Shooting near Florida A&amp;M in Tallahassee leaves 11 shot and another injured; police say an altercation came first
+• World: Magnitude 6.9 and 6.3 quakes off Vanuatu; tsunami threat passes with no immediate damage reported
+• World: Serbia votes in snap election as student movement tries to unseat Vucic; polls predict a tight race
+• World: Student protests spread across Europe — water cannons in Tirana and Brussels, shops boarded up in Italy
+• US: Obama rallies Democrats in Detroit for Senate hopeful El-Sayed, with Sanders adding $1M and a Grand Rapids rally
+• US: Rising Iowa cancer rates scramble a competitive Senate race, with water quality at the center
+• US: Southern California coast braces for king tides under a flood warning Sunday through Thursday
+• Fun fact: Fossil jaws suggest a nearly 20-meter ancient octopus hunted hard-shelled prey alongside the dinosaurs
+• Tech: Anthropic says Claude produced machine-checked proofs for 239 entry points across 123 open-source libraries
+• Tech: 1Password introduces agent sign-ins where you approve the login on your own device first
+• Gaming: Call of Duty: Modern Warfare 4 launch weekend — free Double XP until Oct 26, first CoD on Nintendo since 2013, no day-one Game Pass
+• Homelab: CetraFS and MeshXFS bring VMware VMFS-style shared storage to Proxmox clusters
+• Stocks: Friday close recap — Dow, S&amp;P 500 and Nasdaq all fell; Brent at its highest since April carried into the weekend
+• Stocks: Datadog +4.62% Friday to $269.65, Nvidia -0.59% to $210.96; Datadog earnings set for Nov 4
+• Stocks: Week ahead — Microsoft and Alphabet Wednesday, Amazon Thursday, Fed decision Wednesday, GDP and inflation Thursday
+• Local: Lowell early voting — 5,411 ballots cast through Friday, 4,661 mail ballots returned, early voting at the Senior Center, mail requests due Tuesday
+• Local: Merrimack Valley Eats — Donahue's Fish Market pushes fresh seafood, clam chowder, salads, squash and jambalaya for the weekend</description>
+      <pubDate>Sun, 25 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-25.mp3" length="15979245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-25.mp3</guid>
+      <itunes:duration>399</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Saturday, October 24</title>
       <description>Stories in this edition:
 • Lead: Starlink and Starshield restored to full speed in Ukraine after a week of restrictions; who ordered them still disputed
