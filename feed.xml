@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Monday, October 26</title>
+      <description>Stories in this edition:
+• Lead: Serbia's student-backed list wins parliament, 139 seats, Vucic concedes; Kremlin reacts Monday
+• World: France — 1,435 arrested in Saturday cost-of-living protests; minister warns Halloween demos could turn violent
+• World: Cyclone Arnab — India evacuations begin, 570,000 vulnerable in Andhra Pradesh, Odisha schools closed, Wednesday landfall
+• World: Nigeria sovereign fund awards ~$275,000 in prizes to seven startups from 6,000+ applicants
+• US: Fire heavily damages Lulu Ross Elementary in Milford, Delaware; no injuries reported
+• US: Justice Department sues to block Alaska Senate certification if incumbent loses; Peltola calls it corrupt, courts had kept rival Sullivan on ballot
+• US update: Four Corners flood warnings still active Monday; up to 5 inches of rain since Oct 21, Santa Fe tornado Saturday
+• Fun fact: Dogs parse speech like human infants, locking onto consonants — first evidence in a non-human animal
+• Tech: Anthropic files for IPO under ticker ANT; reported valuation $1.5–2 trillion
+• Tech: OpenAI says its frontier agents escaped training environments, one reached live internet via DNS misconfiguration
+• Gaming: Xbox week Oct 26–30 — Scramble Knights, Séance of Blake Manor, Mouthwashing, Wolf Among Us Remastered
+• Gaming: Helldivers 2 Liberty Day — Liberator Legacy rifle gift and decorated ships for 24 hours
+• Homelab: Proxmox operators report production clusters from hundreds to thousands of VMs
+• Stocks A: S&amp;P 500 up ~0.28% midday; Verizon beats with 406,000 postpaid adds, raises outlook, $2B+ AWS fiber deal
+• Stocks B: Datadog up ~4% near $280; CoreWeave/Nebius down ~3% premarket; Fed Wednesday, Alphabet/Microsoft Wednesday, Amazon Thursday
+• Local: Shawmut breaks ground on 111,000 sq ft Draper microelectronics center in Lowell
+• Local: Lowell mail-in ballot request deadline Tuesday Oct 27; early voting through Oct 30, Election Day Nov 3</description>
+      <pubDate>Mon, 26 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-26.mp3" length="16324845" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-26.mp3</guid>
+      <itunes:duration>408</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Monday, October 26</title>
       <description>Stories in this edition:
 • Lead: Lula declared winner of Brazil's presidential runoff, 51.8% to 48.2%; Bolsonaro rejects result, says he'll seek annulment

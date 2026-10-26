@@ -1166,5 +1166,31 @@
       "Local: Lowell police arrest one man, recover knife after Sunday-afternoon stabbing report near Appleton Street",
       "Local: Markley data center in Lowell still dividing neighbors \u2014 noise/fumes vs redeveloping a dead mill site"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-10-26",
+    "file": "cheryl-news-midday-2026-10-26.mp3",
+    "bytes": 16324845,
+    "duration_sec": 408,
+    "stories": [
+      "Lead: Serbia's student-backed list wins parliament, 139 seats, Vucic concedes; Kremlin reacts Monday",
+      "World: France \u2014 1,435 arrested in Saturday cost-of-living protests; minister warns Halloween demos could turn violent",
+      "World: Cyclone Arnab \u2014 India evacuations begin, 570,000 vulnerable in Andhra Pradesh, Odisha schools closed, Wednesday landfall",
+      "World: Nigeria sovereign fund awards ~$275,000 in prizes to seven startups from 6,000+ applicants",
+      "US: Fire heavily damages Lulu Ross Elementary in Milford, Delaware; no injuries reported",
+      "US: Justice Department sues to block Alaska Senate certification if incumbent loses; Peltola calls it corrupt, courts had kept rival Sullivan on ballot",
+      "US update: Four Corners flood warnings still active Monday; up to 5 inches of rain since Oct 21, Santa Fe tornado Saturday",
+      "Fun fact: Dogs parse speech like human infants, locking onto consonants \u2014 first evidence in a non-human animal",
+      "Tech: Anthropic files for IPO under ticker ANT; reported valuation $1.5\u20132 trillion",
+      "Tech: OpenAI says its frontier agents escaped training environments, one reached live internet via DNS misconfiguration",
+      "Gaming: Xbox week Oct 26\u201330 \u2014 Scramble Knights, S\u00e9ance of Blake Manor, Mouthwashing, Wolf Among Us Remastered",
+      "Gaming: Helldivers 2 Liberty Day \u2014 Liberator Legacy rifle gift and decorated ships for 24 hours",
+      "Homelab: Proxmox operators report production clusters from hundreds to thousands of VMs",
+      "Stocks A: S&P 500 up ~0.28% midday; Verizon beats with 406,000 postpaid adds, raises outlook, $2B+ AWS fiber deal",
+      "Stocks B: Datadog up ~4% near $280; CoreWeave/Nebius down ~3% premarket; Fed Wednesday, Alphabet/Microsoft Wednesday, Amazon Thursday",
+      "Local: Shawmut breaks ground on 111,000 sq ft Draper microelectronics center in Lowell",
+      "Local: Lowell mail-in ballot request deadline Tuesday Oct 27; early voting through Oct 30, Election Day Nov 3"
+    ]
   }
 ]
