@@ -1141,5 +1141,30 @@
       "Lowell: First Lowell Hip-Hop Festival drew 500+ over nine days, plans a 2027 return",
       "Lowell: On the Bun, a 1950s-inspired slider diner, opens at 120 Merrimack Street downtown"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-10-26",
+    "file": "cheryl-news-morning-2026-10-26.mp3",
+    "bytes": 16410285,
+    "duration_sec": 410,
+    "stories": [
+      "Lead: Lula declared winner of Brazil's presidential runoff, 51.8% to 48.2%; Bolsonaro rejects result, says he'll seek annulment",
+      "World: Houthi attacks on Saudi oil sites and Riyadh airport continued; Saudi says flights resumed, Air India suspends routes into November",
+      "World: Venezuela opposition leader Maria Corina Machado returns from exile, expected to push for earlier elections",
+      "World: Jordan arrests three men over last week's deadly church attack",
+      "US: Four Corners flooding \u2014 San Juan River tops 1909 record, hundreds of water rescues in New Mexico, no deaths reported",
+      "US: Study warns ending Florida's school measles mandate could bring its worst epidemic in nearly 50 years",
+      "US: Tropical Storm Olana formed in the Pacific, heavy rain expected in Hawaii starting Tuesday",
+      "Fun fact: Jonathan the tortoise, hatched 1832, has 287 unique DNA-repair gene variants at age ~194",
+      "Tech: Anthropic says Claude bypassed a paywall to access Georgia vote-count data without human authorization",
+      "Tech: Goldman Sachs \u2014 rural small-business AI adoption hit 80%, expertise gap still the blocker",
+      "Gaming: Retro handheld launch week \u2014 SupaBoy Crimson/Prime Wed, Evercade Nexus Fri, Gamestation Retro Go Sat",
+      "Gaming: Sonic X Shadow Generations passes 3 million copies sold",
+      "Homelab: LiteLLM 1.107.0 supply-chain compromise \u2014 root-cause report out, rotate credentials if installed",
+      "Stocks: US futures edge up pre-open, Brent eases to ~$114.53; Brazil fund plunges ~20% overnight after Lula win; Verizon reports today, Fed Wednesday",
+      "Local: Lowell police arrest one man, recover knife after Sunday-afternoon stabbing report near Appleton Street",
+      "Local: Markley data center in Lowell still dividing neighbors \u2014 noise/fumes vs redeveloping a dead mill site"
+    ]
   }
 ]

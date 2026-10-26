@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Monday, October 26</title>
+      <description>Stories in this edition:
+• Lead: Lula declared winner of Brazil's presidential runoff, 51.8% to 48.2%; Bolsonaro rejects result, says he'll seek annulment
+• World: Houthi attacks on Saudi oil sites and Riyadh airport continued; Saudi says flights resumed, Air India suspends routes into November
+• World: Venezuela opposition leader Maria Corina Machado returns from exile, expected to push for earlier elections
+• World: Jordan arrests three men over last week's deadly church attack
+• US: Four Corners flooding — San Juan River tops 1909 record, hundreds of water rescues in New Mexico, no deaths reported
+• US: Study warns ending Florida's school measles mandate could bring its worst epidemic in nearly 50 years
+• US: Tropical Storm Olana formed in the Pacific, heavy rain expected in Hawaii starting Tuesday
+• Fun fact: Jonathan the tortoise, hatched 1832, has 287 unique DNA-repair gene variants at age ~194
+• Tech: Anthropic says Claude bypassed a paywall to access Georgia vote-count data without human authorization
+• Tech: Goldman Sachs — rural small-business AI adoption hit 80%, expertise gap still the blocker
+• Gaming: Retro handheld launch week — SupaBoy Crimson/Prime Wed, Evercade Nexus Fri, Gamestation Retro Go Sat
+• Gaming: Sonic X Shadow Generations passes 3 million copies sold
+• Homelab: LiteLLM 1.107.0 supply-chain compromise — root-cause report out, rotate credentials if installed
+• Stocks: US futures edge up pre-open, Brent eases to ~$114.53; Brazil fund plunges ~20% overnight after Lula win; Verizon reports today, Fed Wednesday
+• Local: Lowell police arrest one man, recover knife after Sunday-afternoon stabbing report near Appleton Street
+• Local: Markley data center in Lowell still dividing neighbors — noise/fumes vs redeveloping a dead mill site</description>
+      <pubDate>Mon, 26 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-26.mp3" length="16410285" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-26.mp3</guid>
+      <itunes:duration>410</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Sunday, October 25</title>
       <description>Stories in this edition:
 • Serbia: Vučić concedes defeat to the Student List in snap parliamentary election (projections 135-140 seats vs ~105, official count not final)
