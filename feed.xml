@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Tuesday, October 27</title>
+      <description>Stories in this edition:
+• Lead: Israel exit polls — Likud largest party, Eisenkot bloc ahead 52-53 vs Netanyahu's 50, neither at 61, record turnout
+• World: Drone strike on Omdurman substation blacks out much of Khartoum a day after five substations hit across Sudan
+• World: Nigeria Binnari attack toll rises to at least 62, police say count not final
+• World: Russian missiles and drones hit Kyiv — one killed, 15 injured, dormitory and Southern Bridge damaged
+• US: Boeing posts wider-than-expected Q3 loss, cuts 737 MAX delivery outlook, stock closes down 10.7%
+• US: Trump rallies in Texas for Paxton as Talarico poll lead sits inside the margin of error
+• US: Durable goods +1.8% and consumer confidence jumps to 91.7 ahead of tomorrow's Fed decision
+• Fun fact: New Vietnamese frog species is an inch long, mostly eardrum, and smells
+• Tech: Banks and Blackstone form $63B vehicle to buy Broadcom chips and lease them to Anthropic
+• Tech: Anthropic unveils IPO filing, reported valuation up to $2 trillion, steep losses disclosed
+• Gaming: Cozy-horror life sim Village in the Shade launches with three rules you should not break
+• Gaming: The Outlast Trials surprise-launches on Switch 2
+• Homelab: CetraFS and MeshXFS aim to bring VMFS-like shared storage to Proxmox
+• Stocks: Nasdaq +1.18% on chip rally, S&amp;P +0.60%, Dow flat; Datadog +0.2% near $281; Visa beats after the bell but slips
+• Local: Scream 30th anniversary screening with David Arquette live, Thursday at Lowell Memorial Auditorium
+• Local: Merrimack Valley Eats field trip — Averill House Vineyard's igloos and half-price frozen wine</description>
+      <pubDate>Tue, 27 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-27.mp3" length="18124845" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-27.mp3</guid>
+      <itunes:duration>453</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Tuesday, October 27</title>
       <description>Stories in this edition:
 • Lead update: Israel turnout hits 44.9% by 2pm, highest in decades; Netanyahu alleges theft, polls close 10pm
