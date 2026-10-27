@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Tuesday, October 27</title>
+      <description>Stories in this edition:
+• Israel votes in first parliamentary election since October 7 — Netanyahu vs Eisenkot, neither bloc near 61 seats
+• Syria closes Nassib crossing with Jordan after Jordanian airstrikes; accounts differ, details still coming in
+• Kenya releases first 20 Bundibugyo Ebola contacts after 21 days; 98 still in quarantine
+• London closes almost a kilometre of Oxford Street to traffic through spring 2027
+• US and Canada working on a deal to ease steel and auto tariffs ahead of the midterms, per Reuters
+• Fed meeting opens today; Bank of Canada expected to hike Wednesday on energy inflation
+• Montana: American Prairie bison herd passes 1,000 at 1,016 animals
+• Fun fact: Peruvian Amazon cash pilot with no conditions cut food insecurity from 73% to 26%
+• Apple iOS 27.2: Siri AI goes multilingual and gains memory of past conversations
+• Bipartisan AI Cyber Defense Act targets model distillation attacks
+• Original Xbox games appearing in achievement lists ahead of rollout
+• Minecraft lands on Switch 2 today; Game Pass adds The Seance of Blake Manor
+• Homelab: Proxmox PwnEscape patch guide — VE 9 kernel fix, VE 8 end of life, reboot required
+• Stocks overnight: Kospi +3.8%, Nikkei +1.9%, US futures higher; Datadog closed +3.9% Monday
+• Lowell: Markley data center dividing its neighborhood, per AFP
+• Lowell Highlands group: four young kittens near Highland and Fairfax need watching out for</description>
+      <pubDate>Tue, 27 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-27.mp3" length="17161005" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-27.mp3</guid>
+      <itunes:duration>429</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Monday, October 26</title>
       <description>Stories in this edition:
 • Brazil markets crash after Lula reelection — Ibovespa closes down about 13.9% after a circuit-breaker halt, real falls over 11%, Treasury cancels bond auctions (Reuters)
