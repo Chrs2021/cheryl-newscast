@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Tuesday, October 27</title>
+      <description>Stories in this edition:
+• Lead update: Israel turnout hits 44.9% by 2pm, highest in decades; Netanyahu alleges theft, polls close 10pm
+• World: More than 60 Christians killed in Ethiopia's Oromia region, church says via BBC; responsibility unconfirmed
+• World: Search continues for 5 missing after Prospector 5 rig sank off Gabon; 110 of 115 accounted for
+• World: Lula wins historic fourth term in Brazil with 51.79%; Bolsonaro refuses to concede, seeks annulment
+• US: Vance campaigns for Marshall in Kansas; Trump due in Salina Saturday; Hamilton leads narrowly in polls
+• US: Federal judge orders Maureen Comey reinstated with back pay; Comey Espionage Act grand jury effort fails
+• US: HealthSpan Partners to acquire Surgery Partners for $5.7 billion; stock rose 47.6%
+• Fun fact: 237-million-year-old armoured marine amphibian Gerrothorax maritimus drank seawater
+• Tech: Apple launches M6 MacBook Pro ($1,999) and iMac ($1,499); preorders Wednesday, available Nov 6
+• Tech: Nvidia agrees to invest $3 billion in Meta for AI infrastructure partnership
+• Gaming: PS Plus final October wave adds Poppy Playtime Chapter 2, Tales of Arise Beyond the Dawn, Supercross 25
+• Gaming: Ecstatica and Ecstatica II re-released for Halloween with modern upgrades
+• Homelab: GEAK OS preview NAS OS tested on Proxmox — polished but SMB/DNS issues make it risky
+• Stocks A: Futures higher after AI rally; Visa after bell; oil down, bitcoin below $80k
+• Stocks B: Datadog slips ~0.7% to ~$278; UBS raises target to $320 ahead of Nov 4 earnings
+• Local: Lowell mail-in ballot request deadline today at 5pm; early voting through Oct 30
+• Local: UMass Lowell Halloween Observatory tonight at 8pm; Lowell General honored at Mass Save awards</description>
+      <pubDate>Tue, 27 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-27.mp3" length="17260845" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-27.mp3</guid>
+      <itunes:duration>431</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Tuesday, October 27</title>
       <description>Stories in this edition:
 • Israel votes in first parliamentary election since October 7 — Netanyahu vs Eisenkot, neither bloc near 61 seats
