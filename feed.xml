@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Wednesday, October 28</title>
+      <description>Stories in this edition:
+• Lead: Spain high-speed train collision near Urda — toll revised to 68, 58 in hospital, train cleared despite red signal per transport minister, Copa del Rey matches postponed
+• World: Ebola outbreak in Congo passes 10,000 cases with 4,887 deaths, largest in DRC history, no approved vaccine for the strain
+• World: Norway and Finland leaders hold frank call with Putin on Ukraine
+• World: Man shot dead outside Israeli embassy in Belgrade after knife attack on officer, Serbia raises terrorism alert
+• US: CDC report flags drug-resistant germs — 19 pathogens, ~9.8M infections and ~50,800 deaths a year
+• US: Midterm ad spending passes record $11 billion
+• US: UPS raises 2026 outlook after Q3 sales rise 6.7%
+• Unhinged fun fact: giant isopod sat mislabeled in a German museum collection for 30+ years before being recognized as a new species
+• Tech: OpenAI reportedly plans to buy Google's AI chips (TPUs)
+• Tech: Cloudflare discloses fixed cross-customer AI data exposure, 155 responses affected
+• Gaming: Gamestation Retro Go preorders open, $199.99, 200+ licensed Namco/Capcom games
+• Gaming: SNK's Prehistoric Isle (1989) joins Arcade Archives Oct 29 for $7.99
+• Homelab: Proxmox Backup Server makes a homelab disposable — XDA walkthrough
+• Stocks midday: indices inch higher ahead of Fed (S&amp;P +0.2%, Dow +0.1%, Nasdaq +0.4%); AMD $568.17 +1.41%, Nvidia $217.86 flat; Datadog ~$279 -0.72%
+• Local: Billerica Community Farmers Market named best in Massachusetts for fifth straight year
+• Local: Scream 30th anniversary screening with David Arquette live at Lowell Memorial Auditorium tomorrow night</description>
+      <pubDate>Wed, 28 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-28.mp3" length="12262125" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-28.mp3</guid>
+      <itunes:duration>306</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Wednesday, October 28</title>
       <description>Stories in this edition:
 • World Series: Rays stun Brewers 4-3 in 12 innings in Game 4; Milwaukee still leads 3-1, Game 5 tonight
