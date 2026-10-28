@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Wednesday, October 28</title>
+      <description>Stories in this edition:
+• World Series: Rays stun Brewers 4-3 in 12 innings in Game 4; Milwaukee still leads 3-1, Game 5 tonight
+• Israel election count: no clear winner — Netanyahu bloc projected at 55 seats, fractured opposition near 65, nobody near 61
+• Cyclone Arnab makes landfall on India's Andhra Pradesh coast with 150 kmph gusts and storm-surge warnings
+• Brazil: Lula wins presidential runoff with 51.79%; opponent's party recognizes the victory
+• Fed rate decision today at 2pm ET — expected to hold at 3.75–4.00% with inflation at 3.7%
+• Microsoft offers voluntary buyouts to about 60,000 employees, roughly 27% of its workforce
+• Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+• Fun fact: a fully marine armoured amphibian lived in ancient seas 237 million years ago
+• Apple refreshes iMac and entry 14-inch MacBook Pro with the M6 chip; preorders today, ships Nov 6
+• Malaysia seizes about $12.1M in advanced AI chips at Kuala Lumpur airport, per customs
+• Ollama for Mac gains local text-to-speech support, starting with Gradium's Phonon models
+• Original Xbox games now run on jailbroken PS5s via the XPSemu port of xemu, in early alpha
+• Retrobright warning: decade-long Dreamcast test suggests whitening can accelerate plastic degradation
+• Homelab: CetraFS and MeshXFS are bringing VMFS-like shared storage to Proxmox clusters
+• Stocks: S&amp;P 500 +0.60%, Nasdaq +1.18%, Dow flat Tuesday; chip stocks +3.6%, AMD +5.43%, Broadcom +3.89%
+• Datadog closed at $280.82, up 0.21%; UBS raised its target to $320 ahead of Nov 4 earnings
+• Lowell: City Council quietly reinstates Flock plate cameras in limited form, per InsideLowell
+• Lowell Highlands update: all four kittens near Highland and Fairfax rescued, now with Lowell Humane Society</description>
+      <pubDate>Wed, 28 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-28.mp3" length="12291885" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-28.mp3</guid>
+      <itunes:duration>307</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Tuesday, October 27</title>
       <description>Stories in this edition:
 • Lead: Israel exit polls — Likud largest party, Eisenkot bloc ahead 52-53 vs Netanyahu's 50, neither at 61, record turnout
