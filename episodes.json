@@ -1346,5 +1346,32 @@
       "Local: Billerica Community Farmers Market named best in Massachusetts for fifth straight year",
       "Local: Scream 30th anniversary screening with David Arquette live at Lowell Memorial Auditorium tomorrow night"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-28",
+    "file": "cheryl-news-evening-2026-10-28.mp3",
+    "bytes": 14018925,
+    "duration_sec": 350,
+    "stories": [
+      "Spain train crash update: death toll confirmed at 68, PM Sanchez vows full investigation, red-signal error cited, Madrid\u2013Andalusia high-speed service suspended",
+      "UK budget: Chancellor Healey gives 20 million households \u00a3100 toward energy bills, funded partly by doubling the bank profit surcharge to 6%",
+      "Brazil update: defeated candidate Flavio Bolsonaro lands in Miami after defying a court order to surrender his passports; US issued visas, Trump approves",
+      "Around 200 residents of the Villa Vie Odyssey cruise-for-life ship stranded in Sihanoukville, Cambodia after operator suspends voyage over quadrupled fuel costs",
+      "Fed holds rates at 3.75\u20134.00% in a 10\u20132 vote; Cook and Hammack dissented in favor of a hike; no December signal",
+      "Grand jury declines to indict former White House aide Cassidy Hutchinson over her January 6 testimony, per Reuters/AP sources",
+      "Wendy's gets a $1.4B take-private offer from a Peltz-led Trian group at $7.35/share; stock jumps about 15%",
+      "Unhinged fun fact: Infernogallus, the turkey-sized \"hell chicken,\" is the first known fruit-eating dinosaur, with parrot-like chewing muscles",
+      "SK Hynix posts record quarter with operating profit up more than sevenfold; shares soar in Seoul, Micron rises 5.9%",
+      "Meta launches Waddle World, a Tamagotchi-style AI pet app, in the Philippines only for now",
+      "Nintendo Indie World: Witchbrook dated January 28, Slime Rancher 2 in January, Lost and Found Co. November 10",
+      "Joe & Mac Retro Collection out tomorrow with virtual unboxing of every regional SNES version",
+      "Homelab: a three-node Proxmox cluster built from dusty retired laptops sparks an argument about open vs closed lids",
+      "Stocks close: S&P 500 +0.28% to 7,744, Dow +0.19%, Nasdaq +0.27% to 26,550; quiet green day led by chips",
+      "Micron +5.9%, AMD closes $569.27 (+1.61%), Nvidia closes $213.75 (-1.92%)",
+      "Datadog closes at $278.41, down 0.86%; earnings November 4",
+      "Lowell: wanted New Hampshire fugitive Daquhan Cromer located and taken into custody in Lowell by State Police and US Marshals, per Salem police",
+      "DOJ to send federal election monitors to Lowell and Boston polls on Election Day, per the Secretary of the Commonwealth's office"
+    ]
   }
 ]
