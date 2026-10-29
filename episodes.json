@@ -1428,5 +1428,32 @@
       "Local: Police say escaped NH inmate Daquhan Cromer arrested in Lowell; held without bail, hearing Nov 2",
       "Local: Behind The Scream \u2014 David Arquette live after 30th anniversary screening tonight at Lowell Memorial Auditorium"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-29",
+    "file": "cheryl-news-evening-2026-10-29.mp3",
+    "bytes": 15285165,
+    "duration_sec": 382,
+    "stories": [
+      "Lead: North Korea fires around ten short-range ballistic missiles from Wonsan into the sea, per South Korea's military",
+      "World update: Spain train crash toll confirmed at 69, former minister Fatima Banez named among the dead, 50 still in hospital",
+      "World: Iran's Guards claim three tankers hit mines in the Strait of Hormuz; UK agency confirms only one ship on fire, cause unconfirmed",
+      "World: Israel's President Herzog calls for investigation into suspected foreign election interference amid the deadlock",
+      "US: Hacker group claims DHS login breach exposing 40,000+ personnel; DHS says it's aware of a potential breach",
+      "US update: DOJ tells court no FBI or ICE employees will serve as midterm poll monitors, and monitors won't carry firearms",
+      "US: Nearly 5.9 million Bodum French presses recalled over breaking glass and burn reports",
+      "Unhinged fun fact: First known amphibian that lived entirely at sea found fossilised in China, 237 million years old",
+      "Tech: Amazon AWS sales jump 39% but earnings miss; Intel data centre revenue rises, holiday outlook lands badly",
+      "Tech: SanDisk beats and announces an eight-for-one stock split effective November 19",
+      "Gaming: Phantom Blade Zero peaks above 720,000 concurrent Steam players on launch day",
+      "Gaming: Mortal Kombat 4 gets a 2026 update with modern controller support and graphics/audio fixes",
+      "Homelab: The case for finally setting up Proxmox Backup Server and making every lab machine disposable",
+      "Stocks close: Nasdaq -1.38%, S&P 500 -0.30%, Dow -0.25%; Alphabet down over 12%",
+      "Stocks after hours: Intel crashes over 20% on weak holiday guidance; Amazon falls sharply",
+      "Stocks: Datadog closes at $265.84, down 4.5%, ahead of its November 4 earnings",
+      "Local: Tewksbury police arrest at a Main Street motel arraigned in Lowell District Court; allegations, hearing November 2",
+      "Local: UMass Lowell Cybersecurity Summit runs Friday at the Wannalancit Business Center Cyber Range"
+    ]
   }
 ]

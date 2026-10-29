@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Thursday, October 29</title>
+      <description>Stories in this edition:
+• Lead: North Korea fires around ten short-range ballistic missiles from Wonsan into the sea, per South Korea's military
+• World update: Spain train crash toll confirmed at 69, former minister Fatima Banez named among the dead, 50 still in hospital
+• World: Iran's Guards claim three tankers hit mines in the Strait of Hormuz; UK agency confirms only one ship on fire, cause unconfirmed
+• World: Israel's President Herzog calls for investigation into suspected foreign election interference amid the deadlock
+• US: Hacker group claims DHS login breach exposing 40,000+ personnel; DHS says it's aware of a potential breach
+• US update: DOJ tells court no FBI or ICE employees will serve as midterm poll monitors, and monitors won't carry firearms
+• US: Nearly 5.9 million Bodum French presses recalled over breaking glass and burn reports
+• Unhinged fun fact: First known amphibian that lived entirely at sea found fossilised in China, 237 million years old
+• Tech: Amazon AWS sales jump 39% but earnings miss; Intel data centre revenue rises, holiday outlook lands badly
+• Tech: SanDisk beats and announces an eight-for-one stock split effective November 19
+• Gaming: Phantom Blade Zero peaks above 720,000 concurrent Steam players on launch day
+• Gaming: Mortal Kombat 4 gets a 2026 update with modern controller support and graphics/audio fixes
+• Homelab: The case for finally setting up Proxmox Backup Server and making every lab machine disposable
+• Stocks close: Nasdaq -1.38%, S&amp;P 500 -0.30%, Dow -0.25%; Alphabet down over 12%
+• Stocks after hours: Intel crashes over 20% on weak holiday guidance; Amazon falls sharply
+• Stocks: Datadog closes at $265.84, down 4.5%, ahead of its November 4 earnings
+• Local: Tewksbury police arrest at a Main Street motel arraigned in Lowell District Court; allegations, hearing November 2
+• Local: UMass Lowell Cybersecurity Summit runs Friday at the Wannalancit Business Center Cyber Range</description>
+      <pubDate>Thu, 29 Oct 2026 17:15:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-29.mp3" length="15285165" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-10-29.mp3</guid>
+      <itunes:duration>382</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Thursday, October 29</title>
       <description>Stories in this edition:
 • Lead: Spain train collision toll rises to 69; minister blames safety failure and control-centre order
