@@ -14,6 +14,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Thursday, October 29</title>
+      <description>Stories in this edition:
+• Lead: Brewers beat Rays 4-1 in Game 5 to win first World Series title in franchise history
+• World: Russia hits Kyiv with 16 ballistic missiles and 280+ drones ahead of proposed Abu Dhabi peace talks
+• World: Rights group says 100+ killed in drone strike on Nyala market in Sudan; MSF reports 36 bodies, 150+ wounded, counts unverified
+• World: Bank of Canada hikes rates a quarter point to 2.50%, first increase since 2023, citing oil-driven inflation
+• US: HHS report says US opioid deaths at lowest rate in nearly a decade
+• US: Allegheny County passes 12 weeks paid parental leave, first county law of its kind in the US
+• US: Civil rights leader Dolores Huerta dies at 96 in Bakersfield
+• Fun fact: Bleached coral touching a healthy clone recovered in seven weeks in a Stanford tank test; separated fragments died
+• Tech: Google opens its TPU AI chips to outside customers, Oracle first partner beyond Google Cloud
+• Tech: Nvidia releases Nemotron 3.5 Transcribe, free open-weight transcription in up to 40 languages, plus Granary v2
+• Gaming: TAITO Milestones 5 announced for Switch, Japan Jan 28, with Space Invaders and three-screen Sagaia
+• Gaming: Sword of the Sea launches on Switch 2 today from the makers of Abzu and Journey
+• Homelab: Community integration pulls Proxmox nodes, VMs, containers and storage into Home Assistant
+• Stocks: Alphabet plunges ~10% after hours on earnings miss and AI cash burn; Nasdaq futures down ~1%
+• Stocks: Microsoft rises ~3% after hours on a beat; Amazon and Intel report later today
+• Stocks: Datadog closed Wednesday at $278.41, down 0.86%; earnings Nov 4
+• Local: GLCF survey — 52% of Lowell-area nonprofits cut services to low-income families and youth as funding tightens
+• Local: Wachter opens 75,000 sq ft logistics and training center at its Lowell campus, plans ~20% local workforce growth
+• Local: Highlands neighborhood group seeks owner of a friendly, skinny visiting cat</description>
+      <pubDate>Thu, 29 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-29.mp3" length="14290605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-29.mp3</guid>
+      <itunes:duration>357</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Wednesday, October 28</title>
       <description>Stories in this edition:
 • Spain train crash update: death toll confirmed at 68, PM Sanchez vows full investigation, red-signal error cited, Madrid–Andalusia high-speed service suspended
