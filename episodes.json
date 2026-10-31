@@ -1534,5 +1534,31 @@
       "Local: Federal election observers headed to Lowell and Boston for Tuesday; Lowell has a trilingual ballot",
       "Local: Lowell Highlands costume emergency (missing fake leather jacket, boys 7/8) and Hayvrill Farmers Market's last session with ghost macarons"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-10-31",
+    "file": "cheryl-news-evening-2026-10-31.mp3",
+    "bytes": 11781165,
+    "duration_sec": 294,
+    "stories": [
+      "Lead: Binance withdrawals still paused after $6.3B hack \u2014 restart targeted before Sunday, ~$3B frozen, losses pledged covered, proof of reserves due Monday",
+      "World: Ebola death toll in DR Congo passes 5,000 \u2014 deadliest recorded outbreak there, still uncontrolled",
+      "World: Poland constitutional tribunal protests \u2014 3 detained, President Nawrocki returns early",
+      "World: Dakar Youth Olympic Games open in Senegal \u2014 first Olympic event in Africa, ~2,700 athletes through Nov 13",
+      "US: Federal judge bars coercing election officials over ballot processing on ineligibility allegations alone \u2014 order through Nov 16",
+      "US: ExxonMobil earns $15.4B, more than double a year ago, as oil profits surge amid higher fuel costs",
+      "US: US economy grew 3.4% annualized in Q3, beating expectations, inflation still above target",
+      "Fun fact: First marine amphibian found \u2014 armored, seawater-drinking, 237 million years ago",
+      "Tech: OpenAI funding update \u2014 only ~$11B committed by Friday deadline (WSJ), target now $20B",
+      "Tech: Sam Altman meets Samsung executives in South Korea on memory chips and AI infrastructure",
+      "Gaming: Classic Xbox backward compatibility launches on PC with Blinx, Conker, Crimson Skies, Fuzion Frenzy",
+      "Gaming: FromSoftware delays The Duskbloods (Switch 2) to 2027 for rules/balance adjustments",
+      "Homelab: Proxmox PwnEscape guest-to-host escape \u2014 patch/upgrade, VE 8 series gets no fix",
+      "Stocks A: October closes with worst week since spring, Nasdaq 100 in correction, Reddit -29%",
+      "Stocks B: Treasuries rally (2yr 4.56%, 10yr 4.94%), next Fed move priced as a hike, Datadog sits at $235.27",
+      "Local: Lowell schools get nearly $5M in MSBA accelerated repair funding for Bailey, Shaughnessy, McAvinnue",
+      "Local: Lowell Highlands FB \u2014 hand-deliver mail ballots to police station by City Hall (24/7) or Election Department ahead of Tuesday"
+    ]
   }
 ]
