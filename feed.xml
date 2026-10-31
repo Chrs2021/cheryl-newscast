@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Saturday, October 31</title>
+      <description>Stories in this edition:
+• Lead: Iran says three tankers hit mines in the Strait of Hormuz, Oman rescues 25 crew, US disputes the mine claims as oil jumps
+• World: US approves potential $2.1B sale of 500 Patriot interceptors to Ukraine, with delivery timing in question
+• World: Canada and the EU announce a new strategic alliance and a €90B Ukraine support loan
+• World: Russia hosts its third Russia-Africa summit in Moscow, pitching trade toward $50B
+• US: CDC puts US measles cases at 4,852, up 264 in the latest update
+• US: Appeals court rejects bid to block California counting midterm mail ballots from 20,000+ voters
+• US: Clocks fall back tonight as standard time returns at 2am
+• Fun fact: Scientists identify the first fruit-eating dinosaur, a turkey-sized hell chicken from Hell Creek
+• Tech: OpenAI cuts its funding target by $10B to about $20B amid the tech selloff, FT reports
+• Tech: Big banks are blocking AI agents from customer accounts over rogue-login concerns, Axios reports
+• Gaming: The Wolf Among Us Remastered is out — $24.99 new, half off for original digital owners through Nov 12
+• Gaming: Classic Xbox games surface in player profiles with achievements attached, fueling backward-compatibility hopes
+• Homelab: October's new self-hosted apps roundup — Wallos, Open Archiver, Trilium, Linkwarden
+• Stocks: Friday close — Nasdaq -2.86%, S&amp;P 500 -1.82%, Dow -1.09%, Intel -28.6% in its worst day since 1974
+• Stocks: Nvidia -4.2%, AMD -10.9%, Datadog -11.5% to $235.27
+• Local: New $7M Community Teamwork shelter opens in Lowell, housing 50 women with meals and support services
+• Local: Not Dead Yet giant skeleton installation on Geana Lane in Lowell runs through Nov 1, best after dark</description>
+      <pubDate>Sat, 31 Oct 2026 04:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-31.mp3" length="13272045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-10-31.mp3</guid>
+      <itunes:duration>332</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Friday, October 30</title>
       <description>Stories in this edition:
 • Lead: Markets close sharply lower — Nasdaq -2.86%, S&amp;P 500 -1.82%, Dow -1.1% on AI-spending fears, worst day since June
