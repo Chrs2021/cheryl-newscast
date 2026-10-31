@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Saturday, October 31</title>
+      <description>Stories in this edition:
+• Lead: Oleshky evacuees reunited after 1,711 days under a ceasefire Pope Leo called for and Melania Trump helped negotiate
+• World: Cost-of-living protests spread from France to Germany; France braces for a third weekend
+• World: Dockworkers strike across 113 ports in 22 countries over arms shipments and seafarer deaths
+• World: G20 foreign ministers meet in Atlanta; family photo cancelled over Russian minister protests
+• US: Democrats lead final generic-ballot polling 51.4% to 43.2% before Tuesday's midterms
+• US: Federal probe accelerated into Alaska's two Dan Sullivans ballot allegations — claims attributed, not independently confirmed by Reuters
+• US: Record 49 million early midterm ballots cast, including Pope Leo by mail
+• Fun fact: Tidal trapdoor spider off Mauritius seals itself underwater with a silk, sand and algae door
+• Tech: OpenAI, Google, Microsoft and Anthropic back one shared robots.txt AI-training opt-out signal
+• Tech: Tampered Claude Code extension reached up to 5,000 Cursor users, researchers say
+• Gaming: Evercade Nexus retro handheld launches at $199.99 with Banjo-Kazooie pack-in
+• Gaming: Queen's Domain retro-fantasy RPG launches Oct 30 across PC, PS5, Xbox and Switch 2
+• Homelab: Proxmox Datacenter Manager argument — most home labs don't need a cluster
+• Stocks: Market closed Saturday; Nasdaq futures -3.45%, S&amp;P futures -1.8%, Nvidia +0.29% after hours
+• Stocks: Week close — S&amp;P 500 7,580.07 (-0.57% week), Nasdaq 25,437 (-2% week); Apple earnings Monday
+• Local: Federal election observers headed to Lowell and Boston for Tuesday; Lowell has a trilingual ballot
+• Local: Lowell Highlands costume emergency (missing fake leather jacket, boys 7/8) and Hayvrill Farmers Market's last session with ghost macarons</description>
+      <pubDate>Sat, 31 Oct 2026 11:30:00 -0400</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-31.mp3" length="14313645" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-10-31.mp3</guid>
+      <itunes:duration>358</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Saturday, October 31</title>
       <description>Stories in this edition:
 • Lead: Iran says three tankers hit mines in the Strait of Hormuz, Oman rescues 25 crew, US disputes the mine claims as oil jumps
