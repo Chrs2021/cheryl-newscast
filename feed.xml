@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Sunday, November 1</title>
+      <description>Stories in this edition:
+• Lead: Binance resumes bitcoin withdrawals after covering 95% of $6.3B hack; FBI ties theft to North Korea's TraderTraitor, Trump says US not certain
+• World: France sees 320,000 march in third cost-of-living protest weekend, clashes and hundreds of arrests at dusk
+• World: Overnight drone strike sets Kstovo refinery ablaze in Russia; governor says 100+ drones downed, no casualties reported
+• World: Oleshky evacuation complete — about 700 residents reunited in Ukraine after move via Russia and Belarus
+• US: California Gov. Newsom warns judges over possible ballot seizures; appeals court rejected DOJ bid, Supreme Court fight possible
+• US: Record early voting tops 51 million as midterm campaign enters final weekend before Tuesday
+• US: ACA open enrollment opens today with benchmark silver premiums up 13% on average for 2027
+• Fun fact: Busan's blacktip shark Bukan vanishes after 33 days in a port waterway; experts think it swam to deeper water
+• Tech: OpenAI, Google, Microsoft and Anthropic agree to honor one shared robots.txt training opt-out signal
+• Tech: Tampered Claude Code extension in Cursor marketplace reached up to 5,000 users; Anthropic says its systems weren't compromised
+• Gaming: Evercade Nexus handheld launches at $199.99 with Banjo-Kazooie Double Pack cartridge in the box
+• Gaming: Game Pass adds Pit of Goblin Nov. 3; Final Fantasy VII Remake Intergrade joined last week
+• Homelab/voice: Nvidia releases open-weight Nemotron transcribe model for 40 languages plus 463,000-hour Granary dataset
+• Stocks: Friday close — Nasdaq -2.86% to 25,437, S&amp;P 500 -1.82% to 7,580, Dow -1.09% to 51,770; October was Nasdaq's worst month since March 2025
+• Stocks: Datadog closes Friday at $235.27, down 11.5%; week ahead has Apple earnings Monday, midterms Tuesday, jobs report Friday
+• Local: Federal election observers headed to Boston and Lowell polls on Tuesday in DOJ's biggest deployment
+• Local: Lowell Highlands Halloween was packed around Bailey/Daley; mail-ballot hand-delivery reminder to police station by City Hall</description>
+      <pubDate>Sun, 01 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-01.mp3" length="13042605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-01.mp3</guid>
+      <itunes:duration>326</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Saturday, October 31</title>
       <description>Stories in this edition:
 • Lead: Binance withdrawals still paused after $6.3B hack — restart targeted before Sunday, ~$3B frozen, losses pledged covered, proof of reserves due Monday
