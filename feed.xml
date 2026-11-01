@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Sunday, November 1</title>
+      <description>Stories in this edition:
+• Learjet 60 crash near Greenacres, Florida — all nine aboard killed, per Transportation Secretary Duffy; ground casualties unconfirmed
+• Russia's FSB says it detained a teenager planning a Moscow museum attack after a US tip-off
+• North Korea says it tested a cluster-bomb warhead for tactical missiles
+• Tens of thousands of young protesters march in about 30 German cities over living costs
+• Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan's open Senate seat
+• Sen. Chris Murphy hospitalized after a stroke, his office says
+• Seven people shot early Sunday in Bloomington, Indiana; no deaths reported, police say
+• Unhinged fun fact: scientists rebuilt a 165-million-year-old insect song — one species sang in ultrasound
+• Chainalysis discloses a breach involving offensive agentic techniques
+• Samsung posts a record quarter; its 2027 high-bandwidth memory is already sold out
+• Nintendo's Pikmin Day: Pikmin 4 Switch 2 Edition + Dandori Academy announced for Nov 12
+• Godzilla: Destroy All Monsters Melee remaster lands Tuesday
+• Mistral opens the weights of Large 4 for self-hosting, with a Model-as-a-Service license catch
+• Stocks: futures poised to open after last week's tech drop; VIX closed Friday at 19.42
+• Week ahead: Apple and Palantir Monday, Datadog Wednesday, October jobs report Friday
+• UMass Lowell opens a new Cyber Security Operations Center
+• Lowell Highlands group: a mystery fireball in last night's sky, and a fire-truck corner debate</description>
+      <pubDate>Sun, 01 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-01.mp3" length="13046445" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-01.mp3</guid>
+      <itunes:duration>326</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Sunday, November 1</title>
       <description>Stories in this edition:
 • Iran orders unrestricted response to any new attack; Rubio says Trump undecided, talks continue via Qatar
