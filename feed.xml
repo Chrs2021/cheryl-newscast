@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Sunday, November 1</title>
+      <description>Stories in this edition:
+• Iran orders unrestricted response to any new attack; Rubio says Trump undecided, talks continue via Qatar
+• Ebola deaths in DR Congo pass 5,026 in the country's deadliest outbreak, Bundibugyo strain
+• Bangladesh forms wage board as garment protests shut 529 factories
+• Dakar Youth Olympic Games open, first Olympic event ever held in Africa
+• Birmingham shooting after Magic City Classic leaves 1 dead, 8 wounded
+• Judge dismisses Trump's $10 billion Wall Street Journal lawsuit with prejudice
+• Midterm update: early voting passes 52 million, Trump rallies in Iowa and Kansas
+• Fun fact: first fully marine amphibian discovered, 237 million years old
+• VOLTA infostealer uses AI models to rank victims by worth, Cisco Talos reports
+• Apple Intelligence in China to run on Alibaba's Qwen, developer beta November 4
+• New physical NES game: Angry Video Game Nerd 8-Bit cartridge sells out
+• AYANEO AYASpace 2 turns handhelds into a Pocket Museum
+• Homelab: CetraFS and MeshXFS bring VMFS-like shared storage to Proxmox
+• Stocks week ahead: Apple and Palantir Monday, Datadog Wednesday, jobs report Friday
+• Lowell Council: $1.1M for police equipment, $1.5M for 14 firefighter recruits
+• Haverhill Farmers Market launches winter market, from Merrimack Valley Eats</description>
+      <pubDate>Sun, 01 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-01.mp3" length="12662445" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-01.mp3</guid>
+      <itunes:duration>317</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Sunday, November 1</title>
       <description>Stories in this edition:
 • Lead: Binance resumes bitcoin withdrawals after covering 95% of $6.3B hack; FBI ties theft to North Korea's TraderTraitor, Trump says US not certain
