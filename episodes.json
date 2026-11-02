@@ -1637,5 +1637,31 @@
       "UMass Lowell opens a new Cyber Security Operations Center",
       "Lowell Highlands group: a mystery fireball in last night's sky, and a fire-truck corner debate"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-11-02",
+    "file": "cheryl-news-morning-2026-11-02.mp3",
+    "bytes": 12789165,
+    "duration_sec": 320,
+    "stories": [
+      "Lead: Ukraine's air raid alert app hacked Sunday night, pushing fake radiation, nuclear and chemical warnings; hours later Russia says its own emergency alert app took a massive cyberattack",
+      "World: Bulgaria's acting President Iliana Iotova leads Sunday's runoff in exit polls, about 51-52% to Andrey Gyurov's 43-45%, on course to be the country's first elected female head of state",
+      "World: Thousands of opposition supporters march in New Delhi demanding India's election chief resign over alleged voter-list manipulation; government denies it",
+      "World: Gaza hospitals say Israeli strikes killed eight people, including a child; five were Hamas-run police in Khan Younis, per the hospitals",
+      "US: Federal judge in Alaska throws out DOJ lawsuit seeking to segregate ballots and delay certification of Alaska's Senate race; DOJ says it will appeal",
+      "US: Halloween weekend shootings leave at least 13 dead and 92 injured nationwide per CNN; Dallas Deep Ellum saw three shootings, four dead and 15 injured, police see no link between them",
+      "US: Senate map on election eve \u2014 CNN lists 11 seats that could flip, Democrats need four; Trump's approval at 34% in CNN's poll average, closing speech today in Washington",
+      "Fun fact: MBARI scientists film a barreleye fish for only the 11th time in nearly 40 years \u2014 transparent head, eyes swiveling inside the dome",
+      "Tech: OpenAI's raise shrinks \u2014 FT reports the target dropped from $30B to about $20B at a roughly $1.25 trillion valuation as investors cut commitments",
+      "Tech: DeepSeek open-sources a super-agent prototype that sits in team chats and answers requests with pull requests, faster but far more token-hungry",
+      "Gaming: Ocarina of Time remake out Thursday on Switch 2 \u2014 a copy broke street date on Halloween, and its notices list AMD FSR 1.0 upscaling instead of DLSS",
+      "Gaming: Fan remake Galerians Revamped gets a teaser \u2014 the 1999 PlayStation cult title rebuilt by an Argentine studio, planned free release",
+      "Homelab: ProxMate, an open-source portal, lets invited friends spin up VMs on your Proxmox cluster without admin access \u2014 per-VM firewall rules only bite once the cluster firewall is on",
+      "Stocks: Futures bounce Monday \u2014 S&P 500 futures +0.4%, Nasdaq futures +0.8% after Nasdaq's worst month since April 2025; Brent eases 2% to $111.15",
+      "Stocks: Apple reports after the close, analysts expect $2.00 EPS on $113B revenue; Palantir today too, Datadog Wednesday, October jobs report Friday",
+      "Local: Healey and Driscoll rally voters across the Merrimack Valley with Lawrence and Lowell stops; Lowell polls open 7am-8pm Tuesday, nine ballot questions across four cards",
+      "Local: Lowell Highlands group \u2014 St. Margaret's St. Vincent de Paul offering Thanksgiving food vouchers to parish neighbors in need, call the parish to request"
+    ]
   }
 ]
