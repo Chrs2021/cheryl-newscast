@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Tuesday, November 3</title>
+      <description>Stories in this edition:
+• Lead: Election Day midday — Westchester County ballot scanners failed, voters on paper ballots in secure bags, no extension needed; Ohio watchdogs report no major problems, Florida past 6M votes
+• World: US officials say defensive strikes hit Iran's Qeshm Island in the Strait of Hormuz Monday night after a US drone was downed
+• World: Ukraine aid-site strike toll rises to 29 dead, 48 missing; Witkoff announces US-mediated Ukraine-Russia talks in Abu Dhabi Nov 10-11
+• World: Belgium's king defers decision on accepting the prime minister's resignation after budget talks collapsed over an $11B gap
+• US: A Lewis County, NY child died of measles — the state's first measles death in 30 years, amid 178 cases this year
+• US: OpenSecrets projects nearly $12B in 2026 midterm spending, the most expensive midterm cycle ever
+• US: Flooding forced polling-place changes across Florida's Treasure Coast; western storm system still moving through
+• Unhinged fun fact: Jumping spiders cycle through sleep stages including a dream-like REM phase with twitching and eye movement
+• Tech: Marvell agrees to acquire Lumentum in an all-stock deal valued at about $115B, pending approvals
+• Tech: SemiAnalysis's GDPx benchmark grades AI agents on paid work — the best model scored 12%
+• Gaming: Thief: The Dark Project Remastered announced for December 3, with a new campaign by the Black Parade creators
+• Gaming: Zero Parades and Godzilla: Destroy All Monsters Melee Remastered both out today on Xbox
+• Homelab: CetraFS and MeshXFS are exploring VMFS-like clustered shared storage for Proxmox — early and not production-ready
+• Stocks: S&amp;P 500 and Nasdaq up midday; Apple down ~2.3% on the margin warning, Shopify fell as much as 20% premarket on its first revenue miss since 2022
+• Stocks: AMD up ~4.9% ahead of tonight's earnings, Pfizer down ~0.7% despite raised guidance, Datadog up ~1.2% ahead of Wednesday's report
+• Local: Federal election observers are at the polls in Lowell today; ballots in English, Spanish and Khmer, polls open until 8pm
+• Local: LASA Foundation Thanksgiving baskets drive this Saturday Nov 7, 9-11am, 40 Old Ferry Road (via Lowell Highlands group)</description>
+      <pubDate>Tue, 03 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-03.mp3" length="15128685" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-03.mp3</guid>
+      <itunes:duration>378</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Tuesday, November 3</title>
       <description>Stories in this edition:
 • Lead: Hackers hit supermarket fridges and freezers across seven European countries overnight, cranking units to 50C and forcing food dumps; no one has claimed it, per Reuters/AP
