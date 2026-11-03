@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Tuesday, November 3</title>
+      <description>Stories in this edition:
+• Lead: Election count begins — first polls closed 6pm ET in IN/KY, Lowell/MA polls close 8pm; Reuters says analysts favor Democrats for the House, Senate uncertain, counting could take days in CA/AK
+• World: Cyclone Murasu landfall near Ongole, Andhra Pradesh — at least 2 dead, 12,230+ in shelters, 52,459 hectares of crops damaged, second cyclone on that coast in a week
+• World: Uganda begins withdrawing troops from Somalia after almost two decades — about 4,500 troops, full drawdown by end of 2027, AU mission warns Lower Shabelle could be exposed (Reuters)
+• World: FDA grants tentative approval to first generic lenacapavir (Dr. Reddy's) — twice-yearly HIV prevention shot at ~$40/year in 120 low/middle-income countries vs $28,218 US list price
+• US: NTSB confirms Tuesday the Palm Beach Learjet 60 was breaking apart before impact — tail pieces found &gt;1 mile away in 3 parts, all 9 aboard died, weather a major focus, no cause named
+• US: Monterey County authorities say 2 killed, 2 injured in early-morning shooting at Moss Landing State Beach; victims not yet identified, motive not determined
+• US: Yale/PNAS study — some Caribbean forest lizards measurably increased heat tolerance in just a decade, fastest in species that cannot easily escape heat
+• Unhinged fun fact: Researchers report strongest evidence yet of red blood cells and heme in a 115-million-year-old dinosaur bone; not all experts are convinced
+• Tech: Apple Intelligence reaches China — developer testing from Nov 4, December rollout, Alibaba's Qwen supports selected features, redesigned Siri not in this phase
+• Tech: WIRED uncovered 400+ ordinary-looking apps/websites hiding abusive deepfake tools, some loading explicit features after install behind e.g. pet portrait generators
+• Gaming: Rockstar says GTA 6 digital pre-load starts Nov 10 ahead of Nov 19 PS5/Xbox launch; code-in-box copies from Nov 12, no PC version announced
+• Gaming: ArcheAge Chronicles opens PC Early Access today — XL Games open-world action MMO set in Auroria, $29.99 on Steam
+• Homelab: Critical UEFI RCE CVE-2026-97631 (9.5) in EDK II PXE boot code — no fixed stable release yet, vendor firmware pending; mitigation is disable PXE boot where not needed
+• Stocks: Close — S&amp;P 500 +0.37% to 7,568, Nasdaq +0.83% to 25,366, Dow -0.40%; Apple ~-2% on margin warning, Philadelphia semiconductor index +2.6%
+• Stocks: AMD closed +3.7% near $484, then ~+7% after hours on record Q3 revenue $13.4B, data center sales nearly doubled, Q4 guide ~$17B; Datadog +2.05% to $220.52, reports Wednesday morning
+• Local: Lowell polls close 8pm — MA governor Healey vs Minogue, US Senate Markey vs Deaton, plus 9 ballot questions on a 4-card, 8-page ballot
+• Local: Lowell Highlands Facebook group — resident's Friday 311 recycling request (whole street missed) closed today as lapsed/unreviewed, told to call the DPW that didn't answer Friday</description>
+      <pubDate>Tue, 03 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-03.mp3" length="15116205" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-03.mp3</guid>
+      <itunes:duration>378</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Tuesday, November 3</title>
       <description>Stories in this edition:
 • Lead: Election Day midday — Westchester County ballot scanners failed, voters on paper ballots in secure bags, no extension needed; Ohio watchdogs report no major problems, Florida past 6M votes
