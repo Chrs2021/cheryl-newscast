@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Tuesday, November 3</title>
+      <description>Stories in this edition:
+• Lead: Hackers hit supermarket fridges and freezers across seven European countries overnight, cranking units to 50C and forcing food dumps; no one has claimed it, per Reuters/AP
+• World: China rolls out market support after the worst selloff in a decade — cheaper buyback financing and a central bank liquidity operation; Shanghai Composite +1.1%
+• World: Magnitude 5.3 earthquake strikes near Palekastro, Crete; crews checking damage, no confirmed casualty count yet
+• World: Johns Hopkins researchers link a toxin from a common gut bacterium to colon lining damage that may help explain a path to colorectal cancer
+• US: Election Day — more than 52 million early/mail ballots already cast; all 435 House seats and 35 Senate seats up, Democrats need +3 House / +4 Senate
+• US: Supreme Court rejects the Justice Department's push to set aside about 20,000 California ballots; no public dissent noted, state procedures stay in place
+• US: Flood emergencies in Florida and the Southwest at once — flash flooding and evacuations reported in Arizona and Colorado on Election Day
+• Fun fact: Europe's supposedly extinct giant crane never existed — ancient DNA says it was just a bigger common crane, undoing 150 years of extinction
+• Tech: Nvidia reportedly in talks to guarantee billions in debt for Nscale's West Virginia data center campus Anthropic has signed to use, up to $44.6B; nothing signed, Nvidia hasn't confirmed
+• Tech: Anthropic's updated IPO filing — Q3 revenue $16.96B, up over 1,000% year over year, with a $567M operating loss and commitments near $900B
+• Gaming: Phantom Blade Zero from Beijing's S-Game tops Steam's global best-seller chart on its first day
+• Gaming: WAD Commander 2.0 brings browser-based DOS, Amiga, and Commodore 64 gaming in a tab, using your own local files
+• Homelab: Running Proxmox from your phone — official Proxmox mobile app plus a SPICE console client, with Tailscale as the way home
+• Stocks: Futures soft into Election Day at ~1:30am ET — Nasdaq 100 -0.20%, S&amp;P 500 -0.25%, Dow -0.47%; Apple slips after hours on a slimmer-margins warning despite beating earnings
+• Stocks: Brent rebounds about 1% near $106 after Monday's 7.6% plunge; Pfizer reports before the open, AMD after the close, Datadog Wednesday
+• Local: Lowell City Council approves $1.5M to hire 14 more firefighters — department at 196 of an authorized 213 amid station brownouts
+• Local: Lowell Highlands Facebook group — neighbors debating a tight corner photo and how a fire truck is supposed to make that turn</description>
+      <pubDate>Tue, 03 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-03.mp3" length="14608365" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-03.mp3</guid>
+      <itunes:duration>365</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Monday, November 2</title>
       <description>Stories in this edition:
 • Learjet crash update: victims identified by families; NTSB says plane may have broken up in flight, ice a major focus
