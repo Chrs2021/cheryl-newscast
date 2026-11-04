@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Wednesday, November 4</title>
+      <description>Stories in this edition:
+• Lead: Democrats win control of both chambers of Congress in the midterms, per AP and other projections — flipping seven Senate seats in Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas; votes still being counted in tight races
+• World: Spain's transport minister Oscar Puente resigns after the Oct 28 Urda train crash killed 69 and injured 200+ — the second deadly crash on the Madrid-Seville line this year after January's 46 deaths; cause still under investigation
+• World: Germany announces an extra 200 million euros in winter aid to Ukraine as Chancellor Merz meets President Zelensky in Berlin; US-led Ukraine-Russia peace talks set for Abu Dhabi next week
+• World: Earthquake in northern Afghanistan kills 24 and injures more than 630, according to the national disaster authority; counts still moving
+• US: Keisha Lance Bottoms wins Georgia's governorship, becoming the first Black woman elected governor of a US state, per AP
+• US: Abdul El-Sayed wins Michigan's Senate race, becoming the first Muslim elected to the US Senate, per projections
+• US: Texas flips statewide for the first time since 1994 — James Talarico wins the Senate race over Ken Paxton and Gina Hinojosa beats Gov. Greg Abbott
+• Fun fact: Scientists report fossilized red blood cells and heme, the iron part of hemoglobin, in a 115-million-year-old dinosaur bone from Brazil — no usable DNA, and some experts aren't convinced yet
+• Tech: AMD beats earnings — Q3 revenue up 45% to $13.4B, data center revenue nearly doubled to $8.5B and now 64% of sales; shares jump after hours
+• Tech: Nvidia rebounds about 2-3%, passes Apple again near a $4.98T market cap; Anthropic reportedly plans to nearly double compute capacity toward 7 gigawatts in 2027
+• Gaming: Original Xbox achievements leak early on modern profiles for Destroy All Humans, Panzer Dragoon Orta and Republic Commando — showing 0/0, clearly unfinished
+• Gaming: Xbox Game Pass November wave — Football Manager 27 on PC, Vampire Crawlers and Void/Breaker Nov 4, Escape Academy 2 Nov 5, Warhammer Survivors Nov 10; 13 games leave Nov 15
+• Homelab: Audio8-TTS Realistic Air — a 0.6B open Apache-2.0 text-to-speech model that clones a voice from a short clip in 23 languages
+• Stocks: Futures pared an overnight slide by ~3:15am ET (Dow Jones Newswires) — Nasdaq -0.2%, S&amp;P 500 -0.2%, Dow +0.1%; Brent +0.4% near $104.10
+• Stocks: Datadog, Uber, McDonald's and CVS Health report before the open today, Qualcomm also reporting; AMD's after-hours jump steadies tech
+• Local: Lowell Highlands group shares a recap of Lowell's first-ever drone show — MonsterBash and Fall Fest drew 6,000+ downtown for the bicentennial
+• Local: Lowell Highlands group — a neighbor's 311 recycling request was closed for lapsed review time and she was told to call the DPW that didn't answer Friday</description>
+      <pubDate>Wed, 04 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-04.mp3" length="15122925" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-04.mp3</guid>
+      <itunes:duration>378</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Tuesday, November 3</title>
       <description>Stories in this edition:
 • Lead: Election count begins — first polls closed 6pm ET in IN/KY, Lowell/MA polls close 8pm; Reuters says analysts favor Democrats for the House, Senate uncertain, counting could take days in CA/AK
