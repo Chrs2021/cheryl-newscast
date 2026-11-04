@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Wednesday, November 4</title>
+      <description>Stories in this edition:
+• Stocks surge after the Democratic sweep of Congress, Dow up more than 1,100 points at the open
+• Spain update: Sanchez reshuffles cabinet, Carlos Cuerpo provisionally runs Transport after Puente resignation
+• Ukraine: death toll from Russian bombing of Zaporizhzhia aid point rises to 37, dozens missing
+• Montenegro gets an EU timeline: talks could finish this year, treaty as soon as June 2027
+• Florida Learjet crash: NTSB finds tail pieces up to 3.8 miles from site, no cause named yet
+• Trump points to veto power; Israel aid reports disputed as budget watchers see a Pentagon move
+• Guam flips the other way, electing a Republican governor
+• Unhinged fun fact: Karl Bushby finishes a 28-year, 30-country walk home to Hull
+• Arista Networks revenue up 58.5 percent to 3.66 billion dollars, fastest growth since its IPO
+• Uber gross bookings hit about 59.8 billion dollars, up 20 percent, earnings beat
+• Zelda: Ocarina of Time remake at 96 on Metacritic, launches November 5 on Switch 2
+• Retro: Exzisus joins Arcade Archives and Elevator Action joins Console Archives, both November 5
+• Homelab: Lightbits brings native NVMe over TCP shared storage integration to Proxmox
+• Stocks snapshot: Dow up about 2.6 percent, S and P up about 1.5, Nasdaq up about 1.8, gold up 2.3
+• Datadog falls more than 13 percent on flat guidance despite a revenue beat; Qualcomm up 1.7 ahead of results
+• Lowell corner: Markey took Lowell 15,045 to 5,744 with all 39 precincts reporting; Trahan wins again
+• Merrimack Valley Eats: Funniest Person Contest night four Saturday in Salisbury; fresh seafood in Plaistow</description>
+      <pubDate>Wed, 04 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-04.mp3" length="13261485" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-04.mp3</guid>
+      <itunes:duration>331</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Wednesday, November 4</title>
       <description>Stories in this edition:
 • Lead: Democrats win control of both chambers of Congress in the midterms, per AP and other projections — flipping seven Senate seats in Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas; votes still being counted in tight races
