@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Wednesday, November 4</title>
+      <description>Stories in this edition:
+• Lead: Tampa Citibank Center shooting — woman killed, four injured, gunman killed by security guard; sheriff calls it targeted, developing
+• World: Indonesia's president sacks chief of staff arrested in wiretapping scandal; troops mobilised in Jakarta
+• World: North Korea fires missiles toward the sea while denying FBI's Binance hack claim
+• World: Europe supermarket fridge hacks, second wave — defrost mode, spoiled food, default passwords suspected
+• US: Kentucky measles cases pass 200, at 204 confirmed for the year
+• US: Michigan's 7th District flips — AP calls it for Will Lawrence, Barrett concedes
+• US: Rep. Massie could force House vote on impeaching Defense Secretary Hegseth as early as Nov 9
+• Fun fact: Wombats poop stackable cubes, up to 100 a night, formed in the intestine
+• Tech: Qualcomm earnings — revenue down 8%, handset chips down 26%, auto chips up 89%
+• Tech: Alphabet rebounds about 4% after last week's $500B selloff; Google Cloud revenue doubled
+• Gaming: God of War Laufey delayed from Feb 16 to May 20, 2027
+• Gaming: Zelda Ocarina remake physical preorders stuck by Nintendo's Nov 4 shipping embargo; digital unlocks at midnight
+• Homelab: Proxmox 9.2's overlooked dynamic load balancer auto-rebalances clusters, TOPSIS mode
+• Stocks: Dow +3.03% to 53,356 (biggest post-midterm rally in 44 years), S&amp;P +1.58%, Nasdaq +1.44%
+• Stocks: Brent crude -8.7% to ~$94.62; Datadog closes -14.42% at $188.72 on flat guidance
+• Local: CVS, founded as a single Lowell store in 1963, plans to spin off its pharmacy business in 2028
+• Local: Merrimack Valley Eats — Steampunk Station brings back its chicken marsala today
+• Local: Lowell Highlands group — free queen-size bed frame offered this afternoon</description>
+      <pubDate>Wed, 04 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-04.mp3" length="15787245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-04.mp3</guid>
+      <itunes:duration>395</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Wednesday, November 4</title>
       <description>Stories in this edition:
 • Stocks surge after the Democratic sweep of Congress, Dow up more than 1,100 points at the open
