@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Thursday, November 5</title>
+      <description>Stories in this edition:
+• Ukraine aid center death toll in Komyshuvakha rises to 42 after Russian bombing
+• France national strike disrupts rail over 2027 budget
+• Poland arrests four accused of spying for Russian intelligence
+• North Korea says it tested a new anti-aircraft missile system and cruise missile drill
+• House Speaker Mike Johnson to step down as Republican leader after midterm defeat
+• Gunman killed by security guard after fatal shooting at Citibank campus near Tampa; 4 hurt, motive unreleased
+• NASA Swift telescope reenters atmosphere after failed rescue boost
+• Unhinged fun fact: giant 30kg rodent named from two teeth found in Thailand
+• OpenAI agents find 948 ways to gain root access to Linux for about $1.2M
+• Google patches critical zero-click Android flaw in November update
+• Godzilla: Destroy All Monsters Melee Remastered out for modern consoles and PC
+• New Game Boy Color racer Zero releases today on itch.io
+• Proxmox 9.2 dynamic load balancer auto-rebalances cluster resources
+• Midday markets split: Nasdaq -1.99%, S&amp;P 500 -0.95%, Dow +0.11%
+• Datadog slides again midday near $179.56, down about 4.85%, as Needham holds $300 target
+• 19-year-old UMass Lowell student Daniel Darris-O'Connor wins Massachusetts State House seat by 438 votes
+• Lowell-based MACOM beats Q4 estimates: $2.09 EPS on $424.82M revenue, up 62.6% year over year</description>
+      <pubDate>Thu, 05 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-05.mp3" length="14347245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-05.mp3</guid>
+      <itunes:duration>359</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Thursday, November 5</title>
       <description>Stories in this edition:
 • Lead: Russia says it struck logistics and transport targets across Ukraine overnight — Reuters reports a Nova Poshta hub in Kharkiv region, rail locomotives, a power plant building, a southern power station and a cargo vessel near Odesa; Russia's drone-assembly claim is unverified
