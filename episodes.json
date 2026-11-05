@@ -1872,5 +1872,32 @@
       "Local: Merrimack Valley Eats \u2014 Steampunk Station brings back its chicken marsala today",
       "Local: Lowell Highlands group \u2014 free queen-size bed frame offered this afternoon"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-11-05",
+    "file": "cheryl-news-morning-2026-11-05.mp3",
+    "bytes": 15553005,
+    "duration_sec": 389,
+    "stories": [
+      "Lead: Russia says it struck logistics and transport targets across Ukraine overnight \u2014 Reuters reports a Nova Poshta hub in Kharkiv region, rail locomotives, a power plant building, a southern power station and a cargo vessel near Odesa; Russia's drone-assembly claim is unverified",
+      "World: Hong Kong activist Joshua Wong sentenced to 10 more years after pleading guilty to foreign collusion under the national security law, per Reuters \u2014 behind bars since 2020, he will be 40 on release",
+      "World: Iran's Revolutionary Guards claim tankers hit mines and caught fire near Hormuz \u2014 no vessel named and no navy or tracker has confirmed it; UK officials confirmed a separate projectile strike off Oman on Tuesday",
+      "World: Delhi's air quality index hit 377 on Wednesday morning ahead of Diwali \u2014 deep in the very poor range",
+      "US: Democrats vow to rein in Trump per Reuters \u2014 at least 54 Senate seats after flipping seven, with Alaska and Mississippi still uncalled and a possible 56-seat majority; Trump showed off his White House ballroom",
+      "US: NTSB says key parts from a Florida aircraft crash were found about three miles from the site, meaning they detached before impact",
+      "US: Milwaukee Brewers celebrate their first World Series championship with a downtown parade and rally after beating Toronto",
+      "Fun fact: A day on Venus is longer than its year \u2014 about 243 Earth days to spin once versus about 225 days to orbit the Sun, and it spins backwards",
+      "Tech: Anthropic files to go public \u2014 $16.3B in first-half revenue, nearly $1B operating profit in one quarter, and Claude writing over 90% of its production code",
+      "Tech: Microsoft offers buyouts to about 60,000 employees, roughly 27% of its workforce, as AI infrastructure spending tops $50B a quarter",
+      "Gaming: GTA 6 preload moves up to November 10 \u2014 up to 212GB, ahead of the November 19 launch",
+      "Gaming: A JVC X'Eye retro console returns from a full service \u2014 both boards recapped, new laser, and FRAM saves",
+      "Homelab: Proxmox adds native Lightbits NVMe-over-TCP shared storage integration for Proxmox VE",
+      "Stocks: Brent crude fell below $94 a barrel this morning, extending a near-9% slide, and the dollar softened against the euro and pound",
+      "Stocks: Datadog slipped about 0.4% after hours to $187.90 after closing down 14.42% despite an earnings beat; consumer discretionary led near +4% and energy lagged near -4.7%",
+      "Local: InsideLowell \u2014 Vanna Howard wins with about 58%, Lorena Betts wins the 16th Middlesex seat, and Ralph Hogan and Brady McCarron take the Greater Lowell Tech committee seats, after slow counting from multi-page ballots",
+      "Local: Lowell City Council unanimously approves $1.5M to hire 14 firefighters \u2014 department at 196 against a 213 target amid station brownouts",
+      "Local: Lowell Highlands group shares a Support Local Crafters Black Friday event at Tyngsboro Sports Center, 10am-3pm"
+    ]
   }
 ]
