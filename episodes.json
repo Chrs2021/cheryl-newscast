@@ -2006,5 +2006,30 @@
       "Local: Highlands group \u2014 Friday food pantry, 11:30-12:30, Christ Jubilee on Smith Street in Lowell",
       "Local: Merrimack Valley Eats \u2014 Funniest Person Contest night 4 Saturday at the Hungry Traveler in Salisbury"
     ]
+  },
+  {
+    "edition": "evening",
+    "date": "2026-11-06",
+    "file": "cheryl-news-evening-2026-11-06.mp3",
+    "bytes": 13931565,
+    "duration_sec": 348,
+    "stories": [
+      "Lead: Friday close \u2014 Nasdaq +1.09% and S&P +0.31% bounce, Dow -0.46%; worst week since June",
+      "World: Novartis says two child tumour cases linked to Zolgensma gene therapy, regulators reviewing",
+      "World: EU delays fossil-fuel import methane deadlines by one year",
+      "World: Nigeria court nullifies ADC leadership and voids Atiku Abubakar's candidacy",
+      "US: Trump names Stephen Miller as next White House chief of staff from Nov 9",
+      "US: Federal judge temporarily blocks construction of the planned 250-foot triumphal arch",
+      "US: Three men charged in alleged AI CEO-impersonation fraud over $100 million, per DOJ indictment",
+      "Unhinged fun fact: Alaska black bear eating salmon under a waterfall wins the 2026 Shower Beer Award",
+      "Tech: Google, Meta and TikTok sue to block California's youth social media law",
+      "Tech: NASA unveils the reconfigurable X-70 Fractal experimental plane",
+      "Gaming: Anbernic RG DDS dual-screen AI handheld, preorders from $284.99, ships Dec 10",
+      "Homelab: Home Assistant 2026.11 is out; 92k GitHub stars, 22k+ commits in a year",
+      "Stocks: Closing indices and the VIX at 25.58, down 9.23%",
+      "Stocks: Datadog $179.04 (+2.54%), Nvidia $186.64 (+2.78%), AMD $449.04 (+11.04%)",
+      "Local: Friends of Tyler Park toy drive, Sat Nov 14, 1\u20133pm, for the Lowell Police toy drive",
+      "Local: Highlands Neighborhood Association final meeting of the year, Mon Nov 9 at Lowell Catholic"
+    ]
   }
 ]

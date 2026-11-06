@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Friday, November 6</title>
+      <description>Stories in this edition:
+• Lead: Friday close — Nasdaq +1.09% and S&amp;P +0.31% bounce, Dow -0.46%; worst week since June
+• World: Novartis says two child tumour cases linked to Zolgensma gene therapy, regulators reviewing
+• World: EU delays fossil-fuel import methane deadlines by one year
+• World: Nigeria court nullifies ADC leadership and voids Atiku Abubakar's candidacy
+• US: Trump names Stephen Miller as next White House chief of staff from Nov 9
+• US: Federal judge temporarily blocks construction of the planned 250-foot triumphal arch
+• US: Three men charged in alleged AI CEO-impersonation fraud over $100 million, per DOJ indictment
+• Unhinged fun fact: Alaska black bear eating salmon under a waterfall wins the 2026 Shower Beer Award
+• Tech: Google, Meta and TikTok sue to block California's youth social media law
+• Tech: NASA unveils the reconfigurable X-70 Fractal experimental plane
+• Gaming: Anbernic RG DDS dual-screen AI handheld, preorders from $284.99, ships Dec 10
+• Homelab: Home Assistant 2026.11 is out; 92k GitHub stars, 22k+ commits in a year
+• Stocks: Closing indices and the VIX at 25.58, down 9.23%
+• Stocks: Datadog $179.04 (+2.54%), Nvidia $186.64 (+2.78%), AMD $449.04 (+11.04%)
+• Local: Friends of Tyler Park toy drive, Sat Nov 14, 1–3pm, for the Lowell Police toy drive
+• Local: Highlands Neighborhood Association final meeting of the year, Mon Nov 9 at Lowell Catholic</description>
+      <pubDate>Fri, 06 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-06.mp3" length="13931565" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-06.mp3</guid>
+      <itunes:duration>348</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Friday, November 6</title>
       <description>Stories in this edition:
 • Lead: October payrolls beat forecasts at 165,000, unemployment 4.1%, and markets bounced after Thursday's rout
