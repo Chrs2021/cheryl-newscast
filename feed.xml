@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Friday, November 6</title>
+      <description>Stories in this edition:
+• Lead: October payrolls beat forecasts at 165,000, unemployment 4.1%, and markets bounced after Thursday's rout
+• World: Paraguay's President Pena resigned over the Ueno Bank collapse and asked for 72 hours to prepare his Senate impeachment defence
+• World: Pope Leo left Rome for a 12-day Uruguay, Argentina and Peru tour three weeks after lung cancer surgery
+• World: Asia selloff spread — Nikkei down 6%, Taiwan down 4.51%, SK Hynix down 9.4%
+• US: Michigan consumer sentiment cratered to 51 while inflation expectations jumped to 4.3%
+• US: Trump heads to Florida for his first trip since the midterm rout, speaking at Kennedy Space Center Friday evening
+• US: Mississippi Senate race heads to an extended count with Colom ahead by roughly 1,800 votes
+• Fun fact: A survey of Angola's Lisima plateau documented 70+ previously unrecorded species, including a crab spider that glows blue under UV light
+• Tech: Tesla renamed its AI chips the SI line, claiming SI6 delivers 80x the compute of SI4, plus a new D3 training chip
+• Tech: Chip packaging becomes the AI battleground, per Reuters — near $28B in spending this year
+• Gaming: Final Fantasy Resonance launched today, the first HD-2D Final Fantasy
+• Gaming: SENDESCHLUSS, a free new point-and-click adventure for the Amiga 1200, launched via the FABULA toolkit
+• Homelab: Proxmox gains Lightbits NVMe-over-TCP shared storage — free plugin, commercial storage
+• Stocks A: Midday — Nasdaq 100 up 1.57%, S&amp;P 500 up 0.74%, Dow flat, VIX easing toward 26.8
+• Stocks B: Nvidia and Micron bounced about 5%; Datadog up 1.8% at $177.82 late morning
+• Local: North Andover Middle School civics projects turned into real local change in the Merrimack Valley
+• Local: Highlands group — Friday food pantry, 11:30-12:30, Christ Jubilee on Smith Street in Lowell
+• Local: Merrimack Valley Eats — Funniest Person Contest night 4 Saturday at the Hungry Traveler in Salisbury</description>
+      <pubDate>Fri, 06 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-06.mp3" length="13340205" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-06.mp3</guid>
+      <itunes:duration>333</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Friday, November 6</title>
       <description>Stories in this edition:
 • Lead: Wall Street rout on Nov 5 — Dow -3.44% to 51,523.06, S&amp;P 500 -4.36% to 7,353.73, Nasdaq -5.52% to 24,315 into correction, tied to fears a Democratic Congress slows the AI buildout; chips led
