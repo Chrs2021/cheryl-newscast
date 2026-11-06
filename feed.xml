@@ -14,6 +14,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Friday, November 6</title>
+      <description>Stories in this edition:
+• Lead: Wall Street rout on Nov 5 — Dow -3.44% to 51,523.06, S&amp;P 500 -4.36% to 7,353.73, Nasdaq -5.52% to 24,315 into correction, tied to fears a Democratic Congress slows the AI buildout; chips led
+• World: Hoax bomb threats disrupted at least 27 passenger flights across Europe on Thursday per Reuters — fighter escorts, Aer Lingus Dublin-Rome diverted to Évreux, no explosives found, no suspect named
+• World: Bank of England hikes Bank Rate 25bp to 4% in an 8-1 vote, first hike since 2023 — inflation 3.5% in September, forecast near 5% by mid-2027 on energy prices
+• World: France nationwide strike over wages and living costs — Interior Ministry says about 600,000 in nearly 200 demonstrations, CGT says near 1.6 million; Eiffel Tower closed
+• World: Fire at an industrial facility in Afipsky, Krasnodar region after a drone attack per Reuters/local emergency services — town hosts a major oil refinery; separate strikes on Ukraine killed 1 and injured 3, details still coming in
+• US: California Gov. Gavin Newsom to commute all 548 death sentences to life without parole — largest mass commutation in US history per Death Penalty Information Center; law stays, hundreds need state Supreme Court review
+• US: Record wave of health experts on midterm ballots — at least 125 doctors, nurses and public health experts; pediatrician Annie Andrews wins a South Carolina Senate seat, Amy Acton wins Ohio governorship
+• US: Missouri voters reject a ban on abortion and gender-affirming care for minors; Nevada and Virginia approve abortion-rights referendums, per reporting cited by KFF Health News
+• Sports: Cristiano Ronaldo retires from international football at 41 — record 234 caps and 146 goals for Portugal per Reuters; continues club football with Al-Nassr
+• Fun fact: Detached scarlet sea cucumber fragments kept living for more than three years — healed, absorbed nutrients from seawater without a mouth, and showed no signs of aging
+• Tech: Microsoft declines an option to more than double its Texas Nscale data center deal per FT via Reuters — existing contract stands; Nebius and IREN fell over 16%, CoreWeave about 12%
+• Tech: Nvidia releases Cosmos 3 — four open world models, 16B parameters, for simulating self-driving cars and robots, licensed for commercial use
+• Gaming: EA returns 25 classic PC games to Steam, GOG and the EA app — 7 Anniversary restorations including Road Rash and Wing Commander with FMV restored from master tapes, plus 18 faithful ports including Ultima and Theme Hospital
+• Homelab: Proxmox VE 9.2's dynamic load balancer automatically migrates VMs and containers off lopsided nodes; TOPSIS mode favors memory over CPU, per XDA
+• Stocks: VIX jumped from 16.61 to 28.18 on Thursday; Nasdaq 100 futures bounced about 1% this morning and Brent rebounded near $99 a barrel
+• Stocks: Datadog closed down 7.48% at $174.60 from a $188.72 previous close; Nvidia fell about 9.3%, AMD 17.3%, and the semiconductor index more than 12%
+• Local: 19-year-old UMass Lowell student Daniel Darris-O'Connor of Billerica beats longtime Republican incumbent Marc Lombardo by 438 votes for a Massachusetts House seat, per CNN and other reports
+• Local: Lowell residents press the City Council on Flock license-plate cameras — council votes to release executive-session minutes and sends data-sharing review to the city manager
+• Local: Lowell Highlands group warns against anticoagulant rat poison on properties, citing pets, kids and wildlife, with alternatives listed in comments</description>
+      <pubDate>Fri, 06 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-06.mp3" length="14558445" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-06.mp3</guid>
+      <itunes:duration>364</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Thursday, November 5</title>
       <description>Stories in this edition:
 • Wall Street meltdown erases post-election rally — Nasdaq down 5.52%, chip index sinks ~12%
