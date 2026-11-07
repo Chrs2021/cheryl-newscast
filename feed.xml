@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Saturday, November 7</title>
+      <description>Stories in this edition:
+• Lead: Paraguay Senate removes President Santiago Peña 44-0 on Friday over Ueno Bank collapse and places him under house arrest per AP — bank held ~3M customers and ~$850M in public money; VP Pedro Alliana sworn in through Aug 2028; Peña denies wrongdoing and is due before prosecutors Saturday morning
+• World: Hoax bomb threats disrupt European flights for a second day — at least 18 flights disrupted Friday per The Guardian, Irish and British media also threatened, no explosives found, UK calls it a malicious hoax, no link established
+• World: Pope Leo XIV arrives in Montevideo to start a 12-day Uruguay, Argentina and Peru tour, his first major trip since lung cancer surgery last month — Vatican says healed, no further treatment; 36 speeches, 10 cities, Cusco at 11,000 feet
+• World: Funerals begin for 8 killed Thursday in a shooting spree across three villages in Turkey's Afyonkarahisar province, including two teachers per local reports — suspect captured in neighboring Eskisehir per governor's office, one seriously injured, no motive given
+• US: US measles cases pass 5,000 — CDC reports 5,182 confirmed cases as of Nov 5 in 45 states plus DC, highest since 1991 and more than double 2025; death count disputed (CDC says 4, states report more); measles-free status review next week
+• US: October payrolls jump 165,000 against forecasts near 65,000 per BLS — unemployment edges down to 4.1%, December Fed hike odds rise to about 78%
+• US: Trump names Stephen Miller White House chief of staff effective Monday Nov 9, replacing Susie Wiles who moves to his political operation; DOJ drops its attempt to set aside 20,000 California ballots
+• Fun fact: Earwax is both slippery and sticky and deters insects — Soft Matter study found fire ants lose footing on earwax, get it stuck to their bodies and groom frantically; 36 samples from pigs, sheep, dogs, cows, rabbits and humans, Georgia Tech team
+• Tech: Physical Superintelligence says a non-public Anthropic model proved the 2008 Aaronson-Ambainis quantum conjecture with the proof checked in Lean — humans still must confirm the proved statement matches the original problem
+• Tech: Nvidia says its open-source AI Aerial and Sionna 5G/6G research tools passed 1 million downloads, adoption up tenfold in a year, used by more than 8,000 research institutions; no commercial 6G date
+• Gaming: Original Xbox achievements appear to be leaking onto Series X|S profiles for games like Destroy All Humans and Panzer Dragoon Orta — Microsoft has not announced them yet
+• Gaming: GTA VI has reportedly made about $751M in digital preorders, about 7.71M copies with PlayStation at 74%, per Sensor Tower estimates not confirmed by Rockstar — launches Nov 19, preloads start Nov 10
+• Homelab: XDA-tracked Proxmox lab cuts from five boxes drawing nearly 300W to three boxes under 100W — full consolidation was walked back after rebooting the single host took the NAS down with it
+• Stocks: Friday close — Nasdaq Composite +1.09% to 24,579.42, S&amp;P 500 +0.31% to 7,376.86, Dow -0.46% to 51,285.73; for the week S&amp;P -2.7% and Nasdaq -3.4%
+• Stocks: AMD +11.04% and Nvidia +2.78% to $186.64 led the chip bounce; Datadog +2.54% to $179.04 from a $174.60 Thursday close
+• Local: Lowell receives $7.5M in state HDIP housing tax credits, the largest share statewide, supporting 132 housing units including at Mass Mills IV, per Lowell Sun reporting
+• Local: Lowell's Household Hazardous Waste Day is today, Saturday 9am-noon at DPW, 1365 Middlesex Street, per the Lowell Highlands group; the Highlands hold their final meeting of the year Monday night at Lowell Catholic Auditorium</description>
+      <pubDate>Sat, 07 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-07.mp3" length="15535725" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-07.mp3</guid>
+      <itunes:duration>388</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Friday, November 6</title>
       <description>Stories in this edition:
 • Lead: Friday close — Nasdaq +1.09% and S&amp;P +0.31% bounce, Dow -0.46%; worst week since June
