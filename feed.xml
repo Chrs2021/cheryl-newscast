@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Saturday, November 7</title>
+      <description>Stories in this edition:
+• Lead: Russia launches 36 ballistic missiles and 172 drones at Kyiv overnight; at least 2 killed, Northern Bridge and nuclear power lines damaged, Abu Dhabi talks Tuesday
+• Paraguay update: President Alliana pledges to compensate nearly 3M Ueno Bank depositors; attorney general opens three criminal investigations
+• Iran: second night of reported explosions on Qeshm Island; Iran claims a US drone downed, no US confirmation; Qatar says mediation intact
+• Europe hoax bomb threats enter a third wave, 18 more flights disrupted, still no explosives found
+• Kenya launches a 10-year, $160M conservation program covering 17.3M hectares across 31 counties
+• Houston mayor orders police to limit cooperation with federal immigration agents, breaking with state policy
+• Measles update: unvaccinated Wisconsin infant dies, third measles death in a week; US status review next week
+• Rep. Massie says he will file a Hegseth impeachment resolution early next week
+• Unhinged fun fact: Earth has a temporary second moon, a roughly 3-foot rock called 2026 QQ8, leaving in December
+• Tech: investors press Anthropic to cut its $1.5 trillion listing valuation
+• Tech: OpenAI rates its new GPT-6 Cyber model 'critical' after it found hundreds of software flaws
+• Gaming: EA relaunches 25 classic PC games on Steam and GOG, including Road Rash, Ultima and Theme Hospital
+• Gaming: Bethesda names The Elder Scrolls VI 'Sentinel', set in Hammerfell, still no release date
+• Homelab: Proxmox 9.2's dynamic load balancer auto-rebalances VMs and containers across cluster nodes
+• Stocks: Berkshire Hathaway Q3 operating earnings fall 5.8% to $12.7B; $9.6B in buybacks and a record $377.4B cash pile; Bitcoin near $75,954
+• Local: Lowell City Council approves $1.5M to hire 14 new firefighters amid station brownouts
+• Local: Highlands group posts jacket giveaway at 99 Moody Street until 2pm today and a Tyler Park toy drive on November 14</description>
+      <pubDate>Sat, 07 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-07.mp3" length="14448045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-07.mp3</guid>
+      <itunes:duration>361</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Saturday, November 7</title>
       <description>Stories in this edition:
 • Lead: Paraguay Senate removes President Santiago Peña 44-0 on Friday over Ueno Bank collapse and places him under house arrest per AP — bank held ~3M customers and ~$850M in public money; VP Pedro Alliana sworn in through Aug 2028; Peña denies wrongdoing and is due before prosecutors Saturday morning
