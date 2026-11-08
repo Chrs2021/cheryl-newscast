@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Sunday, November 8</title>
+      <description>Stories in this edition:
+• Lead: Egypt train collision in Giza — 7 killed, 112+ injured, investigation ordered
+• World: New Zealand election deadlock — coalition on 67 of 131 seats, 399k special votes uncounted, result Nov 27
+• World: COP31 opens Monday in Antalya — Türkiye hosts, Australia leads negotiations, finance fight ahead
+• World: Britain's Remembrance Sunday — King Charles at the Cenotaph; M20 in Kent reopened after 30-vehicle fog pile-up
+• US: Stephen Miller starts as chief of staff Monday — Jeffries says Democrats won't work with him, Garcia floats probes, Sanders unworried
+• US: Previously unknown North Atlantic right whale calf found off Quebec — season's calves now 24, best since 2009
+• US: Philadelphia protest at Jewish-owned businesses drowned out by counterprotesters, shut down early
+• Fun fact: Infernogallus, the turkey-sized fruit-eating 'hell chicken' dinosaur from Hell Creek
+• Tech: Microsoft Paint RCE (CVE-2026-83844, 8.1) — fix is Store-only, build 11.2609.401.0
+• Tech: Viasat has lost over 80% of its US satellite subscribers to Starlink
+• Gaming: Pikmin 4 Switch 2 Edition and Metaphor: ReFantazio land Nov 12; Football Manager 27 and Warhammer Survivors Nov 10
+• Gaming: Original Xbox achievements appearing early on profiles before any Microsoft announcement
+• Homelab: Proxmox gains Lightbits NVMe-over-TCP shared storage integration (open plugin, commercial backend)
+• Stocks: Bitcoin slipped to ~$74,500 (-1.6%) late Sunday; futures reopen 6pm ET
+• Stocks: Ethereum ~$2,132 (-4.5%), Solana ~$86.73 (-2.7%); Fear &amp; Greed at 28
+• Stocks: Datadog closed Friday at $179.04 (+2.54%), still down ~23.9% on the week
+• Local: Lowell License Commission adopts restaurant/bar rules — 35% food revenue threshold, new one-day 18-20 permit
+• Local: Lowell council votes to release Flock camera executive-session minutes, sends policy to city manager</description>
+      <pubDate>Sun, 08 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-08.mp3" length="15664365" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-08.mp3</guid>
+      <itunes:duration>392</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Sunday, November 8</title>
       <description>Stories in this edition:
 • Krakow update: national mourning begins, prosecutors open terrorist-offence investigation, family victims confirmed, trumpet call suspended first time since 1939, wounded officer fighting for his life
