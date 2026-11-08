@@ -14,6 +14,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Sunday, November 8</title>
+      <description>Stories in this edition:
+• Krakow update: national mourning begins, prosecutors open terrorist-offence investigation, family victims confirmed, trumpet call suspended first time since 1939, wounded officer fighting for his life
+• Israel: President Herzog formally gives Gadi Eisenkot the mandate to form a government, 28 days to build a coalition
+• Ukraine: fresh Russian energy strikes leave 600,000+ without power in Dnipropetrovsk and 250,000 in Kharkiv
+• Japan: magnitude 5.7 earthquake in central Japan injures at least 22, strongest Shizuoka shaking in 107 years
+• Berkshire Hathaway: Q3 operating profit falls about 6 percent, $9.6B in buybacks, $377B cash pile
+• US employers dropping GLP-1 weight-loss drug coverage, from 43 percent to 33 percent of large employers
+• Bella Rose the dog home in Soldotna, Alaska after 70 days lost in bear country
+• Unhinged fun fact: Earth has a temporary couch-sized mini moon, asteroid 2026 QQ8, leaving in December
+• Chainalysis breach exposed credentials, password hashes and live tokens for all customers
+• CISA adds actively exploited SonicWall SSLVPN flaw to the Known Exploited Vulnerabilities catalog
+• Ocarina of Time remake datamine hints at Master Quest return; WoW Forever sets concurrent-player launch record
+• Proxmox VE 9.2 dynamic load balancer rebalances clusters automatically
+• Stocks/crypto: Bitcoin near $76,064, Ethereum $2,236, Solana $89.20, futures reopen 6pm, CPI Tuesday
+• Lowell corner: Hack Club teen game jam at Lowell Makes November 14-15, no experience required, free food
+• Merrimack Valley's Funniest Person final set for next Saturday at Hungry Traveler in Salisbury</description>
+      <pubDate>Sun, 08 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-08.mp3" length="15548205" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-08.mp3</guid>
+      <itunes:duration>389</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Sunday, November 8</title>
       <description>Stories in this edition:
 • Lead update: Krakow — three bodies found at the suspect's home bring connected deaths to nine; PM Tusk calls the shooting a terrorist attack, motive not established
