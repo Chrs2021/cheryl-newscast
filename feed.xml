@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Monday, November 9</title>
+      <description>Stories in this edition:
+• Lead: Zaporizhzhia nuclear plant back on external power through a single line after 10 hours on diesel (27th loss of the war); Ukrainian delegation travels to Abu Dhabi for Tuesday talks
+• World: France brings minimum wage rise forward to December (+1.6% to €1,502 net); unions call new protests for Nov 17
+• World: Heavy rains flood tens of thousands of displacement tents in Gaza
+• World: Bangladesh's ousted PM Sheikh Hasina requests new passport/ID, a step toward returning from exile in India
+• US: Trump says deportation policy may have been too tough, links it to midterm losses, says a deal with Democrats is doable
+• US: Rep. Massie files impeachment articles against Defense Secretary Hegseth over Iran war powers
+• US: Spring Lake Park, MN mayor's race tied 1,401–1,401, to be settled by a drawing tonight
+• Unhinged fun fact: Ethiopian water mouse, known from one 1927 specimen and presumed extinct, trapped alive — three of them, near a village laundry stream
+• Tech: Anthropic reportedly launches Nasdaq IPO roadshow Tuesday, aiming to raise $75–100B (IFR); some investors doubt the timing
+• Tech: Apple reportedly accelerating Siri into an app-acting AI agent (Bloomberg)
+• Gaming: Zelda: Ocarina of Time remake hits #1 on Nintendo eShop best sellers
+• Gaming (retro): Twinkle Tale (1992 Genesis, Japan-only) gets first US physical release via Limited Run, preorders Tuesday
+• Homelab: Lightbits joins Proxmox partner program with open-source NVMe/TCP shared-storage plugin (backend commercial)
+• Stocks close: S&amp;P 500 +2.35% to 7,549.94; Dow +2.15% to 52,389.75; Nasdaq +2.74% to 25,253.14; AMD ~+13%
+• Stocks: Nvidia −4.27% to $178.67 (sole chip-index decliner, board probe); Datadog $179.62, +0.32%
+• Local: Lowell Highlands group — resident warns of two attempted break-ins in a month, urges locking doors/cars (neighbor's account, not a police report)
+• Local: Merrimack Valley Eats — Baba Yum Burgers handing out ducks redeemable for a free Pipe Dream Cupcakes cupcake this week (2nd anniversary)</description>
+      <pubDate>Mon, 09 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-09.mp3" length="13061805" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-09.mp3</guid>
+      <itunes:duration>326</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Monday, November 9</title>
       <description>Stories in this edition:
 • Lead: Russian strikes cut power to about 600,000 people in Dnipropetrovsk and 250,000 in Kharkiv ahead of Abu Dhabi talks, per Ukrainian officials; Russia says it targeted substations
