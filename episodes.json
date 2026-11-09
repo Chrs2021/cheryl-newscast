@@ -2212,5 +2212,32 @@
       "Local: Lowell police investigate Sunday gunfire that struck a home on Cumberland Road, no injuries",
       "Local: City of Lights returns Nov 28 for Lowell's bicentennial, Jackson Street to City Hall at 4:30pm"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-11-09",
+    "file": "cheryl-news-midday-2026-11-09.mp3",
+    "bytes": 12240045,
+    "duration_sec": 306,
+    "stories": [
+      "Lead: Russian strikes cut power to about 600,000 people in Dnipropetrovsk and 250,000 in Kharkiv ahead of Abu Dhabi talks, per Ukrainian officials; Russia says it targeted substations",
+      "World: Two passenger trains collided south of Cairo, killing at least 7 and injuring 112, per Egyptian officials",
+      "World: Strong earthquake in central Japan shattered windows and injured at least 22, per local media",
+      "World: Israel's President Herzog picked Gadi Eisenkot to try to form a government after the indecisive election",
+      "US: Stephen Miller took over as White House chief of staff from Susie Wiles, first big change since the midterm sweep",
+      "US: Berkshire Hathaway Q3 operating earnings $12.7B, down about 6% on weaker insurance underwriting",
+      "US: Godzilla Minus Zero opened to $31.6M in North America, a record for a foreign-language film",
+      "Fun fact: Extinct pygmy sperm whale with the most lopsided mammal skull ever found was named huachafo, Peruvian slang for tacky",
+      "Tech: Meta is rolling Instagram's AI age detection out worldwide to catch teens who listed an older age",
+      "Tech: Google plans a $15B Malaysia expansion in 2027-28, with data center campuses and training",
+      "Gaming: EA put 25 classic PC games on Steam and GOG, with restored Wing Commander and Road Rash editions from a 20,000-asset archive find",
+      "Gaming: Game Pass Essential adds Banjo-Kazooie and Perfect Dark on Nov 15, while GoldenEye 007 leaves the same day",
+      "Homelab: Proxmox 9.2's dynamic load balancer auto-migrates VMs and containers to rebalance clusters, memory-first in TOPSIS mode",
+      "Stocks: Midday rally \u2014 Dow +1.6%, S&P 500 +1.9% near 7,515, Nasdaq +2.3% on dip buying",
+      "Stocks: Nvidia fell about 5% near $178 as reports say Congress wants an inquiry into the board probe; allegations unverified, company says no reason to believe secrets were compromised",
+      "Stocks: Datadog roughly flat near $178.55; AMD up about 9%; Brent near $94 ahead of Tuesday CPI",
+      "Local: Lowell won $7.5M in state housing tax credits, the largest share, for 132 units, per the Lowell Sun",
+      "Local: UMass Lowell and Jeanne D'Arc CU to open student-run River Hawk Credit Union; Haverhill Winter Farmers Market posted vendor dates at 143 Essex Street"
+    ]
   }
 ]
