@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Tuesday, November 10</title>
+      <description>Stories in this edition:
+• Lead: Bulgaria fog pile-ups on the Trakia motorway kill 12, injure 46, 86 vehicles involved
+• World: Israel's new Knesset sworn in; Eisenkot asked to form a government, no clear majority
+• World: UN says ~66,000 have fled violence in northern Nigeria into Niger and Benin this year
+• World: South Africa's ANC posts its worst-ever municipal result, 32.5%
+• US: House holds first vote tonight on Massie's impeachment articles against Hegseth
+• US: Senate Republicans re-elect John Thune to lead a 46-seat minority
+• US: Boeing cutting ~5% of commercial airplanes workforce, about 2,500 jobs
+• Fun fact: Asteroid Ryugu samples contain all five DNA/RNA chemical letters
+• Tech: Anthropic IPO priced at $70-$78, with a $26B side placement from Nvidia, Google and others
+• Tech: Google unveils TPU 8tx and TPU 8i Max, four eighth-gen systems in one year
+• Gaming: Crystals of Irm delayed to Jan 21, 2027, stepping aside for the Zelda Ocarina of Time remake
+• Gaming: Forgotten Worlds magazine's TurboGrafx-16 / PC Engine issue, limited to 300 copies
+• Homelab: Everpure, formerly Pure Storage, officially backs Proxmox with FlashArray support
+• Stocks: Close — Dow -0.3%, S&amp;P 500 -0.4%, Nasdaq -0.7%, off the lows after hot CPI
+• Stocks: Nvidia closes at $168.89, down 5.5%
+• Stocks: Datadog closes at $178.40, down 0.68%, giving back its morning green
+• Local: LRTA runs a Saturday schedule for Veterans Day; Lowell High construction detour on Arcand Dr / French St
+• Local: Merrimack Valley YMCA hires Cara Green to lead its Methuen branch</description>
+      <pubDate>Tue, 10 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-10.mp3" length="14877165" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-10.mp3</guid>
+      <itunes:duration>372</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Tuesday, November 10</title>
       <description>Stories in this edition:
 • Abu Dhabi update: Russian strikes hit Ukraine's power grid in 10 regions overnight, killing two, hours before peace talks opened; day one ran four hours, no ceasefire, talks resume Wednesday
