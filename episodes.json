@@ -2265,5 +2265,32 @@
       "Local: Lowell Highlands group \u2014 resident warns of two attempted break-ins in a month, urges locking doors/cars (neighbor's account, not a police report)",
       "Local: Merrimack Valley Eats \u2014 Baba Yum Burgers handing out ducks redeemable for a free Pipe Dream Cupcakes cupcake this week (2nd anniversary)"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-11-10",
+    "file": "cheryl-news-morning-2026-11-10.mp3",
+    "bytes": 13675245,
+    "duration_sec": 342,
+    "stories": [
+      "Lead: Ukraine, Russia and US open first trilateral talks since February in Abu Dhabi; Washington reportedly ties a deal to a wider Europe security bargain",
+      "World: Poland counts 2,000+ false-story accounts and up to 200M views after the Krakow attack; gunman's motive still unknown",
+      "World: Explosion and fire at Habas steel plant in Aliaga, Turkey kill at least 17 (BBC)",
+      "World: China's trade surplus tops $1 trillion in the first ten months of 2026 (Nikkei Asia)",
+      "US: California voters reject Proposition 40, a one-time 5% tax on billionaires",
+      "US: Eli Lilly's daily obesity pill Foundayo also eases sleep apnea in a late-stage trial",
+      "US: Trump says the Iran war is effectively over militarily and fresh US attacks are highly unlikely, while staying \"locked and loaded\"",
+      "Unhinged fun fact: Trump recounts \"very strange\" UFO stories from military pilots while saying he remains skeptical",
+      "Tech: Anthropic releases Claude Fable 5.2 and restricted Mythos 5.2; company says the model coordinated 1,000+ agents to build a working OS",
+      "Tech: France's foreign minister attributes the October supermarket fridge hack (about 700 sites) to Iran's Revolutionary Guards",
+      "Gaming: Xbox's ten-release Tuesday \u2014 Football Manager 27 Console and Warhammer Survivors on Game Pass, plus Hard West 2 and Shrek 2 Remastered; 39 games this week",
+      "Gaming (retro): Original Xbox games including Psychonauts appear in achievement lists ahead of Microsoft's planned rollout",
+      "Homelab: Proxmox VE 9.2's dynamic load balancer auto-rebalances clusters, TOPSIS mode weighting memory over CPU",
+      "Stocks overnight: Dow futures +0.33%, S&P 500 futures +0.01%, Nasdaq-100 futures -0.37% late Monday",
+      "Stocks: Nvidia premarket +1.84% near $181.95 after Monday's slide; board-investigation reports still disputed",
+      "Stocks: Datadog closed Monday at $179.62, +0.32%; Brent crude below $92",
+      "Local: Lowell receives $7.5M in state HDIP tax credits for 132 housing units, the largest share statewide",
+      "Local: Merrimack Valley Eats \u2014 Donahue's Fish Market in Plaistow pushes plaice with homemade coleslaw"
+    ]
   }
 ]

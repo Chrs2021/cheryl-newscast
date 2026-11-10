@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Tuesday, November 10</title>
+      <description>Stories in this edition:
+• Lead: Ukraine, Russia and US open first trilateral talks since February in Abu Dhabi; Washington reportedly ties a deal to a wider Europe security bargain
+• World: Poland counts 2,000+ false-story accounts and up to 200M views after the Krakow attack; gunman's motive still unknown
+• World: Explosion and fire at Habas steel plant in Aliaga, Turkey kill at least 17 (BBC)
+• World: China's trade surplus tops $1 trillion in the first ten months of 2026 (Nikkei Asia)
+• US: California voters reject Proposition 40, a one-time 5% tax on billionaires
+• US: Eli Lilly's daily obesity pill Foundayo also eases sleep apnea in a late-stage trial
+• US: Trump says the Iran war is effectively over militarily and fresh US attacks are highly unlikely, while staying "locked and loaded"
+• Unhinged fun fact: Trump recounts "very strange" UFO stories from military pilots while saying he remains skeptical
+• Tech: Anthropic releases Claude Fable 5.2 and restricted Mythos 5.2; company says the model coordinated 1,000+ agents to build a working OS
+• Tech: France's foreign minister attributes the October supermarket fridge hack (about 700 sites) to Iran's Revolutionary Guards
+• Gaming: Xbox's ten-release Tuesday — Football Manager 27 Console and Warhammer Survivors on Game Pass, plus Hard West 2 and Shrek 2 Remastered; 39 games this week
+• Gaming (retro): Original Xbox games including Psychonauts appear in achievement lists ahead of Microsoft's planned rollout
+• Homelab: Proxmox VE 9.2's dynamic load balancer auto-rebalances clusters, TOPSIS mode weighting memory over CPU
+• Stocks overnight: Dow futures +0.33%, S&amp;P 500 futures +0.01%, Nasdaq-100 futures -0.37% late Monday
+• Stocks: Nvidia premarket +1.84% near $181.95 after Monday's slide; board-investigation reports still disputed
+• Stocks: Datadog closed Monday at $179.62, +0.32%; Brent crude below $92
+• Local: Lowell receives $7.5M in state HDIP tax credits for 132 housing units, the largest share statewide
+• Local: Merrimack Valley Eats — Donahue's Fish Market in Plaistow pushes plaice with homemade coleslaw</description>
+      <pubDate>Tue, 10 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-10.mp3" length="13675245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-10.mp3</guid>
+      <itunes:duration>342</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Monday, November 9</title>
       <description>Stories in this edition:
 • Lead: Zaporizhzhia nuclear plant back on external power through a single line after 10 hours on diesel (27th loss of the war); Ukrainian delegation travels to Abu Dhabi for Tuesday talks
