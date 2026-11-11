@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Wednesday, November 11</title>
+      <description>Stories in this edition:
+• Lead: Russia and Ukraine agree to a large prisoner-of-war exchange at Abu Dhabi talks, numbers to be finalized tomorrow
+• World: COP31 climate summit opens in Antalya; UN chief warns slow response puts world on a path to destruction
+• World: Congo Ebola outbreak reaches 11,042 cases and at least 5,387 deaths, second largest on record
+• World: Iran says three tankers caught fire after striking naval mines near the Strait of Hormuz
+• US: House Republicans elect Jim Jordan as minority leader after midterm defeat
+• US: US Army soldier arrested in England on suspicion of spying for Russia
+• US: Appeals court unanimously rules Voice of America head was illegally fired
+• Unhinged fun fact: Prehistoric pygmy sperm whale had the most lopsided skull of any mammal, named for Peruvian slang for tacky
+• Tech: Anthropic sets IPO price range of $70-$78, could raise up to about $64 billion; TSMC to buy into Anthropic and OpenAI
+• Tech: Microsoft's Lazarus technique can backdoor an AI agent by rewriting fewer than ten dormant neurons
+• Gaming: Elder Scrolls N-Gage spin-off Shadowkey returns today as fan project Shadowkey Reforged for PC, Mac and Android
+• Gaming: 1985 arcade racer Shot Rider joins Arcade Archives November 12, its first home version in 41 years
+• Homelab: Norway pauses new grid capacity for data centers and announces mandatory licensing
+• Stocks: Late-morning AI rebound — Nasdaq-heavy funds up over 1%, S&amp;P up about 0.7%, Dow flat; bond market closed for Veterans Day
+• Stocks: Nvidia rebounds about 3.8% to around $175 despite shareholder suit, resignation call and Baird downgrade; earnings November 17
+• Stocks: Datadog up about 5.2% to around $187.60; CoreWeave beats and raises guidance, revenue up 168%
+• Local: NWS forecast brings rain Thursday through Saturday; Lowell expects zero snow, Friday night low of 30
+• Local: Donahue's Fish Market in Plaistow offers veterans $2 off cooked meals today, via Merrimack Valley Eats</description>
+      <pubDate>Wed, 11 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-11.mp3" length="15537645" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-11.mp3</guid>
+      <itunes:duration>388</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Wednesday, November 11</title>
       <description>Stories in this edition:
 • Lead: House votes 211-204 to refer Hegseth impeachment articles to committee, effectively killing them

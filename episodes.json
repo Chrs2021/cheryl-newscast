@@ -2374,5 +2374,32 @@
       "Local: 10-story, 90-unit apartment building proposed at 5.1 Thorndike Street off the Lord Overpass",
       "Local: Pollard Memorial Library fall book sale this Saturday, per the Highlands neighborhood group"
     ]
+  },
+  {
+    "edition": "midday",
+    "date": "2026-11-11",
+    "file": "cheryl-news-midday-2026-11-11.mp3",
+    "bytes": 15537645,
+    "duration_sec": 388,
+    "stories": [
+      "Lead: Russia and Ukraine agree to a large prisoner-of-war exchange at Abu Dhabi talks, numbers to be finalized tomorrow",
+      "World: COP31 climate summit opens in Antalya; UN chief warns slow response puts world on a path to destruction",
+      "World: Congo Ebola outbreak reaches 11,042 cases and at least 5,387 deaths, second largest on record",
+      "World: Iran says three tankers caught fire after striking naval mines near the Strait of Hormuz",
+      "US: House Republicans elect Jim Jordan as minority leader after midterm defeat",
+      "US: US Army soldier arrested in England on suspicion of spying for Russia",
+      "US: Appeals court unanimously rules Voice of America head was illegally fired",
+      "Unhinged fun fact: Prehistoric pygmy sperm whale had the most lopsided skull of any mammal, named for Peruvian slang for tacky",
+      "Tech: Anthropic sets IPO price range of $70-$78, could raise up to about $64 billion; TSMC to buy into Anthropic and OpenAI",
+      "Tech: Microsoft's Lazarus technique can backdoor an AI agent by rewriting fewer than ten dormant neurons",
+      "Gaming: Elder Scrolls N-Gage spin-off Shadowkey returns today as fan project Shadowkey Reforged for PC, Mac and Android",
+      "Gaming: 1985 arcade racer Shot Rider joins Arcade Archives November 12, its first home version in 41 years",
+      "Homelab: Norway pauses new grid capacity for data centers and announces mandatory licensing",
+      "Stocks: Late-morning AI rebound \u2014 Nasdaq-heavy funds up over 1%, S&P up about 0.7%, Dow flat; bond market closed for Veterans Day",
+      "Stocks: Nvidia rebounds about 3.8% to around $175 despite shareholder suit, resignation call and Baird downgrade; earnings November 17",
+      "Stocks: Datadog up about 5.2% to around $187.60; CoreWeave beats and raises guidance, revenue up 168%",
+      "Local: NWS forecast brings rain Thursday through Saturday; Lowell expects zero snow, Friday night low of 30",
+      "Local: Donahue's Fish Market in Plaistow offers veterans $2 off cooked meals today, via Merrimack Valley Eats"
+    ]
   }
 ]
