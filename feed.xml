@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Wednesday, November 11</title>
+      <description>Stories in this edition:
+• Lead: Spain stages first general strike in 14 years over housing; unions say about 4 million workers joined, 40 arrests by midday
+• World: 12 die in two fog pile-ups on Bulgaria's Trakia motorway
+• World: Macrons file new defamation lawsuit against Candace Owens in federal court in Tennessee
+• World: Australia, Bangladesh, Kenya, Nigeria and Vanuatu endorse declaration to double rooftop-solar homes by 2030
+• US: SS United States sinking begins off Florida to become the world's largest artificial reef
+• US: Trump at Arlington says America did not start the Iran war and claims "we won"
+• US: DOJ charges three alleged Iran-backed operatives; Bessent reportedly moved to a military installation after threats
+• Unhinged fun fact: Deep-sea mollusk houses 1,600+ bacteria per cell in layered "dragon ball" organelles in the South China Sea
+• Tech: Claroc finds 35,000+ Grok Build apps open without sign-in, including 24 built by the maker's own staff
+• Tech: OpenAI reportedly posts about $10B in quarterly revenue, up nearly 50%, with large operating losses
+• Gaming: Prinny Party: Going Overboard! launches today on Switch 2, Switch, PS5 and PC
+• Gaming: Rare JVC X'Eye Genesis/Sega CD combo gets full restoration with recap, new laser and battery-free saves
+• Homelab: Proxmox gains Lightbits NVMe-over-TCP shared storage integration via official plugin
+• Stocks: Close — S&amp;P 500 +1.31% to 7,619.38, Nasdaq +1.60%, Dow +0.49%; CoreWeave jumps about 25%; bonds closed for Veterans Day
+• Stocks: Nvidia closes up about 2.9% at $173.73, snapping two-day slide ahead of Nov 17 earnings; slips in early after-hours
+• Stocks: Datadog closes at $184.38, up 3.35%
+• Local: City of Lights returns Nov 28 for Lowell's Bicentennial finale; parade from Jackson Street at 4:30pm to City Hall
+• Local: Haverhill Winter Farmers Market starts Nov 21 at 143 Essex Street with 40 vendors, via Merrimack Valley Eats</description>
+      <pubDate>Wed, 11 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-11.mp3" length="14934765" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-11.mp3</guid>
+      <itunes:duration>373</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Wednesday, November 11</title>
       <description>Stories in this edition:
 • Lead: Russia and Ukraine agree to a large prisoner-of-war exchange at Abu Dhabi talks, numbers to be finalized tomorrow
