@@ -14,6 +14,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Wednesday, November 11</title>
+      <description>Stories in this edition:
+• Lead: House votes 211-204 to refer Hegseth impeachment articles to committee, effectively killing them
+• World: US, Russia and Ukraine hold second day of Abu Dhabi talks seeking a final end to the war
+• World: M. John Harrison, 81, wins Booker Prize for The End of Everything, oldest winner ever
+• World: Global fossil fuel emissions projected to dip 0.4% in 2026, driven by Iran-war oil prices
+• US: California voters reject Prop 40 billionaire wealth tax
+• US: California approves Prop 38, $8.4B in bonds for immunology research
+• US: Researchers sue the National Science Foundation over funding changes
+• Fun fact: France says Iran's Revolutionary Guard hacked supermarket freezers and turned up the temperatures
+• Tech: DeepMind's AlphaProof Code formally verifies Signal protocol security properties
+• Tech: Zyphra releases ZONOS3-Mini, open-source in-browser TTS with voice cloning
+• Gaming: GTA 6 preloads live, most preordered game in PlayStation Store history, 30fps on all consoles
+• Gaming: Original Xbox achievements appear early in game lists ahead of rollout
+• Homelab: Proxmox VE 9.2 gets an official ARM64 build
+• Stocks: Tuesday close — Dow -0.3%, S&amp;P 500 -0.4%, Nasdaq -0.7% after hot CPI
+• Stocks: Nvidia board hires former federal prosecutor and law firm to investigate CEO spy reports overnight
+• Stocks: Datadog closes at $178.40, down 0.68%, then rebounds about 2.7% in extended trading
+• Local: Lowell wins $7.5M in state housing credits, largest share, for 132 homes including Mass Mills IV
+• Local: 10-story, 90-unit apartment building proposed at 5.1 Thorndike Street off the Lord Overpass
+• Local: Pollard Memorial Library fall book sale this Saturday, per the Highlands neighborhood group</description>
+      <pubDate>Wed, 11 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-11.mp3" length="14201325" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-11.mp3</guid>
+      <itunes:duration>355</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Tuesday, November 10</title>
       <description>Stories in this edition:
 • Lead: Bulgaria fog pile-ups on the Trakia motorway kill 12, injure 46, 86 vehicles involved
