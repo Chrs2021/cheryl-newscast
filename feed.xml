@@ -14,6 +14,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Thursday, November 12</title>
+      <description>Stories in this edition:
+• Lead update: Brooklyn Flatbush collapse toll rises to 8 dead (was 2), at least 17 injured incl. 7 children; FDNY says rescue could take 3+ days
+• Lead update: Nvidia CEO Jensen Huang resigns effective immediately; CFO Colette Kress interim CEO, Harvey Jones first board chair; no reason given
+• World: Spain's lower house approves part of emergency housing package 35-34 after first general strike in 14 years; 115 arrests, interior minister orders investigations
+• World: Kenya discharges last Ebola patient, starts 42-day countdown Nov 12; 9 cases, 2 deaths, Ebola-free possible Dec 23 (WHO/health ministry)
+• World: Bomb-threat emails hit 6,300+ schools in Italy and 700+ in Scotland/Northern Ireland; several hundred evacuated
+• US: Logan Circle, DC gym shooting — 1 dead, 4 injured; suspected shooter found dead after barricade, police say (developing)
+• US: Trump names Craig Trainor acting head of DOJ Civil Rights Division, per AG Blanche; replaces Harmeet Dhillon
+• US: SS United States sunk off Destin, Florida Wednesday night as world's largest artificial reef; 990 ft, took 7+ hours
+• Fun fact: Deep-sea sea pigs carry an unusual bacterium under their skin with a tiny genome, &gt;quarter devoted to surface proteins (U. Tokyo)
+• Tech: Google DeepMind launches AlphaGenome 2 for cell-specific DNA variant prediction, 100M+ cell profiles, research only
+• Tech: Runway releases Praxis-1 27B robot model weights openly, 46.2% on RoboLab-120
+• Gaming: Warhammer Survivors out this week, $7.99, Game Pass day one
+• Gaming: Pikmin 4 Switch 2 Edition and Metaphor: ReFantazio on Switch 2 out today; Pikmin upgrade $9.99
+• Homelab: Kraft-linked $16.75B, ~900 MW data center campus proposed in Sutton, MA; no application filed; Lowell moratorium noted
+• Stocks: Midday delayed — S&amp;P 500 +0.33%, Nasdaq 100 +0.44%, Dow +0.42%; 10-year yield ~5.02%
+• Stocks: Nvidia -10%+ premarket to ~$155 after resignation; Bernstein cuts target $400 to $200; ~35% below October record
+• Stocks: Datadog $183.08 late morning, -0.71% from $184.38 close (Finnhub 11:24 ET)
+• Local: Toys for Tots craft fair Fri Nov 27 at Tyngsborough Sports Center, 40+ vendors (Lowell Highlands group)
+• Local: Haverhill Winter Farmers Market starts Sat Nov 21, 143 Essex Street, 40 vendors, third Saturdays 10-1 (Merrimack Valley Eats)</description>
+      <pubDate>Thu, 12 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-12.mp3" length="14369325" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-12.mp3</guid>
+      <itunes:duration>359</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Thursday, November 12</title>
       <description>Stories in this edition:
 • Lead: Brooklyn Flatbush building collapse — at least 2 dead, 17 injured, search ongoing
