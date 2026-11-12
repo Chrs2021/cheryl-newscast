@@ -14,6 +14,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Thursday, November 12</title>
+      <description>Stories in this edition:
+• Lead: Brooklyn Flatbush building collapse — at least 2 dead, 17 injured, search ongoing
+• World: Abu Dhabi talks end with prisoner exchange agreed, no ceasefire; envoys meet Putin in Moscow today
+• World: Indonesia VP Gibran Rakabuming Raka resigns amid impeachment push over school credentials (Reuters)
+• World: Israeli strike on Nasser Hospital in Gaza kills 6, including a medical professional, per Palestinian officials
+• US: Democrat Scott Colom defeats Sen. Hyde-Smith in Mississippi — first Black senator there since 1874 (Reuters/AP)
+• US: Measles elimination status under review after 5,100+ cases this year, most since 1991
+• US: Antarctic ozone hole seventh largest in 48 years, largest since 2015 (NASA/NOAA)
+• Fun fact: Extinct dwarf sperm whale with most extreme skull asymmetry known, snout pointed at the seafloor
+• Tech: Google Gemini Decision 1 — a model that answers up to 1,000 questions instead of writing
+• Tech: AWS ships a cloud emulator written and maintained by AI agents
+• Gaming: Ocarina of Time remake sells 5.2M in four days, Nintendo's best Switch 2 launch
+• Gaming: Piko Interactive crowdfunding enhanced 8 Eyes ports for SNES, Genesis and GBA
+• Homelab: Norway's Statnett pauses new data center grid reservations until at least Aug 2027
+• Stocks: Wed close — S&amp;P +1.31%, Nasdaq +1.6%, Dow +0.49%; CoreWeave +~25%
+• Stocks: Nvidia -8.6% after hours on WSJ report board is preparing to remove CEO Jensen Huang; no announcement
+• Stocks: Datadog closed $184.38, +3.35%, slipped &lt;1% after hours
+• Local: Third Family Dollar under construction in Lowell's Acre at Suffolk Place
+• Local: Former Lowell District Courthouse at 41 Hurd Street approved for ~200 homes
+• Local: Rain Thu–Sat for Massachusetts, Lowell low ~30F Friday night, no snow expected</description>
+      <pubDate>Thu, 12 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-12.mp3" length="14111085" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-12.mp3</guid>
+      <itunes:duration>353</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Wednesday, November 11</title>
       <description>Stories in this edition:
 • Lead: Spain stages first general strike in 14 years over housing; unions say about 4 million workers joined, 40 arrests by midday
