@@ -14,6 +14,33 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Thursday, November 12</title>
+      <description>Stories in this edition:
+• Brooklyn Flatbush collapse: FDNY rescue concluded, 8 dead including 2 children, 18 injured, site handed to buildings department and police
+• Iran says it struck navigation systems on an Omani island in the Strait of Hormuz; Oman disputes the claim
+• COP31: Guterres warns the climate crisis is outrunning us; 2026 averaging 1.47 degrees above pre-industrial levels
+• Australia: regulator sues Commonwealth Bank over alleged fee overcharges; NAB discloses $169 million in worker underpayments
+• Delaware: National Weather Service confirms a November tornado in New Castle County
+• Senator Wyden to investigate RFK Jr. over Samoa trip testimony; Governor Beshear urges his removal
+• Trump administration plans to close a SNAP food aid loophole, per the Associated Press
+• Unhinged fun fact: a deep-sea glistenworm keeps its bacteria in dragon ball structures holding over 1,600 bacteria each
+• Anthropic's IPO reportedly oversubscribed; TSMC approved $500 million for Anthropic and $500 million for OpenAI
+• Notion confirms its AI provider Fireworks AI was hacked and some AI chat records leaked
+• Barbie Rewind out today: 16 classic Barbie games from 1991 to 2007 in one collection
+• Sixteen classic Xbox games reportedly surfacing for PC, including TimeSplitters: Future Perfect
+• Homelab: a Proxmox lab cut from nearly 300 watts and five boxes to under 100 watts and three
+• Stocks close: S&amp;P 500 down 0.35%, Dow down 0.36%, Nasdaq down 0.39%
+• Nvidia plunged 14% at the open, closed down 4.3% after its CEO's resignation; rivals rose
+• Datadog closed at $184.46, essentially flat, up 0.04%
+• Lowell: THRIVEsGiving tonight at UTEC on Warren Street
+• Merrimack Valley's Funniest Person finals Saturday at the Hungry Traveler in Salisbury</description>
+      <pubDate>Thu, 12 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-12.mp3" length="15314925" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-12.mp3</guid>
+      <itunes:duration>383</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Thursday, November 12</title>
       <description>Stories in this edition:
 • Lead update: Brooklyn Flatbush collapse toll rises to 8 dead (was 2), at least 17 injured incl. 7 children; FDNY says rescue could take 3+ days
