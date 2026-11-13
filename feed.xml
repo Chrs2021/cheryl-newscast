@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Evening briefing — Friday, November 13</title>
+      <description>Stories in this edition:
+• FAA nationwide ground stop: all US departures halted from just before 4 p.m. over an air traffic control communication failure, nearly 7,000 flights delayed or canceled, advisory to 11:30 p.m., no indication of a cyberattack
+• Taiwan: security officials tell Reuters China ran an extensive unannounced Pacific military exercise around Taiwan earlier this month, calling it intimidation
+• Oil: IEA forecasts Q4 world supply averaging 105 million barrels a day, about 1.7 million above demand, with 71 million barrels of emergency stocks due by end of February
+• Measles: expert commission reviewing whether measles circulated continuously for a year in the US and Mexico, which could end North America's elimination status
+• New Orleans: tanker Atlantic Asphalt collided with the docked riverboat American Heritage, about 129 passengers aboard, part of the Mississippi River closed, cause and injuries unconfirmed
+• Justice Department: global online drug trafficking crackdown, 132 US arrests and 354 worldwide, about 5.7 metric tons seized
+• Espionage: US Army lieutenant colonel assigned to NATO headquarters in Britain arrested in a suspected Russia-related espionage investigation, charges expected in coming days
+• Unhinged fun fact: the Alpine newt is actually five look-alike species, genetically as different from each other as humans are from chimpanzees, and one is brand new to science
+• Microsoft outage update: services mostly stabilized after 24-plus hours, public apology, Outlook outage reports down from a 130,000 peak to about 1,600, still no ETA for full mail normalization, not a cyberattack
+• SpaceX Starship Flight 15: launch window opens 5:45 p.m. ET, 26 Starlink satellites, about 14 orbits, first attempt to catch both booster and ship at the tower
+• Gaming: Sony announces ground-up God of War trilogy remake in early development, plus new 2D prequel God of War: Son of Sparta shadow-dropped today on PS5 for $30
+• Homelab: PostgreSQL November updates fix dozens of security issues and 140-plus bugs, including a roughly 20-year-old remote code execution flaw; PostgreSQL 14 reaches end of life
+• Stocks close: S&amp;P 500 down 0.40 percent to 7,561.67, Nasdaq down 0.91 percent to 25,136.27, Dow up 0.10 percent to 52,347.55; 10-year yield 5.15 percent, VIX 19.29, Nvidia down about 2 percent, AMD down nearly 9 percent
+• Datadog close: $184.16, down 0.16 percent, recovering from a $178.10 low after opening at $188.24
+• Lowell: city advancing 40 Market Street as a one-stop home for city departments, $3.6 million purchase, up to $650,000 for design consultant, bids due December 2
+• Lowell local: Highlands neighborhood group post says Engine 11 closed 48 hours, calling it the 61st fire company brownout of 2026, with residents arguing the closures risk safety</description>
+      <pubDate>Fri, 13 Nov 2026 17:15:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-13.mp3" length="16525485" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-evening-2026-11-13.mp3</guid>
+      <itunes:duration>413</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Midday briefing — Friday, November 13</title>
       <description>Stories in this edition:
 • Brooklyn Flatbush collapse: search ends, final toll eight dead including two children, criminal inquiry opened and about 100 linked construction sites ordered inspected
