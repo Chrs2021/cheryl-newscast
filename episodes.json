@@ -2511,5 +2511,31 @@
       "Lowell: THRIVEsGiving tonight at UTEC on Warren Street",
       "Merrimack Valley's Funniest Person finals Saturday at the Hungry Traveler in Salisbury"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-11-13",
+    "file": "cheryl-news-morning-2026-11-13.mp3",
+    "bytes": 16377645,
+    "duration_sec": 409,
+    "stories": [
+      "Lead: Microsoft 365 outage still running overnight \u2014 Outlook, Teams, SharePoint and Copilot down in every region, restored servers failing again under traffic, no root cause or ETA, no sign of cyberattack per Microsoft",
+      "World: Zelensky says Europe will have a voice in next Ukraine peace talks after US envoys met Putin in Moscow; Finland detected a strike on a Russian warship in the Gulf of Finland, a first in open Baltic waters",
+      "World: Kenya releases its last Ebola patient and starts a 42-day countdown to Ebola-free status, while the DRC outbreak remains serious",
+      "World: WHO declares a health emergency over expected El Ni\u00f1o impacts at the climate summit; 2026 on track among hottest years at ~1.47\u00b0C above pre-industrial",
+      "US: SS United States deliberately sunk off Florida to become the world's largest artificial reef after museum efforts failed",
+      "US: Sen. Chris Van Hollen reportedly challenging Chuck Schumer for Senate Democratic leadership as Democrats prepare investigations",
+      "US: Defense Secretary Hegseth awards a commendation medal to the Tomb of the Unknown Soldier sentinel who reprimanded his group",
+      "Fun fact: Possible new dwarf planet 2026 ED138 found beyond Pluto \u2014 46x Earth's distance, 281-year orbit, up to ~930 miles wide",
+      "Tech: Huang summoned to testify before Congress per reports; Democrats open investigation into Nvidia's China sales ahead of Tuesday earnings",
+      "Tech: Cloudflare brings WebRTC broadcasting out of beta in Stream with usage-based billing",
+      "Gaming: Wolfenstein 3 officially in production at MachineGames, announced at Xbox's 25th anniversary FanFest",
+      "Gaming: 25 original Xbox games now on PC via backward compatibility including KOTOR and Morrowind; Halo Firefight coming in a free winter update",
+      "Homelab: A $15 first-gen Raspberry Pi Zero used as the quorum tie-breaker QDevice keeping a 2-node Proxmox cluster's HA alive",
+      "Stocks: Thu close \u2014 S&P 500 -0.35% to 7,592, Dow/Nasdaq ~-0.4%, 10-year yield closed above 5%, gold ~-3%, VIX 18.7; next week Nvidia earnings Tue and Anthropic IPO pricing Wed/trading Thu",
+      "Stocks: Datadog closed $184.46, +0.04% \u2014 flat, ticking up to ~$185 after hours",
+      "Local: Released minutes show Lowell council's 8-1 closed-session Oct 6 vote reactivating Flock plate cameras without data sharing; DeFlock Lowell files open-meeting-law complaint",
+      "Local: Highlands group \u2014 Toys for Tots craft fair Fri Nov 27 at Tyngsborough Sports Center, 40+ vendors, free admission"
+    ]
   }
 ]
