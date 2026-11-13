@@ -14,6 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Midday briefing — Friday, November 13</title>
+      <description>Stories in this edition:
+• Brooklyn Flatbush collapse: search ends, final toll eight dead including two children, criminal inquiry opened and about 100 linked construction sites ordered inspected
+• Ukraine: Russia and Ukraine working on potentially the war's largest prisoner exchange, amid fresh drone strikes in Odesa, Sumy and Volgograd
+• Iran: Revolutionary Guards claim a US radar destroyed in Bahrain and an LNG tanker mine strike in Hormuz — unverified, no US comment; Trump pulls Vance from Iran talks
+• Pope Leo in Peru: meets six clergy abuse survivors in Lima as record crowds line the streets
+• Kansas: Democrat Cindy Holscher elected governor after a two-day count
+• Health: American Cancer Society updates prostate screening guidance — PSA test every two years for men 50 to 69 at average risk
+• Justice Department: court authorizes seizure of over $1.2 billion in crypto stolen from Binance, hack attributed by the FBI to North Korea, which denies it
+• Unhinged fun fact: the tube-lipped nectar bat stores its tongue, 150 percent of its body length, in its rib cage near its heart
+• Microsoft 365 outage update: Teams restored, email delivery improving and backlog clearing, incident still open, no sign of cyberattack
+• Anthropic IPO: orders about six times the shares on offer, pricing planned Wednesday, trading expected Thursday; Nvidia's $10 billion placement under scrutiny
+• Gaming: more than thirteen Xbox releases today, led by retro-inspired shooter Derelikt, plus a leaf blower simulator
+• Homelab: three $20 thrift-store desktops run as a Proxmox cluster for 90 days — 114 watts idle, about $42 in power
+• Stocks midday: PPI up 0.3 percent in October, 6.5 percent on the year, highest since November 2022; S&amp;P down 0.93 percent, Nasdaq down 1.42 percent, Dow down 0.41 percent at mid-morning; Nvidia still sliding
+• Datadog midday: $179.16 late morning, down 2.87 percent from Thursday's close after opening at $188
+• Lowell: roughly $300 million sewer and water upgrade advancing, Lower Highlands test pits wrapping, Merrimack River drinking water for about 700,000 people
+• Lowell local: Lowell Memorial Auditorium and Merrimack Valley Food Bank food drive through November shows; Merrimack Valley Eats group pushing Plaistow lobsters and steamers</description>
+      <pubDate>Fri, 13 Nov 2026 11:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-13.mp3" length="15490605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-midday-2026-11-13.mp3</guid>
+      <itunes:duration>387</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Morning briefing — Friday, November 13</title>
       <description>Stories in this edition:
 • Lead: Microsoft 365 outage still running overnight — Outlook, Teams, SharePoint and Copilot down in every region, restored servers failing again under traffic, no root cause or ETA, no sign of cyberattack per Microsoft
