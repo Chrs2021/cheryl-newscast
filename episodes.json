@@ -2587,5 +2587,31 @@
       "Lowell: city advancing 40 Market Street as a one-stop home for city departments, $3.6 million purchase, up to $650,000 for design consultant, bids due December 2",
       "Lowell local: Highlands neighborhood group post says Engine 11 closed 48 hours, calling it the 61st fire company brownout of 2026, with residents arguing the closures risk safety"
     ]
+  },
+  {
+    "edition": "morning",
+    "date": "2026-11-14",
+    "file": "cheryl-news-morning-2026-11-14.mp3",
+    "bytes": 17339565,
+    "duration_sec": 433,
+    "stories": [
+      "Lead: FAA ground stop lifted 8:15pm Fri after ~5h \u2014 longest in 25 years; officials blame new equipment overloading older ATC systems, ~10,000 flights canceled through Saturday, recovery to take days, no cyberattack sign",
+      "World: Germany's Bundestag votes 308-190 to expand intelligence powers \u2014 BND hacking/disruption abroad, domestic ops need oversight council approval",
+      "World: Iran and US give conflicting accounts of Bahrain incident \u2014 Iran claims US radar destroyed; CENTCOM says radar unharmed, two Iranian drones intercepted, no injuries",
+      "World: Pope Leo holds outdoor Mass outside Chiclayo, Peru, his former diocese \u2014 ~500k at Mass, ~1M along route, largest crowds of his papacy, one month after lung cancer surgery",
+      "US: New Orleans tanker collision update \u2014 32 taken to hospitals, no critical injuries, all aboard survived, cause under investigation",
+      "US: Medicaid work-requirement enforcement delayed \u2014 optional CMS hold-harmless through June 30, 2027; 80-hour rule still technically starts Jan 1",
+      "US: National Weather Service confirms radar/network normal after outdated web notices sparked outage reports",
+      "Fun fact: Deep-sea divine dragon glistenworm hosts a new organelle, the dracosphera \u2014 20+ membrane layers packed with bacteria, named after Dragon Ball",
+      "Tech: OpenAI launches ChatGPT Wallet for US Pro subscribers \u2014 agents can pay via card tokens with per-purchase user approval",
+      "Tech: Nvidia board reportedly approaches Arm CEO Rene Haas as Huang successor candidate; Huang faces Senate questions ahead of Tuesday earnings",
+      "Gaming: Xbox 25th anniversary limited Series X ($899.99) sells out at launch; resale listings advertise $2,000+",
+      "Homelab: geforce-sriov v0.2.0 beta brings SR-IOV vGPU sharing to consumer Nvidia Ampere/Ada cards for Proxmox VMs",
+      "Stocks: Friday close/week \u2014 S&P 500 -0.40% to 7,561 (week +2.5%), Nasdaq -0.91% to 25,136, Dow +0.10% to 52,347, 10-year yield 5.15%",
+      "Stocks: Nvidia -2.0% Fri to $162.85, week -12.75%, sixth straight weekly decline (longest since 2012); AMD -8.75% Fri",
+      "Stocks: Datadog closed $184.16, -0.16% Friday but +~5.5% over five sessions; next week Nvidia earnings Tue, Anthropic pricing Wed/trading Thu",
+      "Local: Lowell advancing $300M sewer program \u2014 150-year-old pipes, 60% combined lines, ~430M gal/yr overflow, Lower Highlands test pits, Centralville $200M piece, through 2032",
+      "Local: MeVa Route 28 (Lawrence\u2013Methuen\u2013Salem NH) logged 24,193 trips in its first six months, ridership growing"
+    ]
   }
 ]

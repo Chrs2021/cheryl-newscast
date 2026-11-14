@@ -14,6 +14,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://feeds.secwarz.com/art/cover.jpg"/>
     <item>
+      <title>Morning briefing — Saturday, November 14</title>
+      <description>Stories in this edition:
+• Lead: FAA ground stop lifted 8:15pm Fri after ~5h — longest in 25 years; officials blame new equipment overloading older ATC systems, ~10,000 flights canceled through Saturday, recovery to take days, no cyberattack sign
+• World: Germany's Bundestag votes 308-190 to expand intelligence powers — BND hacking/disruption abroad, domestic ops need oversight council approval
+• World: Iran and US give conflicting accounts of Bahrain incident — Iran claims US radar destroyed; CENTCOM says radar unharmed, two Iranian drones intercepted, no injuries
+• World: Pope Leo holds outdoor Mass outside Chiclayo, Peru, his former diocese — ~500k at Mass, ~1M along route, largest crowds of his papacy, one month after lung cancer surgery
+• US: New Orleans tanker collision update — 32 taken to hospitals, no critical injuries, all aboard survived, cause under investigation
+• US: Medicaid work-requirement enforcement delayed — optional CMS hold-harmless through June 30, 2027; 80-hour rule still technically starts Jan 1
+• US: National Weather Service confirms radar/network normal after outdated web notices sparked outage reports
+• Fun fact: Deep-sea divine dragon glistenworm hosts a new organelle, the dracosphera — 20+ membrane layers packed with bacteria, named after Dragon Ball
+• Tech: OpenAI launches ChatGPT Wallet for US Pro subscribers — agents can pay via card tokens with per-purchase user approval
+• Tech: Nvidia board reportedly approaches Arm CEO Rene Haas as Huang successor candidate; Huang faces Senate questions ahead of Tuesday earnings
+• Gaming: Xbox 25th anniversary limited Series X ($899.99) sells out at launch; resale listings advertise $2,000+
+• Homelab: geforce-sriov v0.2.0 beta brings SR-IOV vGPU sharing to consumer Nvidia Ampere/Ada cards for Proxmox VMs
+• Stocks: Friday close/week — S&amp;P 500 -0.40% to 7,561 (week +2.5%), Nasdaq -0.91% to 25,136, Dow +0.10% to 52,347, 10-year yield 5.15%
+• Stocks: Nvidia -2.0% Fri to $162.85, week -12.75%, sixth straight weekly decline (longest since 2012); AMD -8.75% Fri
+• Stocks: Datadog closed $184.16, -0.16% Friday but +~5.5% over five sessions; next week Nvidia earnings Tue, Anthropic pricing Wed/trading Thu
+• Local: Lowell advancing $300M sewer program — 150-year-old pipes, 60% combined lines, ~430M gal/yr overflow, Lower Highlands test pits, Centralville $200M piece, through 2032
+• Local: MeVa Route 28 (Lawrence–Methuen–Salem NH) logged 24,193 trips in its first six months, ridership growing</description>
+      <pubDate>Sat, 14 Nov 2026 04:30:00 -0500</pubDate>
+      <enclosure url="https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-14.mp3" length="17339565" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://feeds.secwarz.com/episodes/cheryl-news-morning-2026-11-14.mp3</guid>
+      <itunes:duration>433</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
       <title>Evening briefing — Friday, November 13</title>
       <description>Stories in this edition:
 • FAA nationwide ground stop: all US departures halted from just before 4 p.m. over an air traffic control communication failure, nearly 7,000 flights delayed or canceled, advisory to 11:30 p.m., no indication of a cyberattack
